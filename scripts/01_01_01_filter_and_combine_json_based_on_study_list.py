@@ -12,20 +12,15 @@ Output
 
 import pandas as pd
 import json
+from helpers.ctgov_helper_functions import grab_single_nct_json_from_whole_dump
 
-def grab_single_nct_json_from_whole_dump(nct_number, json_dump_dir = "../input/untracked/AllAPIJSON"):
-	nct_dictionary = f"{json_dump_dir}/{nct_number[:7].upper()}xxxx/{nct_number.upper()}.json"
-	try:
-		with open(nct_dictionary,"r") as f:
-			json_doc = json.load(f)
-		return json_doc
-	except:
-		print(f"Current NCT file for {nct_number} is not found in the directory")
-
+condition_name = "covid19"
+date_accessed = "20210616"
+studies_input_file_basename = f"{condition_name}_{date_accessed}"
 studies_input_base_dirname = "../input/raw/studies"
-studies_input_file_basename = "covid19_20210225"
 studies_input_fname = f"{studies_input_base_dirname}/{studies_input_file_basename}.csv"
 df_input_studies = pd.read_csv(studies_input_fname, na_filter = False, dtype=str)
+json_dump_dir = f"../input/untracked/AllAPIJSON_{date_accessed}"
 
 header = [
 	"NCTId",
@@ -38,7 +33,7 @@ header = [
 df_output_studies = pd.DataFrame(columns =(header))
 
 for nct_id in df_input_studies["NCT Number"]:
-	current_nct_whole_doc = grab_single_nct_json_from_whole_dump(nct_id)
+	current_nct_whole_doc = grab_single_nct_json_from_whole_dump(nct_id,json_dump_dir)
 	## In case we did not get a json document we will keep the loop
 	if not current_nct_whole_doc:
 		print(f"Current NCT file for {nct_id} is not found in the directory")
