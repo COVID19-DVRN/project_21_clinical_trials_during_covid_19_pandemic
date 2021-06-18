@@ -1,0 +1,5485 @@
+InterventionName_lower,Freq
+,923
+placebo,657
+hydroxychloroquine,110
+standard of care,84
+convalescent plasma,62
+no intervention,61
+remdesivir,51
+questionnaire,48
+tocilizumab,44
+azithromycin,40
+ivermectin,35
+survey,34
+placebo oral tablet,33
+favipiravir,29
+blood sample,28
+standard care,24
+covid-19 vaccine,21
+dexamethasone,21
+methylprednisolone,18
+nitazoxanide,18
+enoxaparin,18
+usual care,17
+placebos,16
+vitamin d,16
+colchicine,16
+vitamin c,16
+blood sampling,15
+normal saline,15
+data collection,15
+bnt162b2,15
+standard of care (soc),14
+questionnaire administration,13
+control,13
+saline,13
+hydroxychloroquine sulfate,13
+prone position,13
+questionnaires,12
+online survey,12
+lung ultrasound,12
+anakinra,12
+lopinavir/ritonavir,12
+baricitinib,11
+covid-19 convalescent plasma,11
+nasopharyngeal swab,11
+mrna-1273,11
+ruxolitinib,10
+camostat mesilate,10
+standard treatment,10
+azd1222,10
+zinc,9
+control group,9
+losartan,9
+observational,9
+rivaroxaban,8
+vitamin d3,8
+bcg vaccine,8
+quality-of-life assessment,8
+blood test,8
+gam-covid-vac,8
+interferon beta-1a,7
+interview,7
+camostat,7
+saliva collection,7
+covid-19,7
+biospecimen collection,7
+prone positioning,7
+sarilumab,7
+telerehabilitation,7
+placebo administration,7
+covid-19 pandemic,7
+ad26.cov2.s,7
+observation,7
+bamlanivimab,7
+chloroquine,7
+cholecalciferol,7
+vir-7831,7
+recombinant novel coronavirus vaccine (adenovirus type 5 vector),7
+standard therapy,6
+hydroxychloroquine (hcq),6
+nafamostat mesilate,6
+standard medical treatment,6
+oseltamivir,6
+heparin,6
+soc,6
+anti-sars-cov-2 convalescent plasma,6
+uc-mscs,6
+mesenchymal stromal cells,6
+das181,6
+melatonin,6
+interferon beta-1b,6
+best practice,6
+online questionnaire,6
+aspirin,6
+blood draw,6
+azd7442,6
+niclosamide,5
+pulmonary rehabilitation,5
+clazakizumab,5
+covid-19 vaccines,5
+povidone-iodine,5
+ly3819253,5
+sars-cov-2 convalescent plasma,5
+therapeutic plasma exchange,5
+fluvoxamine,5
+standard of care treatment,5
+infliximab,5
+survey administration,5
+prednisone,5
+telemedicine,5
+ampion,5
+serology,5
+exercise,5
+blood samples,5
+ascorbic acid,5
+coronavac,5
+blood tests,5
+rt-pcr,5
+sargramostim,5
+questionnaire assesment,5
+0.9% saline,5
+echocardiography,5
+mavrilimumab,5
+other,4
+tofacitinib,4
+placebo capsules,4
+hydroxychloroquine + azithromycin,4
+cellectra® 2000,4
+famotidine,4
+rls-0071,4
+human biological samples,4
+adsorbed covid-19 (inactivated) vaccine,4
+had5-s-fusion+n-etsd vaccine,4
+low dose radiotherapy,4
+dwrx2003,4
+opaganib,4
+hcq,4
+spirometry,4
+saliva sample,4
+chloroquine or hydroxychloroquine,4
+covi-amg,4
+scta01,4
+regn10933+regn10987 combination therapy,4
+covi-msc,4
+placebo comparator,4
+anti-sars-cov2 serology,4
+n-acetylcysteine,4
+lopinavir / ritonavir,4
+observational study,4
+proxalutamide,4
+exercise training,4
+oxygen,4
+oxygen therapy,4
+electronic health record review,4
+nitric oxide,4
+hyperbaric oxygen,4
+covid-19 rt-pcr,4
+behavioral intervention,4
+transcranial direct current stimulation,4
+best supportive care,4
+ivermectin tablets,4
+ecg,4
+naltrexone,4
+cvncov vaccine,4
+serological test,4
+allocetra-ots,4
+normal saline (0.9% sodium chloride solution) - stage 1,4
+unfractionated heparin,4
+inactivated sars-cov-2 vaccine (vero cell),4
+colchicine tablets,4
+apixaban,4
+pirfenidone,4
+acalabrutinib,4
+matching placebo,4
+phone call,4
+doxycycline,4
+eculizumab,4
+ensovibep,3
+data record,3
+av-covid-19,3
+abatacept,3
+ayurveda,3
+surgery,3
+ino-4800,3
+cyclosporine,3
+dzif-10c,3
+eidd-2801,3
+ofatumumab,3
+convalescent plasma (cp),3
+covid-19 serology,3
+hydroxychloroquine sulfate 200 mg,3
+surgical mask,3
+slv213,3
+selinexor,3
+fostamatinib,3
+apixaban 2.5 mg,3
+methylprednisolone sodium succinate,3
+sodium bicarbonate,3
+ub-612,3
+yoga,3
+non-interventional,3
+hydroxychloroquine and azithromycin,3
+ty027,3
+cannabidiol,3
+nitric oxide gas,3
+experimental group,3
+hyperimmune plasma,3
+supportive care,3
+sars-cov-2 vaccine,3
+sars-cov-2 serology,3
+exhaled breath sampling,3
+telmisartan,3
+plasma,3
+recombinant new coronavirus vaccine (cho cells) placebo group,3
+ibrutinib,3
+colchicine 0.5 mg,3
+hzvsf-v13,3
+avigan 200 mg film tablets,3
+placebo intravenous,3
+brii-196 and brii-198,3
+sng001,3
+ribavirin,3
+coviage,3
+resveratrol,3
+exercise capacity,3
+snpp protoporphyrin plus sunlight exposure,3
+hyperbaric oxygen therapy,3
+vitamin super b-complex,3
+convalescent plasma transfusion,3
+nasal swab,3
+quercetin,3
+prospective study with two measurement points investigating the impact of viral mitigation protocols on mental health,3
+blood donation sms,3
+placebo inhalation,3
+mindfulness based intervention,3
+placebo oral capsule,3
+canakinumab,3
+low dose radiation therapy,3
+lanadelumab,3
+clopidogrel,3
+3d telemedicine,3
+atorvastatin,3
+pulmozyme,3
+remdesivir placebo,3
+ace inhibitor,3
+peginterferon lambda-1a,3
+mri,3
+placebo (normal saline solution),3
+blood collection,3
+therapeutic anticoagulation,3
+clinical examination,3
+splenic ultrasound,3
+clinical data,3
+clinical assessment,3
+mesenchymal stem cell,3
+povidone-iodine nasal spray and gargle,3
+chloroquine phosphate,3
+acetylsalicylic acid,3
+peripheral blood draw,3
+niclosamide oral tablet,3
+comparator,3
+mesenchymal stem cells,3
+bnt162b1,3
+rehabilitation,3
+acupressure,3
+moderna covid-19 vaccine,3
+vpm1002,3
+rad26-s,3
+distilled water,3
+ly3832479,3
+interleukin-7,3
+remestemcel-l,3
+lenzilumab,3
+sars-cov-2,3
+n-acetyl cysteine,3
+bcg-denmark,3
+low molecular weight heparin,3
+corticosteroid,3
+ag0302-covid19,3
+suspension of heat killed (autoclaved) mycobacterium w,3
+exposure,3
+probiotic,3
+fisetin,3
+methotrexate,3
+ct-scan,3
+hydrocortisone,3
+chadox1 ncov-19,3
+ravulizumab,3
+self-administered questionnaire,3
+aerosolized 13 cis retinoic acid,3
+at-527,3
+biological sample collection,3
+phase 2,3
+self supportive care (ssc) alone,3
+pcr,3
+leronlimab (700mg),3
+indicators of central sensitisation,2
+sars-cov2 infection,2
+biological samples,2
+biosensor,2
+sars-cov-2 virus,2
+blood collection on admission and longitudinally,2
+elispot,2
+blood collection on their first consultation and 10 to 14 days later,2
+rapid diagnostic test vs pcr,2
+sars-cov2 testing,2
+covid-19 exposure,2
+tele-yoga therapy,2
+olokizumab 64 mg,2
+information,2
+plx-pad,2
+covid-19 test referral,2
+biological data,2
+sars-cov-2 inactivated vaccine,2
+bbv152,2
+nors (nitric oxide releasing solution),2
+medium dosage inactivated sars-cov-2 vaccine on a 0- and 28-day schedule,2
+basic treatment,2
+sars-cov-2 diagnostic rapid test,2
+medium dosage inactivated sars-cov-2 vaccine,2
+baricitinib oral tablet,2
+therapeutic plasma exchange (tpe),2
+covid19,2
+normal saline 0.9%,2
+whole exome sequencing,2
+normal saline (0.9% sodium chloride solution)- stage 2,2
+2d telemedicine,2
+covid19 vaccine,2
+this is an online survey with no intervention.,2
+file scanning,2
+bacille calmette-guérin (bcg),2
+practice details,2
+azithromycin tablets,2
+prayer,2
+intramuscular vaccine,2
+throat swab,2
+meditation (1 x 20-minute guided audio training),2
+thymalfasin,2
+fear of covid-19 scale,2
+awake proning,2
+awake prone positioning,2
+covid-19+ observational,2
+sars-cov-2 mrna vaccine,2
+covid-19 infection,2
+fit test,2
+telerehabilitation-based,2
+xav-19,2
+covid-19 patients,2
+follow up,2
+binaxnow rapid antigen system,2
+poly-iclc (hiltonol®) or placebo,2
+bicalutamide 150 mg oral tablet,2
+bi 767551 intravenous,2
+ec-18,2
+bevacizumab injection,2
+ebselen,2
+fluoxetine,2
+covid-19 self-test,2
+best standard of care,2
+best available treatment,2
+covid-19 standard of care,2
+covid-19 survey,2
+bemiparin,2
+flow cytometric analysis,2
+covid-19 test,2
+fuzheng huayu tablet,2
+sars-cov-2 pcr,2
+thalidomide,2
+covid-19 therapeutic biologics - spike-gm-csf protein lactated ringer's injection,2
+nowdx covid-19 test,2
+vla2001,2
+novaferon,2
+td-0903,2
+recombinant new coronavirus vaccine (cho cell) low-dose group,2
+elisa,2
+human amniotic fluid,2
+sputnik light,2
+hb-admscs,2
+honey,2
+hormones,2
+pentoxifylline,2
+gx-i7,2
+gx-19n,2
+standard care therapy,2
+sevoflurane,2
+standard covid-19 care,2
+concert,2
+services as usual,2
+guduchi ghan vati,2
+pcr test,2
+chloroquine sulfate,2
+conjunctival swab,2
+human immunoglobulin,2
+serum testing,2
+hydrogen peroxide,2
+cenicriviroc,2
+patient-reported online questionnaire on olfactory & taste disturbances,2
+metformin glycinate,2
+zinc gluconate,2
+serology test for covid-19,2
+serology test,2
+hydroxychloroquine - daily dosing,2
+hydroxychloroquine - weekly dosing,2
+hydroxychloroquine 200 mg oral tablet,2
+chloroquine diphosphate,2
+home exercise program,2
+imu-838,2
+physiotherapy,2
+physical examination,2
+hfnc,2
+cohort,2
+high dosage inactivated sars-cov-2 vaccine,2
+high dosage inactivated sars-cov-2 vaccine on a 0- and 28-day schedule,2
+soc + placebo,2
+heparin sodium,2
+high flow nasal cannula (hfnc),2
+collection of biological samples,2
+sivomixx (200 billion),2
+high intensity interval training,2
+phone call interview,2
+sofosbuvir,2
+phase 1,2
+silmitasertib,2
+sirolimus,2
+sofosbuvir/daclatasvir,2
+clevudine,2
+comirnaty,2
+single dose of hydroxychloroquine,2
+simvastatin,2
+simple cognitive task intervention,2
+health supplements,2
+radiation therapy,2
+placebo (0.9% normal saline),2
+ciclesonide,2
+silymarin,2
+siltuximab,2
+metformin,2
+carrimycin,2
+mindfulness,2
+breath test,2
+icosapent ethyl,2
+conventional treatment,2
+non interventional study,2
+icu treatment,2
+placebo on a 0- and 28-day schedule,2
+brii-196/brii-198,2
+semi-directive interview,2
+0.9%sodium chloride,2
+coronary angiography,2
+education,2
+brequinar,2
+edp1815,2
+breathing exercise,2
+coronovac vaccine,2
+placebo control,2
+breath biopsy face masks with removable filters and fitted pva strip,2
+bovine lactoferrin,2
+placebo vaccine,2
+ophthalmologic exam,2
+covi-drops,2
+electronic questionnaire,2
+online questionnaires,2
+tacrolimus,2
+immunological profiling,2
+100 mg/ml virazole,2
+meplazumab for injection,2
+"taking blood samples (capillary and venous), saliva sampling and nasopharyngeal sampling.",2
+covid convalescent plasma,2
+conventional oxygen therapy,2
+bronchoalveolar lavage,2
+bucillamine,2
+seraph 100,2
+serological testing,2
+standard treatment for covid-19,2
+cardiopulmonary exercise test,2
+control treatment schedule,2
+cardiac surgery,2
+hydroxychloroquine sulfate 200 mg [plaquenil],2
+convalescent anti-sars-cov-2 mbt plasma,2
+cardiac magnetic resonance,2
+stc3141,2
+cardiac and electrodermal recordings,2
+grad-cov2,2
+stellate ganglion block,2
+paracetamol,2
+hydroxychloroquine sulfate loading dose,2
+hydroxychloroquine sulfate regular dose,2
+hydroxychloroquine sulfate tablets,2
+convalescent covid 19 plasma,2
+convalescent plasma (anti-sars-cov-2 plasma),2
+canine odor detection of volatile organic compounds,2
+placebo group,2
+convalescent plasma from covid-19 donors,2
+camostat mesylate,2
+glycine,2
+hyperbaric oxygen therapy (hbot),2
+stress levels and mental well-being assessment,2
+hyperimmune immunoglobulin to sars-cov-2 (hivig),2
+c21,2
+300 mg of omega3-fa,2
+early-dexamethasone,2
+physical exercise,2
+ivig,2
+aeonose,2
+aerobic exercise training,2
+nicotinamide riboside,2
+nicotinamide,2
+muscle ultrasound,2
+arbidol,2
+arb,2
+web based survey,2
+aerosol box,2
+veru-111,2
+trv027,2
+apremilast,2
+pulmonary function tests,2
+venous ultrasound,2
+lactoferrin,2
+expressive writing,2
+routine care for covid-19 patients,2
+appendectomy,2
+prone positioning (pp),2
+pulmonary function test,2
+pul-042 inhalation solution,2
+vehicle control,2
+reparixin,2
+pulmonary ultrasound,2
+epivaccorona (epivaccorona vaccine based on peptide antigens for the prevention of covid-19),2
+daclatasvir,2
+kb109 + self supportive care (ssc),2
+duvelisib,2
+transcranial direct-current stimulation,2
+lung ultrasound (lus),2
+4c mortality score,2
+vv-ecmo + cytokine adsorption (cytosorb adsorber),2
+pyronaridine-artesunate,2
+sab-185,2
+cyproheptadine hydrochloride 4 mg,2
+cyt107,2
+vv-ecmo only (no cytokine adsorption),2
+additional biological samples,2
+l-citrulline,2
+ruxolitinib oral tablet,2
+ketogenic diet,2
+adg20,2
+ruti® vaccine,2
+ruconest,2
+lucira covid-19 all-in-one test kit,2
+pulse oximeter,2
+rtb101,2
+nintedanib,2
+l-ascorbic acid,2
+ag0301-covid19,2
+50 mg/ml virazole,2
+mw33 injection,2
+angiotensin converting enzyme inhibitor,2
+nanocovax,2
+dexamethasone injection,2
+alteplase 50 mg [activase],2
+uvc irradiation,2
+exo 2 inhalation,2
+angiotensin-(1-7),2
+deferoxamine,2
+lopinavir/ ritonavir,2
+defibrotide,2
+exo 1 inhalation,2
+lopinavir-ritonavir,2
+99mtc-pertechnetate aerosol,2
+angiotensin 1-7,2
+ambrisentan,2
+nasopharyngeal swabs,2
+retrospective data collection,2
+nasal spray,2
+recombinant covid-19 vaccine (sf9 cells),2
+retrospective analysis,2
+exercise group,2
+exercise brochure,2
+6-minute walk test,2
+risk factors,2
+tinzaparin,2
+mw33 injection placebo,2
+low dosage inactivated sars-cov-2 vaccine on a 0- and 28-day schedule,2
+neuromuscular electrical stimulation,2
+antithrombin iii,2
+"two doses of low dosage inactivated sars-cov-2 vaccine at the schedule of day 0,28",2
+"two doses of medium dosage inactivated sars-cov-2 vaccine at the schedule of day 0,28",2
+resistance exercise,2
+diagnostic test,2
+leflunomide,2
+diagnostic laboratory biomarker analysis,2
+neurocognitive assessment,2
+leronlimab,2
+data collection and clinical testing of subjects,2
+data extraction from medical files,2
+antibody test,2
+"resp301, a nitric oxide generating solution",2
+"two doses of placebo at the schedule of day 0,28",2
+txa127,2
+rivaroxaban 10 mg,2
+levamisole and isoprinosine,2
+6 minute walk test,2
+nacl,2
+anti-sars-cov-2 human convalescent plasma,2
+molnupiravir,2
+nitrogen gas,2
+exercise & nutrition,2
+tranexamic acid,2
+ion mobility spectrometry (ims),2
+double-trunk mask,2
+saline solution,2
+saline placebo,2
+probiotics,2
+favipiravir placebo,2
+crizanlizumab,2
+matched placebo,2
+isoquercetin,2
+volatile organic compounds analysis,2
+mout-to-mouth ventilation with quantitative analysis,2
+iodine complex,2
+disulfiram,2
+mout-to-mouth ventilation,2
+dwj1248,2
+sample collection,2
+doxycycline tablets,2
+acebilustat,2
+abidol hydrochloride,2
+tofacitinib 10 mg,2
+ct-p59,2
+dose of tinzaparin or dalteparin,2
+tocilizumab (tcz),2
+saliva samples,2
+maltodextrin,2
+attention placebo,2
+no interventions,2
+saliva sample collection,2
+recop unit patient,2
+dornase alfa inhalation solution [pulmozyme],2
+ct scan,2
+quality of life,2
+montelukast,2
+"magpro x100 stimulator, b70 fluid-cooled coil",2
+tocilizumab injection,2
+recommended treatment schedule,2
+ivermectin and doxycycline,2
+no intervention (retrospective cohort observational),2
+m5049,2
+avigan,2
+mrna-1273.351,2
+ivermectin oral product,2
+pregnant women with laboratory-confirmed 2019-n-cov,2
+msc,2
+ivermectin pill,2
+endotracheal intubation,2
+non,2
+avdoralimab,2
+non applicable,2
+acute kidney injury,2
+assessment of behavioral response to emotional stimulation,2
+vv-ecmo,2
+nivolumab,2
+recombinant new coronavirus vaccine (cho cells) high-dose group,2
+regn10933+regn10987,2
+enoxaparin 40 mg/0.4 ml injectable solution,2
+cvncov,2
+assessment of work-related stress,2
+autopsy,2
+psychological assessment,1
+psychological and physical rehabilitation based humanistic care,1
+pt pal,1
+pt-pal,1
+questionnaires covid-,1
+quinquina-stevia/azythromycin,1
+questionnaires and neuropsychological assessment,1
+questionnaires family,1
+placebo control + best supportive care,1
+placebo hydroxychloroquine,1
+placebo control (non-behavioral infographic),1
+physiological irrigating solution,1
+physical exercises,1
+quasistatic pressure-volume curve,1
+placebo ec-18,1
+psychological and behaviour change support,1
+quality of life assessment,1
+physiological saline solution,1
+questionnaires covid+,1
+pt-pcr test for sars-cov-2,1
+quality of life promotion,1
+physiological serum,1
+questionnaires for specific phobia,1
+quality of life questionnaires,1
+quality of live assessment,1
+placebo comparator: dw-ns,1
+placebo for hydroxychloroquine,1
+pt-x and imt,1
+placebo daclatasvir 60 mg,1
+placebo empty capsule,1
+psychological stress and adaptation at work score (psas),1
+physical exercise training,1
+placebo for camostat mesilate,1
+placebo for inhalation,1
+psychological support,1
+quantitative analysis for professionals,1
+psychological treatment,1
+quantitative analysis for patients,1
+psychoeducational intervention,1
+physical therapy,1
+placebo gel,1
+psychological triaging intervention,1
+placebo granules,1
+psychometric scale administration,1
+psychoeducation,1
+placebo for azithromycin,1
+physiological effects of awake prone position in covid 19 patients,1
+placebo for abbv-47d11,1
+quantiferon,1
+placebo for abbv-2b04,1
+physical therapy exercise,1
+physical therapy that include a standardized cycling training with functional electrical stimulation,1
+psycho-social questionnaire,1
+quantra system,1
+psycho-education video,1
+physical therapy that include a standardized cycling training with no additional functional electrical stimulation,1
+quantitative antibody tests,1
+psycho-education,1
+"placebo for ""deficiency of qi and yang""",1
+psychological and sociological interviews,1
+"placebo for ""deficiency of qi and yin""",1
+questionnaires on psychological quality of life,1
+ptc299,1
+ptsd,1
+purapo,1
+placebo (methylcellulose) capsule,1
+pulse oximetry,1
+placebo (oral tablet),1
+qazcovid-in® - covid-19 inactivated vaccine,1
+piperacillin/tazobactam,1
+placebo (pbo),1
+placebo (plasma-lyte 148),1
+pulmozyme/ recombinant human deoxyribonuclease (rh-dnase),1
+placebo (potato starch and magnesium stearate),1
+piperacillin-tazobactam,1
+placebo (saline),1
+qazcovid-in®-vaccine against covid-19,1
+placebo (sc injections),1
+quercetin phytosome,1
+quetiapine,1
+pulmonary vascular permeability index,1
+pioglitazone 45 mg,1
+"placebo (sodium chloride bufus, solvent for the preparation of dosage forms for injection 0.9%)",1
+placebo (iv),1
+purclo,1
+purinf,1
+pwv,1
+placebo (1 tablet daily during 60 days) + personal protective equipment (ppe),1
+placebo (carrier control),1
+pyronaridine-artesunate (pa),1
+placebo (crossover vaccination period),1
+q-nrg metobolic cart device,1
+placebo (hartmann plus albumine),1
+pyridostigmine bromide,1
+placebo (human albumin 1%),1
+quantitative analysis of anti-sars-cov-2-antibodies,1
+placebo (initial vaccination period),1
+purwet,1
+quetionnary,1
+placebo (im),1
+q16 testing,1
+placebo (inhaled solution),1
+pk test,1
+pitavastatin,1
+purphl,1
+pioglitazone 30 mg,1
+pulmonary telerehabilitation,1
+qrt-pcr and serology,1
+public space exposure,1
+placebo 0.10 mg + 1.00 mg/kg,1
+placebo 0.20 mg + 2.00 mg/kg,1
+placebo 0.9% nacl solution,1
+placebo 1,1
+pulmonary anomalies 4 months after documented covid-19 pneumonia,1
+placebo 2,1
+pulmonary and motor rehabilitation,1
+placebo 250 cc 24 hours continuous infusion for 15 days,1
+quidel sofia sars antigen fia,1
+qualitative interviews (in 40 patients : 20 with covid-19 and 20 without covid-19),1
+physiology,1
+placebo atazanavir,1
+placebo booster,1
+public health england gold standard,1
+ptx-covid19-b,1
+ptsd check list (pcl) scale,1
+physiological testing,1
+placebo comparator: dw-ni,1
+placebo - starch powder soft gels,1
+piclidenoson,1
+"placebo (sodium chloride, a 0.9% solution for the preparation of dosage forms for injections)",1
+"questionnaires, spirometry",1
+pioglitazone,1
+"placebo (two doses), priming",1
+placebo + soc,1
+pulmonary tele-rehabilitation,1
+placebo + vitamin d,1
+quadramune(tm),1
+questionnary,1
+quantitative and qualitative assessments of mental health,1
+quadrivalent influenza vaccine (qiv),1
+qualitative and quantitative virus pcr of respiratory secretions in patients with high aerosol concentrations,1
+pilot a rapid sars-cov-2 testing strategy,1
+questionnaires patient,1
+pilates exercises,1
+pulmonary physiotherapy techniques,1
+pulmonary function tests (pft),1
+placebo - phase i,1
+qualitative analysis for professionals,1
+pulmonary function testing,1
+quantitative analysis of sars-cov-2 antibodies,1
+pregnant women under investigation for coronavirus or diagnosed with covid-19,1
+psychiatric counseling,1
+positive for sars-cov-2 infection,1
+polymorphism of the hsd3b1,1
+polyoxidonium,1
+pool lamp,1
+pool rt-pcr,1
+progressive cycling exercise test to exhaustion,1
+poractant alfa,1
+prognostic score,1
+positive covid test result - hypothetical scenario,1
+progesterone 200 mg oral capsule,1
+questionnaire for evaluation of confinement on deviant sexual fantasies,1
+positive feedback,1
+positive psychology (pp) exercises,1
+placebo inhaled,1
+progesterone 100 mg,1
+positive psychotherapy,1
+post covid-19 functional satus scale,1
+produce prescription program,1
+post traumatic stress disorder questionnaire (ptsd-8),1
+questionnair about emerging legal and ehical disputes over patient confidentiality,1
+procedure : multimodal microvascular assessment at study inclusion,1
+"post traumatic, anxiety and depression evaluation",1
+problem-solving and relationship improvement intervention.,1
+post-intensive care unit syndrome,1
+postpartum women under investigation for coronavirus or diagnosed with covid-19,1
+polymerase chain reaction (pcr) test,1
+questionnaire forms,1
+progressive muscle relaxation,1
+point-of-care ultrasonography (pocus),1
+plitidepsin 1.5 mg/day,1
+plitidepsin 2.0 mg/day,1
+plitidepsin 2.5 mg/day,1
+pln-74809,1
+pneumococcal vaccine,1
+promotores de salud,1
+prolonged proned positioning,1
+prolonged exposure therapy,1
+pneumoniacheck,1
+poc covidx™ rapid antigen test,1
+poc sars-cov-2 igg antibody test,1
+poct,1
+point of care testing device for c-reactive protein,1
+questionaire,1
+"questionnaire including validated tools such as patient health questionnaire (phq-9), the 7-item generalised anxiety disorder (gad- 7), the 7-item insomnia severity index",1
+questionaire to husband and wife,1
+prolectin-m; a (1-6)-alpha-d-mannopyranose class,1
+prolastin,1
+"point of care ultrasound including echocardiography, lung ultrasound, vascular ultrasound",1
+point-of-care rapid anti-sars-cov-2 antibody test (orient gene biotech) and dry blood spot collection (euroimmun),1
+project echo,1
+progressive muscle relaxation training,1
+point-of-care test for sars-cov-2,1
+questionnaire filling,1
+questionnaire completion,1
+problem solving therapy (pst).,1
+press needles,1
+power breathe,1
+preservision areds formulation soft gels or tablets,1
+prasugrel,1
+questionnaire and optional interview,1
+preservative-free saline,1
+prasugrel hydrochloride 10 mg oral tablet,1
+prazosin,1
+pre-operative screening,1
+pre_dinner yoga-based breathing support,1
+pre_lunch yoga-based breathing support,1
+questionnaire and interview,1
+"predict admission of covid-19 patients to icu and death with routine and quickly avalaible clinical, biological and radiological variables?",1
+prediction market,1
+"questionnaire administration,blood sampling and genetic analyses.",1
+physical exercise and computerized cognitive training,1
+predictive factors for clinical response in patients with covid-19.,1
+predictors adverse evolution,1
+presence of specific anti-sars-cov-2 antibodies,1
+premier biotech covid-19 igg/igm rapid test cassette,1
+predictors of health care provide,1
+prednisolone,1
+prednisolone 5 mg,1
+prednisone tablet,1
+povidone-iodine solution 1.25% w/w [0.125% available iodine] usp,1
+prevalence of covid-19,1
+postural positioning,1
+preventive information,1
+questionnaire collection,1
+problem management plus,1
+povidine iodine nasal swabs,1
+probiotics (2 strains 10x10^9 ufc),1
+probiorinse,1
+pro-sero-cov,1
+"pro bnp , vitamin d",1
+primepro™/ primemsk™,1
+primepro,1
+povidone-iodine 0.4% ni,1
+povidone-iodine 0.5%,1
+primary exposure status of pfizer-biontech covid-19 vaccine,1
+povidone-iodine 0.5% ni,1
+questionnaire by phone call,1
+primary exposure is hypoxia (no intervention),1
+povidone-iodine 0.5% ns,1
+questionnaire : preparedness for caregiving scale,1
+"primary care professionals reports of potential patient safety incidents, non-covid-19 related",1
+povidone-iodine 0.6% ni,1
+povidone-iodine 0.6% ns,1
+povidone-iodine 2%,1
+primary care,1
+previfenon®,1
+plitidepsin,1
+plethysmography & dlco,1
+questionnaire survey,1
+prospective study across two time-points examining the impact of viral mitigation protocols on mental health,1
+placebo oral solution,1
+prospective observation,1
+prospective oberservational registry,1
+placebo patch,1
+prospective cohort in high body mass index patient with covid 19,1
+placebo plain water mouth rinse arm,1
+placebo plus standard preventive measures,1
+placebo pmdi,1
+prospective chart review,1
+quercetin phytosome (qp),1
+placebo ribavirin,1
+placebo rinse,1
+placebo saline,1
+placebo single,1
+placebo sofusbuvir + daclatasvir 60 mg,1
+placebo solution,1
+placebo spray,1
+placebo starch,1
+placebo subcutaneous solution,1
+placebo tablet,1
+prosocial-benefit,1
+placebo therapy,1
+placebo to match rdv,1
+placebo oral capsule; from august 2020 'no additional treatment',1
+prospective study with two measurement points investigating the impact of viral mitigation protocols on parental burnout,1
+placebo with remdesivir,1
+placebo oral,1
+pss (perceived stress scale),1
+psqi,1
+placebo injection and placebo pill,1
+psg,1
+placebo magnesium,1
+placebo mini drinks,1
+placebo multiple,1
+psc-04,1
+placebo nebuliser solution,1
+placebo nitazoxanide,1
+proxalutamide (gt0918),1
+placebo of excipient(s) will be administered,1
+placebo of fx06,1
+placebo of hydroxychloroquine,1
+placebo of lpv/r tablets,1
+placebo of nicotine transdermal patch,1
+placebo oil,1
+placebo on a 0- and 14-day schedule,1
+protrans®,1
+prototype swab,1
+protocolised mechanical ventilation strategy,1
+prothione™ (6g),1
+protective ventilation,1
+placebo videos,1
+placebo without radiofrequency.,1
+prone,1
+placenta-derived mmscs; cryopreserved placenta-derived multipotent mesenchymal stromal cells,1
+plaquenil 200mg tablet,1
+plasebo acupressure,1
+plasma donation,1
+plasma exchange,1
+plasma exchange and convalescent plasma,1
+prone position ventilation,1
+prone position group,1
+questionnaire with precaution information,1
+plasma expansion with ringer's acetate,1
+plasma from a volunteer donor,1
+prone position (pp),1
+plasma from convalescent patients with covid-19,1
+querying the insee database,1
+plasma from covid-19 convalescent patient,1
+plasma hyperimmune,1
+plasma igg levels,1
+plasma sampling,1
+plasma therapy using convalescent plasma with antibody against sars-cov-2,1
+prone lying position,1
+"platelet count, platelet, mean platelet volume and platelet distribution width in covid-19",1
+quesionnair,1
+prone decubitus,1
+pleth variability index,1
+plant stanol mini drinks,1
+quercetin treatment,1
+placebo- 0.10 mg/kg,1
+"questionnaire, phone call",1
+placebo- 0.20 mg/kg,1
+placebo- 1.00 mg/kg,1
+quercetin prophylaxis,1
+placebo- 2.00 mg/kg,1
+prosocial acts,1
+proprietary extract of nerium oleander,1
+propranolol hydrochloride,1
+placebo-lde phase 2,1
+propolis,1
+placebo-simulation of transcranial direct current stimulation,1
+propofol,1
+placebo/aluminum adjuvant of inactivated sars-cov-2 vaccine,1
+prophylaxis,1
+questionnaire-based observational study,1
+prophylactic/intermediate dose enoxaparin,1
+prophylactic lactoferrin daily,1
+placebo/control,1
+placebo: emtricitabine/tenofovir disoproxil placebo,1
+placebo: hydroxychloroquine,1
+prophylactic heparin,1
+proper diet,1
+placebo; 0.9% saline,1
+"questionnaire, same tools as before, with inclusion of pcl5 questionnaire too.",1
+placebo pbmt/smf,1
+pacritinib,1
+physical and cognitive activity,1
+nebulized saline,1
+netosis markers,1
+nestacell®,1
+neonatal resuscitation without ppe for the prevention of sars-cov-2 infection,1
+neonatal resuscitation with ppe for the prevention of sars-cov-2 infection,1
+negative covid test result - hypothetical scenario,1
+negative control,1
+nebulized sterile saline,1
+nebulized platelet lysate,1
+neuro +,1
+nebulized furosemide,1
+nebulized administration of zyesami™ or placebo,1
+nebulised unfractionated heparin (ufh),1
+nebulised recombinant tissue-plasminogen activator (rt-pa) - cohort 2 niv,1
+nebulised recombinant tissue-plasminogen activator (rt-pa) - cohort 2 imv,1
+nebulised recombinant tissue-plasminogen activator (rt-pa) - cohort 1,1
+nebulised heparin,1
+neural network diagnosis algorithm,1
+neuro -,1
+niagen,1
+new qiastat-dx fully automatic multiple pcr detection platform,1
+ngm621,1
+ng test,1
+next generation sequencing (ngs) analysis,1
+newsfeed function,1
+news score,1
+newborns from covid 19 positive mothers,1
+new screening strategy,1
+new ppe,1
+neuroimaging findings in patients with covid-19,1
+neutralizing antibodies,1
+neutralization assay,1
+neutral writing control,1
+neuropsychological assessment,1
+neuromuscular evaluation,1
+neuromuscular blocking agents,1
+neurology test,1
+ndv-hxp-s vaccine,1
+"ncapp, a cell phone-based auto-diagnosis system",1
+nbt-nm108,1
+nasafytol®,1
+naser al-husban,1
+nasal spray containing anti-sars-cov-2 antibodies derived from bovine colostrum,1
+nasal pharyngeal (np) swab samples,1
+nasal lavage,1
+nasal irrigation,1
+nasal dexamethasone,1
+nasal brushing,1
+narsoplimab,1
+nbp2001 adjuvanted with alum (rbd 50μg/dose),1
+narrow band ultraviolet b-band light,1
+narrative writing,1
+nanomix elab® covid-19 rapid antigen panel (non-interventional),1
+nangibotide,1
+naltrexone hydrochloride,1
+nafamostat mesylate,1
+nad+,1
+nasopharyngeal (np) swab,1
+nasopharyngeal and throat swab,1
+nasopharyngeal and throat/oropharyngeal swabs analyses by rt-pcr and ddpcr,1
+nasopharyngeal covid 19 rt-pcr,1
+nbp2001 adjuvanted with alum (rbd 30μg/dose),1
+nbi images and/or videos,1
+navigation services,1
+nature+mindfulness,1
+nature only,1
+natural killer cells infusion,1
+natural honey,1
+nasovax,1
+"nasopharyngeal, oropharyngeal, or saliva swab",1
+nasopharyngeal swabbing procedure (self swabbing first),1
+nasopharyngeal swabbing procedure (conventionnal swabbing first),1
+nasopharyngeal swab for covid-19 testing,1
+nasopharyngeal swab and main laboratory,1
+nasopharyngeal sampling,1
+nasopharyngeal samples,1
+nhanes smell and taste tests,1
+niclosamide + camostat,1
+physical activity program,1
+no intervention-mechanistic study,1
+no interverntion,1
+no interventions planned,1
+"no interventions performed. just collecting data, blood samples and post-mortem biopsies.",1
+no interventional study,1
+no intervention; observational study,1
+no intervention. observational cohort study,1
+no intervention. method study. psychometric testing,1
+"no intervention, this is an observational study that uses validated questionnaires and qualitative interviews..",1
+no message,1
+"no intervention, observational",1
+"no intervention, observation only",1
+"no intervention will be administered, this is a retrospective observational study.",1
+no intervention planned due to the observational study design only a diagnostic testing,1
+no intervention planned due to the observational study design - only a diagnostic testing,1
+no intervention performed,1
+no intervention on patients,1
+no intervetion will be used,1
+no messaging,1
+niclosamide suspension,1
+noa-001,1
+non-contact magnetically-controlled capsule endoscopy,1
+non-contact ecg,1
+non-cardiac surgery,1
+non-acei/arb,1
+non narrow band ultraviolet b-band light,1
+non invasive visual acuity testing,1
+non intervention,1
+no-immunosuppressive,1
+no personal protective equipment (ppe),1
+no video,1
+no special intervention,1
+no severe covid-19,1
+no screening testing strategy,1
+no rinsing,1
+no research related technology based social interactions,1
+no racial inequality highlighting,1
+no intervention is planned,1
+no intervention as it is an observational study,1
+no intervention / evaluation of the ferritin and glycosylated ferritin by standard approved serological tests,1
+nintedanib 150 mg [ofev],1
+nitazoxanide tablets,1
+nitazoxanide placebo,1
+nitazoxanide and ciclésonide,1
+nitazoxanide and atazanavir/ritonavir,1
+nitazoxanide 500mg oral tablet,1
+nitazoxanide 500 mg,1
+nio® (intraosseous access),1
+nintedanib 150 mg,1
+no intervention / compare the difference in respiratory rate between h0 and h12 of the initiation of morphine between the control and interventional groups,1
+nil intervention,1
+nigella sativa seed,1
+nigella sativa oil,1
+nigella sativa / black cumin,1
+nigella,1
+nicotine patch,1
+nicotine 7 mg/ 24h transdermal patch - 24 hour,1
+nitrate-deplete beetroot juice,1
+nitric oxide 0.5 % / nitrogen 99.5 % gas for inhalation,1
+nitric oxide delivered via lungfit™ system,1
+"nitric oxide lozenges, 30 mg",1
+no intervention - quality of life measure,1
+no intervention - exposure is to covid-19,1
+no intervention (survey study for medical doctors).,1
+no intervention (only interview),1
+no activities of the hbcc project and also no soap (pure control),1
+no active intervention (observational only),1
+nk-1r antagonist,1
+"nk cells,il15-nk cells,nkg2d car-nk cells,ace2 car-nk cells,nkg2d-ace2 car-nk cells",1
+nk cells,1
+ni̇cas,1
+nivolumab injection,1
+nitroglycerin,1
+nitric oxide-sessions,1
+nitric oxide-releasing drug,1
+nitric oxide-continuous and sessions,1
+nacl solution,1
+nacl 0.9%,1
+nac + bromhexine (bmx),1
+moderate exercise training (age group 3; above 45 years),1
+modified cariescare international management,1
+modified bai he gu jin tang,1
+modification of the planned therapeutic management,1
+moderna mrna-1273 vaccine,1
+"moderna covid-19 vaccine, mrna-1273 (100 μg)",1
+moderna,1
+moderate intensity aerobic exercises,1
+moderate exercise training (age group 2; 31 to 45 years),1
+modified rankin score,1
+moderate exercise training (age group 1; young adult 17 -30 years),1
+model validation,1
+model building,1
+modafinil,1
+mobile phone support,1
+mobile mental health app - 4,1
+mobile mental health app - 3,1
+modified ipac-uhn ppe,1
+molecular assessment of saliva,1
+na-831and dexamethasone,1
+monitoring physiological data with the hexoskin smart shirt,1
+monthly serologic igm/g test,1
+montelukast plus favicovir (favipiravir),1
+montelukast oral tablet,1
+montelukast 10mg,1
+monitoring visit - week 8,1
+monitoring visit - week 4,1
+monitoring visit - baseline,1
+monitoring of the immune response,1
+molecular hydrogen,1
+monitoring for aggravation,1
+monalizumab,1
+mon002,1
+mometasone furoate nasal spray,1
+molixan,1
+molgramostim nebuliser solution,1
+molecular testing for virus rna using rt-pcr,1
+mobile mental health app - 2,1
+mobile mental health app - 1,1
+mobile internet survey on self-test,1
+"micronized and ultra-micronized palmitoylethanolamide (mpea and umpea, 300mg + 600mg) oral suspension",1
+mindfulness intervention,1
+mindfulness based cognitive therapy for resilience during covid-19 plus chamindwell,1
+mindfulness alone (mo) intervention,1
+mindfulness + compassion intervention (mc),1
+mindfullness based cognitive program,1
+mind body syndrome therapy for long covid,1
+microscopy of defined brain regions on autopsy specimens,1
+"microcrystalline cellulose, nf",1
+mmrc (modified medical research council) dyspnea scale,1
+microcrystalline cellulose capsule,1
+microcirculation recording,1
+microcannula harvest adipose derived tissue stromal vascular fraction (tsvf),1
+microbiome spray,1
+microbiome immunity formula,1
+mhealth platform,1
+mhealth assessments,1
+mindfulness program,1
+mindfulness rounds,1
+mindfulness session(s),1
+mindfulness training,1
+mmr vaccine,1
+mls laser,1
+mk-5475,1
+"mixture 3,6% h2 in n2 (96.4%)",1
+mitral valve surgery,1
+minnrap peer support program,1
+miniprobe alveoflex,1
+minimal attention control intervention,1
+mindrhythm harmony,1
+mindfulness-sos for refugees,1
+mindfulness-based stress reduction,1
+mindfulness-based health promotion,1
+mindfulness-based cognitive therapy,1
+mindfulness training program,1
+mindfulness training (mt) connect,1
+montmorrillonite,1
+morning yoga-based breathing support,1
+mortality,1
+multitest 6 color tbnk and bd lyotubes,1
+museum virtual guided tours,1
+musclesound ultrasound,1
+muscle-target oral nutritional supplementation,1
+muscle relaxation therapy,1
+muscle relaxation,1
+muscle biopsy,1
+multivitamin with 11mg of zinc,1
+multisystem inflammatory syndrome in children (mis-c),1
+mucodentol,1
+multistem,1
+multiple doses of anti-sars-cov-2 convalescent plasma,1
+multipeptide cocktail,1
+multimodal teleprehabilitation,1
+multifrequency bioimpedance spectroscopy,1
+multiecco2r blood-gas exchanger,1
+multicapillary column coupled ion mobility spectrometry,1
+music therapy,1
+mva-sars-2-s vaccinations (days 0 & 28),1
+mva-sars-2-st,1
+mvc-cov1901,1
+na-831 and atazanavir,1
+na-831,1
+na (no intervention),1
+n95 respirator,1
+n95 mask,1
+n/a - samples collected along routine care samples only,1
+n-acetylcysteine (nac),1
+n-acetyl glucosamine (nag),1
+n-95 respirator,1
+n-803,1
+"n terminal pro b type natriuretic peptide (ntprobnp), d-dimer, and serum tropinin - i",1
+mvc-cov1901(saline),1
+mvc-cov1901(s protein with adjuvant),1
+mvc-cov1901(mid-dose),1
+mvc-cov1901 (high-dose),1
+multi-omics,1
+mstt1041a-matched placebo,1
+motivation,1
+mouthrinse without bêta-cyclodextrin and citrox,1
+mr-pro-adm,1
+mr or m-m-r ii ® vaccine,1
+mpt0b640,1
+moxifloxacin or levofloxacin,1
+moxibustion plus cupping,1
+mouthwashes and nose rinse in a conventional way,1
+mouthwash and nose rinse with the agnps solution,1
+mouthrinse with bêta-cyclodextrin and citrox,1
+mstt1041a,1
+"mouthpiece b1(mouthpiece mpc-st gmdn:62534 generic name: endoscopic bite block, basic, reusable",1
+motivational telephone intervention,1
+motivational social support from nurse with additional support from significant other,1
+motivational social support from nurse,1
+motivational messages,1
+motivational interviewing and covid-19 symptom monitoring system,1
+motivational interviewing,1
+mrg-001,1
+"mri (heart, brain, lungs, liver)",1
+mri scans,1
+mrna covd19 vaccine,1
+msct,1
+mscs-derived exosomes,1
+mscs,1
+msc-exosomes delivered intravenously every other day on an escalating dose: (2:4:8),1
+msc-exosomes delivered intravenously every other day on an escalating dose (8:4:8),1
+msc-exosomes delivered intravenously every other day (8:8:8),1
+msc treatment,1
+mrx-4dp0004,1
+mrna-1283,1
+mrna-1273.211,1
+mrna-1273 vaccine,1
+mrna-1273 sars-cov-2 vaccine from moderna,1
+mrna-1273 sars-cov-2 vaccine,1
+mrna in urine test,1
+mrna covid-19 vaccine,1
+non-contact mce system,1
+non-convalescent fresh frozen plasma (standard plasma),1
+non-convalescent plasma (control plasma),1
+part a: upamostat 200 mg,1
+passed infection of sars-cov-2,1
+particle measurement,1
+participate in a massive musical event,1
+partially hla-matched sars-covsts,1
+partial vepmp intervention,1
+part b: upamostat 200 or 400 mg,1
+part a: upamostat 400 mg,1
+part a and b: placebo,1
+"patch, nicotine",1
+parentchat for parents of children ages 2-17,1
+parent positive,1
+paraclinical examination,1
+pandemic period,1
+pandemic control measures,1
+pamrevlumab,1
+palmitoylethanolamide,1
+passive microwave radiometry,1
+"patch, placebo",1
+oral-b mouth sore mouthwash,1
+patient quality of life assessment,1
+patients covid 19,1
+patients admitted to intensive care unit with sars-cov2,1
+patients admitted in intensive care units,1
+patient-centred advice on telephone consultation in tb patients:,1
+patient with sar-cov-2 infection,1
+patient status engine,1
+patient sampling,1
+patient mychart scheduling link,1
+pathogen reduced sars-cov-2 convalescent plasma,1
+patient management suffering of coronavirus infection,1
+patient health questionnaire-9 (phq-9),1
+patient health questionnaire (phq-9),1
+patient educational video,1
+patient education,1
+patient characteristics,1
+pathogen-specific aapc,1
+race concordant,1
+pacebo: calcium citrate,1
+p2y12,1
+oseltamivir 75mg,1
+outpatient mri,1
+otilimab,1
+others(no intervention),1
+other vaccine against sars-cov-2,1
+ot-101,1
+osteopathic manipulative treatment (omt),1
+osoc,1
+orthopaedic surgical procedures,1
+p2et (caesalpinia spinosa extract),1
+ortd-1 mid dose,1
+ortd-1 low dose,1
+ortd-1 high dose,1
+oropharyngeal swabs,1
+oropharyngeal swab,1
+oropharyngeal and intestinal microbiota,1
+orally suspension of cov2-ogen1,1
+overcoming anxiety in pregnancy and postpartum online self-directed program,1
+overnight intensive recovery / extended post anaesthetic care in pacu,1
+ovotransferrin,1
+oxaloacetate medical food/dietary supplement,1
+ozonized oil (hoo,1
+ozone auto-hemotherapy,1
+ozanimod,1
+oxytocin,1
+oxyhydrogen,1
+"oxygen-ozone therapy, probiotic supplementation and standard of care",1
+oxygen treatment,1
+oxygen supply,1
+oxygen saturation monitoring,1
+oxygen mask,1
+oxygen hood,1
+oxygen gas,1
+oximen® 3%,1
+oxidative stress elisa kit,1
+oxford-astrazeneca covid-19 vaccine,1
+patients received standard of care treatment during hospitalization,1
+patients receiving nasal high flow,1
+patients recovering from covid19 receive usual care by allied health professionals,1
+pertuzumab and trastuzumab fixed-dose combination for subcutaneous administration (ph fdc sc),1
+pfizer-biontech covid-19 vaccine,1
+pfizer comirnaty vaccine,1
+pfizer,1
+pf-07321332/ritonavir,1
+pf-07304814,1
+pf-06650833,1
+pet-ct of 18f-fdg,1
+personalized health education,1
+personal exercise intervention,1
+personalized ambulatory training,1
+personal risk messaging,1
+personal protective testing booth,1
+personal protective measures,1
+personal protective equipment from biological hazard,1
+personal protective equipment (ppe),1
+personal protective equipment,1
+pfizer-biontech covid-19 vaccine bnt162b2 (30 µg)( comirnaty®),1
+phage therapy,1
+phase 3 cardiac rehabilitation,1
+philips lumify ultrasound system,1
+physical activity level,1
+physical activity counseling,1
+physical activity,1
+phsyiotherapy,1
+phr160 spray,1
+phq-9 depression scale,1
+phq-9 (patient health questionnaire) depression scale,1
+phq-9 (9-item patient health questionnaire),1
+photobiomodulation and photodynamic therapy,1
+phosphate-buffered saline,1
+phone-call screening and management by a medical student/general practitioner tandem,1
+phone-based monitoring,1
+phone interviews,1
+phone interview,1
+phlebotomy,1
+personal freedom message,1
+personal behaviours,1
+patients with hemopathy,1
+pectin,1
+pegylated interferon-α2b,1
+pegylated interferon lambda,1
+peginterferon lambda alfa-1a subcutaneous injection,1
+peginterferon beta-1a,1
+peer resilience champion,1
+peer mentor delivery,1
+peep trial,1
+pealut,1
+peroxyl,1
+pdno,1
+pd-1 blocking antibody+standard treatment,1
+"pcr, lung ultrasound",1
+pcr value,1
+pcr for covid-19,1
+pcl cov05 - covid 19 ag rapid fia test (rapid antigen test),1
+patients with the treatment agains covid19,1
+pembrolizumab (mk-3475),1
+pemziviptadil (pb1046),1
+pentaglobin,1
+pentarlandir™ uppta,1
+peripheral venous ultrasound,1
+peripheral lymphocytes subsets,1
+peripheral blood sampling,1
+peripheral blood samples,1
+peripheral blood,1
+periogard,1
+performing routine care (clinical and paraclinical tests),1
+performing of lung ultrasound,1
+performance of the test antigenic and test rt-pcr,1
+performance evaluation study of realdetect rt-pcr kit for covid-19 detection,1
+performance evaluation (sensitivity and specificity) for covid-19 diagnosis of the vocus ptr-tof process,1
+percutaneous treatment,1
+percutaneous coronary revascularization for stemi,1
+perceived stress scale,1
+pep flute,1
+oral-b® gum & enamel care -cetylpyridinium chloride,1
+oral supplement enriched in antioxidants,1
+non-enhanced ct scan of the chest,1
+nutrition consult and protein supplementation,1
+obesity,1
+nvx-cov2373,1
+nuvastatic,1
+nutritional support system (nss),1
+nutritional intervention,1
+nutritional assessment,1
+nutrition support,1
+nutrition,1
+observation group 1,1
+nusepin® 0.2 mg,1
+nusepin® 0.1 mg,1
+"nusapure standardized olive leaves capsule, 750 mg (50% oleuropein)",1
+"nursing care to reduce anxiety, fear and loneliness",1
+nurse-community-family partnership intervention,1
+nudge,1
+nt-i7,1
+observation for study group,1
+observation no intervention,1
+oral polio vaccine + information,1
+observational measurement of biometric data. no change to health care provided.,1
+"obtainment of nasopharyngeal, oropharyngeal, buccal, nasal and saliva samples",1
+obstetric anesthesia and analgesia,1
+observational study: this registry data will provide more specific information about how people with blood cancer respond to covid-19 virus and/or a covid-19 vaccination.,1
+observational study only,1
+observational study - no intervention,1
+observational only,1
+observational of different courses of sars-cov-2 infection in different phases (acute vs. post-acute) and settings,1
+observational cohort study on the natural history of hospitalized sars-cov-2 patients.,1
+observation of behavior and covid-19 infection will be conducted.,1
+observational (registry),1
+observation to monitor patients for these infections,1
+observation only,1
+"observation of patients with known, suspected, or at risk for covid-19 infection",1
+observation of different courses of sars-cov-2 infection in different phases (acute vs. post-acute) and settings,1
+observation of covid 19 pneumonia,1
+observation of breathing pattern,1
+nricm101,1
+np-120 (ifenprodil),1
+nox66,1
+non-ras blocking antihypertensives,1
+noninvasive ventilation,1
+"none, this study is observational",1
+none - observational,1
+none - na,1
+none - descriptive study,1
+none (observational study),1
+none (not interventional),1
+non-operative management,1
+novel laser inferometry test for corona virus,1
+non-mindfulness intervention,1
+non-invasive ventilatory support,1
+non-invasive ventilation strategies,1
+non-invasive red lllt treatment to chest of patient.,1
+non-invasive cardiac imaging,1
+non-interventional study,1
+non-hospitalization procedures,1
+noninvasive ventilation treatment,1
+nordell double e-100 layer mask,1
+nordell single e-100 layer mask,1
+normal saline infusion + standard of care,1
+novel coronavirus infection,1
+not required,1
+not bravery message,1
+"not applicable, this is an observational study",1
+not applicable as observational study,1
+not applicable (observational study),1
+not applicable (na),1
+nosocomial infection/hospital acquired infection,1
+"normal saline solution (nss), placebo, day 21 - phase 2",1
+"normal saline solution (nss), placebo, day 21 - phase 1",1
+"normal saline solution (nss), placebo, day 189 - phase 2",1
+"normal saline solution (nss), placebo - phase 2",1
+"normal saline solution (nss), placebo - phase 1",1
+normal saline placebo,1
+normal saline intranasal,1
+obvio-19 app,1
+occupational health workers,1
+octagam,1
+online survey questionnaire,1
+opt-in (call-back),1
+ophtamesone,1
+operative management,1
+open label bss (pepto bismol),1
+op-101,1
+onsite point-of-care,1
+only standard treatment,1
+online survey about dietary and lifestyle habits,1
+online intervention mental health covid-19,1
+online support group,1
+online social network and collective intelligence intervention,1
+online self-help intervention,1
+online questionnaire and interviews,1
+online psychological intervention for healtchare workers,1
+online mindfulness group,1
+online lifestyle intervention,1
+opt-in (in-bound),1
+opt-in recruitment email,1
+opt-out framing,1
+opt-out recruitment email,1
+oral ivermectin,1
+oral intervention with cetylpyridinium chloride,1
+oral fluid swab,1
+oral co-trimoxazole,1
+oral care with/without aerosolization,1
+oral and nasal spray by distilled water to control group,1
+oral administration of colchicine plus herbal phenolic monoterpene fractions,1
+oral 25-hydroxyvitamin d3,1
+oral 13 cis retinoic acid,1
+oral,1
+optional questionnaire completion,1
+optional blood completion,1
+optimized management of covid-19 positive kidney transplant recipients: single center experience from the middle east,1
+optical coherence tomography angiography,1
+optical coherence tomography (oct),1
+online kkh sports singapore program with usual care,1
+online intervention grief covid-19,1
+octagam 10%,1
+olfactometry,1
+omalizumab,1
+olo-1 medical molecular sieve oxygen generator,1
+olfactory test,1
+olfactory retraining,1
+olfactory rehab,1
+olfactory device,1
+olfactory and gustatory tests,1
+olfaction testing,1
+online instruction,1
+old ppe,1
+"ol-1, standard dose",1
+"ol-1, high dose",1
+ointment and dressing for external use,1
+off the shelf vr,1
+odd/even birth year intervention groups,1
+octaplas,1
+omega 3 fatty acid,1
+omega 3/nigella sativa oil,1
+omega 3/nigella sativa oil/anise seed capsule,1
+omega 3/nigella sativa oil/deglycyrrhizinated licorice,1
+online cognitive stimulation therapy,1
+online cognitive behavioral therapy (cbt),1
+online bibliotherapy programme,1
+one dose of bnt162b2 vaccine,1
+one covid-19 vaccine candidate (tmv-083) administration - high dose,1
+on-site testing (lumiradx),1
+on-line survey,1
+omnibiotic aad,1
+omni-biotic pro vi 5,1
+omeprazole 20mg,1
+omegaven®,1
+omega-3 fatty acid supplement,1
+omega dha / epa,1
+omega 3/nigella sativa oil/quinine pills,1
+omega 3/nigella sativa oil/indian costus,1
+raas inhibitor [continued standard of care],1
+rhea health tone®,1
+racial inequality highlighted,1
+thoracic ct-scan,1
+"three doses of placebo at the schedule of day 0, 14, 28 #high-dose group#",1
+"three doses of middle-dose recombinant sars-cov-2 vaccine (cho cell) at the schedule of day 0, 14, 28",1
+"three doses of high-dose recombinant sars-cov-2 vaccine (sf9 cell) at the schedule of day 0, 14, 28",1
+"three doses of high-dose recombinant sars-cov-2 vaccine (cho cell) at the schedule of day 0, 14, 28",1
+thoraxic computed tomography,1
+thorax ct,1
+thoracic lung ultrasound,1
+thoracic ct scan,1
+"three doses of placebo at the schedule of day 0, 14, 28（high-dose group）",1
+thoracic computed tomography scan,1
+this study is not an intervention study,1
+this study is non- interventional,1
+thiazide or thiazide-like diuretics,1
+thermography,1
+there is no intervention in this study,1
+there is no intervention,1
+"three doses of placebo at the schedule of day 0, 14, 28 #middle-dose group#",1
+threshold imt device,1
+therapy group,1
+thymosin+standard treatment,1
+"tinzaparin, high dose prophylactic anticoagulation",1
+tinzaparin or unfractionated heparin,1
+time management & participation & the leisure time activity,1
+tigerase® and best available care,1
+tice® bcg (for intravesical use) bcg live strain of the bcg (merck) vaccine,1
+ticagrelor,1
+thyroidectomy,1
+thymosin alpha 1,1
+throat swab sample for measuring current infection with sars-cov-2,1
+thymic peptides,1
+thromboprophylaxis with low-molecular-weight heparin or fondaparinux,1
+thromboprophylaxis,1
+thromboprofylaxis protocol,1
+thrombomodulin modified thrombin generation assay (tga-tm),1
+thrombin generation test assay,1
+thrombin generation assay (tga),1
+therapy intervention,1
+theraputic heparin,1
+treated with hyperimmune plasma,1
+text message content,1
+the effects of covid 19 pandemic on the cardiovascular heath of children with autism spectrum disorder,1
+"the drugs used before and during the pandemic, the patient's job status, physical activity conditions, pain status",1
+"the demographic, clinical, laboratory, and instrumental data",1
+"the covid-19 vaccines bnt162b2, mrna-1273 and chadox1",1
+the control group will not receive hydroxychloroquine,1
+thawed plasma,1
+text messaging only,1
+text material for psychoeducation and audio for relaxation techniques,1
+"the pop02 study is collecting bodily fluid samples (i.e., whole blood, effluent samples) of children prescribed the following drugs of interest per standard of care:",1
+tetrandrine,1
+tetracycline hydrochloride 3%,1
+testnpass,1
+testis pathology samples,1
+testing sensitivity for sars-cov-2 virus in symptomatic individuals,1
+testing procedure for binding antibodies,1
+testing of sars-cov-2 antibodies,1
+the icp monitoring will be performed in a non-invasive method developed by brain4care,1
+the prepare program,1
+therapist guided e-therapy,1
+the vie scope laryngoscope,1
+therapeutic plasmaexchnage,1
+therapeutic plasma exchange : 3 sessions in 3 consecutive days (day 1 to day 3),1
+therapeutic exercise and education,1
+therapeutic exercise,1
+theram covid-19 rapid antigen test,1
+theory-based messages,1
+theophylline powder,1
+the usual treatment,1
+the psychosocial effects of covid-19 pandemic on dental professionals,1
+the use of the mentalplus® digital game for assessment and rehabilitation of cognitive function after remission of the symptoms of covid-19,1
+"the study evaluates all surgical patients operated, both elective scheduled and emergent cases",1
+the study does not required,1
+the standard therapy,1
+the standard protocol only,1
+the standard of care,1
+the standard macintosh laryngoscope,1
+"tinzaparin, low dose prophylactic anticoagulation",1
+"tinzaparin,therapeutic anticoagulation",1
+tirofiban injection,1
+"training of youth, community health assistants and community health workers.",1
+transcendental meditation (tm),1
+transcendental meditation,1
+trans sodium crocetinate,1
+tranexamic acid tablets,1
+tramadol,1
+"training video on anxiety, fear and loneliness in the covid-19 environment.",1
+training session adressing information and health literacy,1
+training load,1
+transcutaneous auricular vagus nerve stimulation,1
+"training for awareness, resilience, and action (tara)",1
+training clinicians in basic critical care and the management of severe covid-19 cases,1
+traditional proning arm,1
+traditional communication tools,1
+traditional chinese medicine prescription,1
+traditional antirheumatic drugs,1
+tradipitant,1
+transcendental meditation (tm) and experience resolution methodology (erm),1
+transdermal estradiol gel,1
+tissue plasminogen activator,1
+transpulmonary thermodilution,1
+treadmill test (bruce protocol),1
+treadmill exercise,1
+travelan otc,1
+trauma-informed yoga video recording,1
+trauma informed yoga,1
+trauma informed psychotherapy,1
+transthoracic echocardiogram (tte),1
+transpulmonary pressure measurements,1
+transfer package from ci therapy,1
+transplant patient,1
+transparent sheet,1
+transparent mask,1
+transitional online peer support group (n=20),1
+transfusion of standard plasma.,1
+transfusion of sars-cov-2 convalescent plasma.,1
+transfusion of covid-19 convalescent plasma,1
+tracheotomy,1
+tracheostomy with aerosol box in covid-19 positive patients,1
+tracheostomy,1
+to assess for development of igg antibodies against sars-cov2,1
+tocilizumab 20 mg/ml intravenous solution [actemra],1
+tocilizumab 180 mg/ml,1
+tocilizumab +/- ruxolitinib (stages 2b/3),1
+tociliuzumab,1
+tobacco use,1
+to monitor the effectiveness of the single dose ad26.cov2.s covid-19 vaccine,1
+to determine the prevalence of renal dysfunction in hospitalized children with covid19 in qatar.,1
+tnkase,1
+tracheal intubation and cardiopulmonary resuscitation,1
+tm5614,1
+tlrs activation measurement,1
+tlc19 vehicle,1
+tlc19,1
+tl-895,1
+tj003234,1
+titanium blood test,1
+tocilizumab 20 mg/ml intravenous solution [actemra]_#1,1
+tocilizumab 20 mg/ml intravenous solution [actemra]_#1 (2 doses),1
+tocilizumab 200 mg/10 ml (20 mg/ml) intraven vial (ml),1
+tocilizumab and ruxolitinib (advanced stage 3),1
+tr,1
+tpa,1
+tozinameran,1
+toremifene,1
+toraymyxin pmx-20r (pmx cartridge),1
+topical steroids and cyclosporin-a,1
+toothpaste with tin fluoride,1
+toothpaste with sodium monofluorophosphate,1
+toothpaste with sodium fluoride and zinc,1
+tools development,1
+tomeka®,1
+tom's botanically bright peppermint,1
+tof protocol,1
+tocilizumab prefilled syringe,1
+tocilizumab injection [actemra],1
+testing for sars-cov-2 rna,1
+testing for sars-cov-2 igm/igg,1
+testing for sars-cov-2,1
+suspected of covid-19 infection,1
+symptom and exposure surveys,1
+symprove (probiotic),1
+sweat samples (covidog ancillary study),1
+swallowing evaluation with the eat-10 and the volume-viscosity swallowing test (v-vst),1
+swabbing of conjunctiva,1
+swab,1
+suspension or maintenance of angiotensin receptor blockers and angiotensin-converting enzyme inhibitors,1
+susceptibility to infection,1
+symptomatic drugs,1
+surveys and questionnaires,1
+surveys,1
+survey work,1
+survey to assess post traumatic stress and anxiety at inclusion and 6 months later,1
+survey research,1
+survey of sars-cov-19 knowledge,1
+survey of acceptability of the different self-samples.,1
+symptom survey,1
+symptomatic treatment (paracetamol or best symptomatic treatment based on doctor recommendations),1
+tak-019,1
+t-cell receptor (tcr) repertoire,1
+tailored best practices,1
+tafenoquine oral tablet,1
+t89 capsule,1
+t89,1
+t3 solution for injection,1
+t-detect™ sars-cov-2 assay,1
+t-detect covid t-cell blood test,1
+t regulatory cells,1
+"symptomatology, treatment. daily activities and anxiety for cardiovascular patients survey (strata)",1
+t memory cells and nk cells,1
+systemic treatment,1
+systemic indirect endovenous ozone therapy,1
+systematic offer of nurse-driven sars-cov-2 screening combined with usual practice,1
+synthetic neutralising antibodies,1
+symptoms questionnare,1
+symptoms entered into the covidx application,1
+survey group,1
+survey and questionnaire,1
+surgical repair,1
+sublingual micro-dose ketamine,1
+supervised stretching and strengthening exercise,1
+supervised exercise training protocol,1
+"supar, c-reactive protein, ferritin, d-dimer, procalcitonin, interleukin-6, lactate dehydrogenase",1
+sulodexide,1
+sulfur hexafluoride lipid-type a microspheres,1
+sulfonatoporphyrin(tpps) plus sunlight exposure.,1
+sudarshan kriya yoga (sky),1
+sublingual methylene blue,1
+surgical procedures performed under general anesthesia,1
+subacute rehabilitation,1
+study questionnaire,1
+study of the synthesis of antibodies directed against sars,1
+study of immune-mediated mechanisms in patients tested positive for sars-cov-2,1
+study group,1
+study d,1
+study c,1
+supine position,1
+supine positioning,1
+support as usual,1
+support treatment,1
+surgical procedure for cancer,1
+surgical facial mask,1
+surgical face mask use only,1
+"surgical face mask (vheal med co., ltd., istanbul, turkey)",1
+"surgery: dynamic hip screw, hemiarthroplasty, hip replacement, intramedullary nail",1
+surge index,1
+surge capacity,1
+surfactant assessment,1
+surfactant,1
+supportive trauma exposure preparation program,1
+supportive tratment,1
+supportive therapy ssi,1
+supportive therapy,1
+supportive services,1
+supportive and symptomatic treatment,1
+tailored recommendations,1
+tak-671,1
+tested for sars-cov-2 (regardless of the result),1
+telepsychoeducation,1
+telmisartan 20mg oral tablet,1
+telestroke,1
+telesimulation,1
+telerehabilitation-based relaxation exercise group (eg),1
+"telerehabilitation i̇ntervention, motor learning",1
+telepsychoeducation without personalized videos,1
+telepsychoeducation with personalized videos,1
+telephonic medical visit,1
+telmisartan 40mg oral tablet,1
+telephonic interview during the italian lockdown.,1
+telephone-based coaching,1
+telephone survey,1
+telephone interview,1
+telephone follow-up,1
+telephone consult,1
+telemonitoring and teleorientation,1
+telmisartan 40mg,1
+telmisartan arm will receive 80 mg telmisartan twice daily plus standard care.,1
+tak-671 placebo,1
+tenofovir/ emtricitabine ( 300 mg / 200 mg daily during 60 days) + personal protective equipment (ppe),1
+test: favipiravir 200 mg (loqular),1
+test pcr,1
+test group: experimental - uvc therapy applied,1
+test for sars-cov-2,1
+"test at home's proprietary ""lollipop"" buccal cavity swab",1
+test,1
+tensile strength,1
+tenofovir disoproxyl fumarate 300 mg plus emtricitabine 200 mg oral tablet,1
+telmisartan oral product,1
+tenofovir disoproxyl fumarate 300 mg oral tablet,1
+tenofovir disoproxil and emtricitabine,1
+tenecteplase,1
+ten-days oseltamivir,1
+temporarily holding the raas inhibitor [intervention],1
+tempol,1
+tem-tpa,1
+telemedicine visit,1
+telemedicine to remote outpatient visit in bariatric patient,1
+telemedicine consultation,1
+taxifolin aqua,1
+tear collection,1
+tdr,1
+td139,1
+tcm prescriptions,1
+tcc-covid mhealth solution,1
+tcb008,1
+tb006,1
+tavr or savr,1
+telehealth phone calls,1
+taste and olfactory function evaluation,1
+targeted wellness formula c™ sublingual drops - 1200mg - 30 ml (formula c),1
+tape-software,1
+tape face mask,1
+tap water,1
+taking biological samples,1
+tak-919,1
+tears swab,1
+technology based social interactions,1
+telacebec,1
+tele-delivered psychological intervention,1
+telehealth monitoring,1
+telehealth coaching sessions,1
+telehealth applications,1
+telehealth,1
+telegeriatric intervention,1
+teleconsultation either by phone or by computer consultation. quantitative and qualitative approaches to analysis,1
+teleconsultation either by phone or by computer consultation,1
+teleconsultation,1
+telecare group,1
+tele-rheumatology,1
+tele-pulmonary rehabilitation,1
+tele-physiotherapy group,1
+tele-medicine platform,1
+tele-interventions related to diabetes management and mental well-being,1
+tele-exergaming tablet,1
+treamid,1
+treatment and prophylaxis,1
+study arm,1
+vitamin d3 or placebo,1
+vitis xtra forte©,1
+vitamins and minerals,1
+vitamins,1
+vitamine d3 supplementation,1
+vitamin k2/d,1
+vitamin k2 in the form of menaquinone-7 (mk-7),1
+vitamin e,1
+"vitamin d3 50,000 iu",1
+viusid,1
+vitamin d3 (cholecalciferol),1
+vitamin d supplementation in pregnant women,1
+vitamin d supplementation,1
+vitamin c/zinc,1
+"vitamin c, vitamin b complex and zinc acetate",1
+vitamin c tablets,1
+vitamin c 500 mg oral tablet,1
+vitros anti-sars-cov-2 igg test,1
+viusid and asbrip,1
+vitamin and trace elements,1
+vçac,1
+"wearable devices, saliva samples, survey measures",1
+water without an elevated level of kelea,1
+water (e) mouth rinse with the solution provided,1
+water,1
+washed microbiota transplantation,1
+ward css,1
+walk test,1
+vxa-cov2-1,1
+vivadiag™ covid-19 lgm/igg rapid test,1
+vr for psychoeducation and relaxation,1
+volunteer of tip-oa program,1
+volatile organic compounds analysis in sweat (mass spectrometry),1
+volatile organic compounds analysis (mass spectrometry),1
+volatile organic compounds analysis (e-noses),1
+voice symptom scale (voiss),1
+voclosporin,1
+vitamin b12,1
+vitamin a supplement,1
+treatment as usual,1
+vir-7832,1
+virological and serological tests,1
+virgin coconut oil (vco),1
+virgin coconut oil,1
+viral vector vaccine,1
+viral specific t-cells (vsts),1
+viral sequence,1
+viral culture,1
+vir-7831 (gen2),1
+virtual care and remote automated monitoring,1
+vir-7831 (gen1),1
+views and experiences of health care professionals working in intensive care units during the covid-19 pandemic,1
+vielight rx plus,1
+vie scope laryngoscopy,1
+videofluoroscopy,1
+videofluoroscopic swallowing study (vfss),1
+video-based psychotherapy,1
+"virtual assistant first, then human coach",1
+virtual care at home,1
+vitamin a,1
+virtual-care cognitive behavioural therapy,1
+vitaltalk communication skills training,1
+vitalconnect vital sign patch,1
+vital signs,1
+vit-d 0.2 mg/ml oral solution [calcidol],1
+vit d,1
+visual analogue scale,1
+viruxal oral and nasal spray,1
+virtual village,1
+virtual family-based treatment,1
+virtual reality therapy first,1
+virtual reality exposure therapy,1
+virtual reality,1
+virtual peer support platform,1
+virtual individual cognitive simulation therapy,1
+virtual group intervention,1
+virtual group exercise,1
+wearable medical device (empatica e4),1
+wearing surgical face mask sprayed with hypertonic saline,1
+web application users,1
+yoga group,1
+zilucoplan®,1
+zilucoplan placebo,1
+zilucoplan,1
+zavegepant (bhv-3500),1
+zaritt burden interview,1
+zanubrutinib,1
+yu-ping-feng formula,1
+yinhu qingwen granula,1
+zinc (zinc gluconate),1
+yinhu qingwen decoction(low dose),1
+yinhu qingwen decoction,1
+yin hu qing wen granula(low does),1
+xylocaine,1
+xvr011,1
+xuanfei baidu granules,1
+xlear nasal spray,1
+zinc (placebo),1
+zinc (zinc gluconate) & vitamin d (cholecalciferol),1
+web based questionnaire,1
+zofintm,1
+γ-globulin,1
+β-hydroxy β-methyl butyrate (hmb) enriched amino acid,1
+"ıt will be compared pain, sleep, fatigue, physical activity level and quality of life and questioning exercise habits before and after the covid-19 outbreak in patients with behçet and fmf.",1
+zyil1 capsule,1
+zyesami™ (aviptadil acetate),1
+zyesami (aviptadil acetate),1
+zotatifin,1
+zofin,1
+zinc acetate,1
+zithromax oral product,1
+zinc sulfate 220 mg,1
+zinc sulfate,1
+zinc picolinate placebo,1
+zinc picolinate,1
+zinc gluconate and ascorbic acid,1
+zinc citrate,1
+xiyanping injection,1
+xiang-sha-liu-jun formula,1
+"xiamen wiz biotech co., ltd. sars-cov-2 antigen rapid test",1
+weight counseling,1
+white sender in acknowledgement,1
+wharton's jelly derived mesenchymal stem cells.,1
+wfi water nebulization,1
+wfi 5% glucose,1
+wellness education,1
+well-being assessment,1
+weight-based dexamethasone dose,1
+weekly assessment,1
+xcel-umc-beta,1
+weck-cel swab collection,1
+webex physical activity program,1
+web-based survey,1
+web-based redcap survey,1
+web-based psychosocial peer-to-peer support,1
+web-application,1
+web embolization,1
+white sender in informational videos,1
+who recommendations (waiting condition),1
+whole genome analysis,1
+whoqol-bref,1
+xc7 200 mg single,1
+xc7 200 mg multiple,1
+xc7 100 mg single,1
+xc221,1
+written summary of rounds,1
+written information,1
+work requirement exemption months,1
+wofb,1
+woebot substance use disorder,1
+wj-mscs,1
+without masks,1
+withings scanwatch,1
+wingate exercise test and on-ice testing while wearing a sham face mask,1
+wingate exercise test and on-ice testing while wearing a face mask,1
+whoqol-bref survey,1
+video-based intervention,1
+video-based,1
+video text,1
+ucmscs,1
+ultrasound,1
+ultrasonography,1
+ultraprotective ventilation,1
+ultra-low-dose radiotherapy,1
+ultra brief online mindfulness-based intervention,1
+ulinastatin,1
+uexplorer/mct,1
+typical surgical covered mask,1
+ultrasound of the lower limbs,1
+type ii diabetes mellitus and covid-19 group (group ii),1
+tympanic temperature,1
+"two doses of placebo at the schedule of day 0, 28（middle-dose group）",1
+"two doses of placebo at the schedule of day 0, 28（high-dose group）",1
+"two doses of placebo at the schedule of day 0, 14 #middle-dose group#",1
+"two doses of placebo at the schedule of day 0, 14 #high-dose group#",1
+two doses of placebo at the routine vaccination schedule,1
+ultrasound lung imaging as part of fast+ evaluation,1
+ultrasound using the telerobotic melody system,1
+urine samples,1
+unfractionated heparin sc,1
+urine collection,1
+"urinary ngal, timp-2, igfbp7, il-6, viral load and metabolomic",1
+unsupervised physical activities,1
+unikinon (chloroquine phosphate) 200mg tablets,1
+uniform random message delivery,1
+unified protocol for covid-19 parenting stress (up-covid),1
+uni911 inhalation,1
+unfractionated heparin nebulized,1
+umbilical cord derived mesenchymal stem cells,1
+unfractionated heparin iv,1
+unavailable covid test result - hypothetical scenario,1
+umifenovir,1
+umbilical cord wharton's jelly-derived human,1
+umbilical cord mesenchymal stem cells + heparin along with best supportive care.,1
+umbilical cord mesenchymal stem cells,1
+umbilical cord lining stem cells (ulsc),1
+two doses of placebo at the emergency vaccination schedule,1
+"two doses of pilot scale inactivated sars-cov-2 vaccine at the schedule of day 0,14 in elderly",1
+"two doses of pilot scale inactivated sars-cov-2 vaccine at the schedule of day 0,14",1
+tricor® 145mg tablets,1
+tuberculin test,1
+tsu,1
+trust in science message,1
+trivalent split influenza vaccine,1
+trimodulin,1
+trimetazidine,1
+trier social stress test,1
+triazavirin (riamilovir),1
+"two doses of middle-dose recombinant sars-cov-2 vaccine (sf9 cell) at the schedule of day 0, 28",1
+trial-based cognitive therapy,1
+treatment with dexmedetomidine,1
+"treatment group: will receive a combination of nitazoxanide, ribavirin and ivermectin for a duration of seven days :",1
+treatment group,1
+treatment for covid-19,1
+treatment as usual vitamin d,1
+treatment as usual (tau),1
+turkish physicians,1
+two covid-19 vaccine candidate (tmv-083) administrations - high dose,1
+two covid-19 vaccine candidate (tmv-083) administrations - low dose,1
+two dose chadox1 ncov-19/covishield 0.25ml & 0.5ml,1
+"two doses of middle-dose recombinant sars-cov-2 vaccine (cho cell) at the schedule of day 0, 14",1
+two doses of medium dosage inactivated sars-cov-2 vaccine at the routine vaccination schedule,1
+two doses of medium dosage inactivated sars-cov-2 vaccine at the emergency vaccination schedule,1
+"two doses of inactivated sars-cov-2 vaccine at the schedule of day 0,28 and one dose quadrivalent influenza vaccine on day 14.",1
+"two doses of inactivated sars-cov-2 vaccine at the schedule of day 0,28 and one dose quadrivalent influenza vaccine on day 0 or day 28.",1
+"two doses of high-dose recombinant sars-cov-2 vaccine (sf9 cell) at the schedule of day 0, 28",1
+"two doses of high-dose recombinant sars-cov-2 vaccine (cho cell) at the schedule of day 0, 14",1
+"two doses of high dosage inactivated sars-cov-2 vaccine at the schedule of day 0,28",1
+two doses of high dosage inactivated sars-cov-2 vaccine at the routine vaccination schedule,1
+two doses of high dosage inactivated sars-cov-2 vaccine at the emergency vaccination schedule,1
+"two doses of commercial scale inactivated sars-cov-2 vaccine at the schedule of day 0,14",1
+two doses of bnt162b2 vaccine,1
+two dose menacwy vaccine min. 4 weeks apart,1
+two dose menacwy vaccine,1
+two dose chadox1 ncov-19/covishield 0.5ml,1
+urine pregnancy test for women of childbearing potential,1
+usb002,1
+video dance classes,1
+valsartan (diovan),1
+vc,1
+vbi-2902a,1
+vb-201 + standard of care,1
+vaxzevria,1
+vascular surgery,1
+vascular occlusion test,1
+vas scale,1
+valproate,1
+vehicle + heparin along with best supportive care,1
+validation of the poct antigen and antibody tests,1
+validation of the ngs method,1
+validation of the lamp assays,1
+vaginal fluid covid-19 pcr test,1
+vadadustat,1
+vaccine therapy,1
+vaccine inoculation against sars-cov-2,1
+vcpm,1
+venepuncture,1
+use of continuous positive airway pressure,1
+vib7734,1
+video chat +personalized feedback,1
+video chat + basic feedback,1
+video call,1
+video based exercise,1
+video based aerobic exercise,1
+video about safety and effectiveness of adult seasonal flu vaccination,1
+vibrolung,1
+vesta respirator,1
+venipuncture in peripheral vein,1
+verapamil,1
+ventilatory support with oxygen therapy,1
+ventaprost (inhaled epoprostenol delivered via a dedicated delivery system),1
+venous draw & testing,1
+venous blood was collected for biochemistry testing.,1
+venous blood was collected for biochemistry testing,1
+venous blood collection,1
+vaccine coverage assessment,1
+vaccine bcg,1
+vaccine anti-covid19,1
+usual antibiotic treatment,1
+usual monitoring,1
+usual emergency department practice with physician-directed diagnostic testing,1
+"usual care, infection control briefing",1
+usual care treatment,1
+usual care positioning with no instructions,1
+usual care only,1
+usual care control,1
+users,1
+vaccine,1
+use of virus (covid-19) genome sequence report to inform infection prevention control procedures,1
+"use of the pinpointiq solution (physiq, inc.)",1
+use of social media during covid-19,1
+use of non-invasive ventilation,1
+use of mobile application,1
+use of high flow nasal cannula alone,1
+use of facetime with child and parents during induction,1
+usual orientations,1
+usual treatments in intensive care unit according to the current state of knowledge,1
+uttr1147a,1
+uttr1147a-matched placebo,1
+vaccination with janssen vaccine followed with pfizer vaccine (heterologous boosting).,1
+vaccination with janssen vaccine followed with moderna vaccine (heterologous boosting).,1
+vaccination with janssen vaccine followed with janssen vaccine (homologous boosting).,1
+vaccination once with janssen vaccine (only priming),1
+vaccination against covid19,1
+vaccination,1
+vaccinated with polio vaccine (ipv),1
+vaccin box,1
+vacciantion status in health care workers,1
+v591,1
+v590,1
+v/q system,1
+v/q spect-ct,1
+v-sars,1
+uv light treatment,1
+study b,1
+study a,1
+racial/ethnic frame,1
+saliva sampling,1
+samling of oropharynx and nasopharynx,1
+samba ii (diagnostic for the real world),1
+sam-lnp-s-tce,1
+sam-lnp-s,1
+saliva-based testing,1
+saliva test kit,1
+saliva specimen,1
+saliva sample combined to an anterior nare self-swabbing (self-samples),1
+sample collection/performance evaluation (a),1
+saliva sample (self-sample),1
+saliva based assay: crude rna extraction,1
+saliva assay,1
+saliva and nps test,1
+saline-sodium citrate (ssc) buffer,1
+saline with baby shampoo nasal irrigation,1
+saline placebo (single),1
+sample,1
+sample collection/performance evaluation (b),1
+saline oral/nasal rinse,1
+sarcopenia diagnosis,1
+sars-cov 2 rna pcr urine,1
+sars-cov 2 rna pcr semen,1
+sars cov-2 swabs,1
+sarilumab sar153191,1
+sarilumab prefilled syringe,1
+sarilumab 400 mg/2.28 ml subcutaneous solution [kevzara],1
+sarilumab 200 mg/1.14 ml subcutaneous solution [kevzara],1
+sar443122,1
+sample of blood and saliva,1
+sampling salivary,1
+sampling of tissue,1
+sampling of sars-cov-2 rna from nasopharyngeal swab specimen or saliva collected via salivette cortisol,1
+sampling by venipuncture (and eventually by nasopharyngeal swab),1
+"sampling (edta blood, pharyngeal and nose swabs, bronchoalveolar lavage ,urine)",1
+sampling,1
+sampler skills,1
+saline placebo (double),1
+saline nasal irrigation,1
+scd,1
+rosuvastatin,1
+rt pcr,1
+rph-104 80 mg,1
+routine standard of care,1
+routine psychological support,1
+routine dental restorative procedures,1
+routine care (no sars-covsts),1
+roth´s test,1
+robotic therapy,1
+rt-pcr and antibody testing,1
+robotic assisted intervention,1
+robotic assisted early mobilization,1
+robot assisted percutaneous cardiovascular intervention,1
+roactemra sc,1
+roactemra iv,1
+ro7496998,1
+rnapc2,1
+rt pcr sars-cov-2,1
+rt-pcr covid-19,1
+saline nasal and throat spray,1
+"sab-185 (3,840 units/kg)",1
+saline control,1
+saline containing 1% human serum albumin（solution without uc-mscs）,1
+saline and saline,1
+saline and listerine,1
+saisei maf capsules,1
+saint george respiratory questionnaire,1
+sacubitril / valsartan oral tablet [entresto],1
+"sab-185 (10,240 units/kg)",1
+rt-pcr for sars-cov-2,1
+"s-binding igg, rbd-binding igg and n-binding igg immunoassays and sars-cov-2 serum neutralization assay, quantitative serum immunoglobulin tests",1
+s-1226,1
+ruxolitinib plus simvastatin,1
+ruxolitinib administration,1
+ruxolitinib 5 mg,1
+rt-qpcr test,1
+rt-pcr sars-cov2,1
+sars-cov-2 ab,1
+sars-cov-2 adjuvanted recombinant protein vaccine (bivalent),1
+sars-cov-2 adjuvanted recombinant protein vaccine (monovalent),1
+"sars-cov-2 vaccine (vero cells), inactivated",1
+sars-cov-2 viral composition,1
+"sars-cov-2 vaccine(vero cell), inactivated",1
+sars-cov-2 vaccine formulation 2 without adjuvant,1
+sars-cov-2 vaccine formulation 2 with adjuvant 2,1
+sars-cov-2 vaccine formulation 2 with adjuvant 1,1
+sars-cov-2 vaccine formulation 1 with adjuvant 2,1
+sars-cov-2 vaccine formulation 1 with adjuvant 1,1
+"sars-cov-2 vaccine (vero cell), inactivated",1
+sars-cov-2 vlp vaccine,1
+sars-cov-2 vaccine (inactivated),1
+sars-cov-2 vaccination,1
+sars-cov-2 testing on the eppendorf thermal cycler pcr system using self-collected saliva as the specimen,1
+sars-cov-2 testing,1
+sars-cov-2 specific t cells,1
+sars-cov-2 specific igm and igg detection,1
+sars-cov-2 serological assessment (igg),1
+sars-cov-2 virus vaccines,1
+sars-cov-2-test,1
+sars-cov-2 and/or mis-c exposure,1
+savicell's immunobiopsy™,1
+scb-2019 with as03 adjuvant,1
+scb-2019,1
+scarcity message,1
+scarcity,1
+scanning chest x-rays and performing ai algorithms on images,1
+sc-ad6-1,1
+sbi-101,1
+satisfaction evaluation,1
+sars-cov-2/influenza/rsv rt-pcr,1
+sarscov2 convalescent plasma,1
+sars-cov2-ctls,1
+sars-cov2 serum antibody testing,1
+sars-cov2 serology,1
+sars-cov2 nasal swab,1
+sars-cov2 autoantibody detection,1
+sars-cov2 antibody measurement,1
+sars-cov-2 screening by molecular biology,1
+sars-cov-2 s1/s2 igg,1
+sars-cov-2 rt-pcr assay for detection of covid-19 infection,1
+sars-cov-2 ig g levels,1
+sars-cov-2 mrna vaccine formulation 3,1
+sars-cov-2 mrna vaccine formulation 2,1
+sars-cov-2 mrna vaccine formulation 1,1
+sars-cov-2 mrna vaccine (cvncov),1
+sars-cov-2 infection,1
+sars-cov-2 igg antibody testing kit,1
+sars-cov-2 igg,1
+sars-cov-2 convalescent plasma treatment,1
+sars-cov-2 rs/matrix-m1 adjuvant (initial vaccination period),1
+sars-cov-2 antigen-specific cytotoxic t-lymphocytes,1
+sars-cov-2 antigen rapid test,1
+sars-cov-2 antibody testing,1
+sars-cov-2 antibody test,1
+sars-cov-2 antibody immunoassays,1
+sars-cov-2 antibody based ivig therapy,1
+sars-cov-2 antibody analysis,1
+sars-cov-2 neutralizing antibody titer,1
+sars-cov-2 non-immune plasma,1
+sars-cov-2 pcr and serology tests,1
+sars-cov-2 plasma,1
+sars-cov-2 rs/matrix-m1 adjuvant (crossover vaccination period),1
+sars-cov-2 rs/matrix-m1 adjuvant,1
+"sars-cov-2 rs/matrix-m adjuvant, days 0 and 21 - phase 2",1
+"sars-cov-2 rs/matrix-m adjuvant, day 0 - phase 2",1
+"sars-cov-2 rs/matrix-m adjuvant, day 0 - phase 1",1
+sars-cov-2 rs/matrix-m adjuvant - phase 1,1
+sars-cov-2 rs/matrix-m adjuvant - day 189 - phase 2,1
+sars-cov-2 rs/matrix m1-adjuvant,1
+sars-cov-2 rs - phase 1,1
+"sars-cov-2 research in nasopharyngeal swab, sperm and serologics",1
+sars-cov-2 recombinant protein vaccine formulation 3,1
+sars-cov-2 recombinant protein vaccine formulation 2,1
+sars-cov-2 recombinant protein vaccine formulation 1,1
+"sars-cov-2 rapid diagnostic test (covid-presto® igm/igg, aaz, boulogne-billancourt, france)",1
+sars-cov-2 questionnaire survey,1
+rna vaccine,1
+rivaroxaban 2.5 mg,1
+rivaroxaban 15mg tab,1
+recombinant human interferon alpha-1b,1
+recombinant novel coronavirus vaccine (adenovirus type 5 vector) -placebo,1
+recombinant new coronavirus vaccine (cho cell) group,1
+recombinant ndv vectored vaccine for sars-cov-2,1
+recombinant interferon alfa-2b,1
+recombinant human plasma gelsolin (rhu-pgsn),1
+recombinant human interferon α2b spray,1
+recombinant human interferon α1β,1
+recombinant human anti-sars-cov-2 monoclonal antibody(25mg/kg;50mg/kg;100mg/kg),1
+recombinant novel coronavirus vaccine (adenovirus type 5 vector) 0.5ml,1
+recombinant human annexin a5,1
+recombinant human angiotensin-converting enzyme 2 (rhace2),1
+recombinant bacterial ace2 receptors -like enzyme of b38-cap (rbace2) plus aerosolized 13 cis retinoic acid,1
+recombinant bacterial ace2 receptors -like enzyme of b38-cap (rbace2),1
+recombinant ad5 vectored covid-19 vaccine,1
+recharge,1
+recently vaccination,1
+recombinant novel coronavirus vaccine (adenovirus type 5 vector) 0.3ml,1
+recombinant novel coronavirus vaccine (adenovirus type 5 vector) for inhalation,1
+rehabilitation by concentric exercises,1
+referral and digital brochure,1
+regular care,1
+regn10933 + regn10987,1
+registery data collection,1
+regeneron casirivimab + imdevimab,1
+regadenoson,1
+reframing,1
+referral card,1
+reference: favipiravir 200 mg (avigan),1
+recombinant sars-cov-2 ad5 vectored vaccine,1
+rectal swab,1
+recovered covid 19 patients plasma,1
+recordings of cough sounds from adults,1
+recording of respiratory monitoring,1
+recording of hemodynamic monitoring,1
+recombinase aided amplification (raa) assay,1
+recombinant two-component covid-19 vaccine (cho cell),1
+realtime pcr,1
+real-time cgm,1
+reading a book,1
+random donor plasma,1
+rapid antigen test for sars cov2,1
+rapid antigen test (panbio ag test),1
+rapid antigen test,1
+rapid antibody test,1
+rapamycin,1
+rapa-501-allo off-the-shelf therapy of covid-19,1
+randomized booster,1
+ramipril 2.5 mg oral capsule,1
+rdv placebo,1
+ramelteon 8mg,1
+"raman analysis of saliva, characterization of the raman database and building of the classification model",1
+radx chcs testing intervention strategy,1
+radius ppg tetherless pulse oximetry (masimo),1
+radiotherapy,1
+radiological detection,1
+radiofrequency therapy,1
+rapid antigen testing and offsite pcr testing,1
+rapid antigen testing and onsite pcr testing,1
+rapid antigen testing versus rt-pcr,1
+rapid detection test,1
+rdv,1
+rd-x19,1
+rbt-9 (90 mg),1
+rbd-based protein subunit vaccine (zf2001) against covid-19,1
+rba-2,1
+razuprotafib subcutaneous solution,1
+rayaldee 30mcg extended-release (er) capsule,1
+rarefaction,1
+rapid-3,1
+rapid serological test,1
+rapid salivary test,1
+rapid pathogen detection,1
+rapid onsite covid-19 detection,1
+rapid nasopharyngeal antigen test for sars-cov-2,1
+rapid molecular test,1
+regular inpatient medical care,1
+rehabilitation by eccentric exercises,1
+ritonavir/lopinavir,1
+"respiratory symptoms, symptoms of anxiety and depression, and post-traumatic stress screening",1
+retrospective data and biological samples,1
+retrospective case-control analysis,1
+resveratrol placebo,1
+restore: recovering from extreme stressors through online resources and e-health,1
+resting 12 lead ecg,1
+respiratory training,1
+respiratory tele-rehabilitation program (trr).,1
+respiratory swabs,1
+reverse transcription polymerase chain reaction,1
+respiratory supports,1
+respiratory rehabilitation program (rr).,1
+respiratory rehabilitation,1
+respiratory physiotherapy,1
+respiratory muscles ultrasound,1
+respiratory monitoring,1
+respiratory mechanics measurement,1
+retrospective metagenomics on clinical samples collected during hospitalization,1
+reverse-transcription polymerase chain reaction (rt-pcr),1
+rehabilitation exercise protocol,1
+rhtpo,1
+ritonavir+oseltamivir,1
+ritonavir,1
+risankizumab,1
+rintatolimod,1
+ringer solution,1
+ribavirin capsules,1
+ria-device (remote investigation and assessment),1
+mf59 adjuvanted sars-cov-2 sclamp vaccine 5mcg,1
+review of medical file,1
+rhdnase i,1
+rhace2 apn01,1
+reward re-training,1
+revoxa oxygen rebrearther,1
+revised home-cov score,1
+reviewed clinical records and laboratory results,1
+review of medical patient file,1
+respiratory mechanics,1
+respiratory infections,1
+respiratory functions,1
+remdesivir (rdv),1
+remote ischemic conditioning,1
+remote controlled exercise,1
+remote consultation,1
+remote cognitive behavioral therapy for insomnia,1
+remote automated monitoring system,1
+remimazolam,1
+remdesivir-hu,1
+remain covid free ssi,1
+respiratory function rehabilitation training,1
+relationship scales questionnaire (rsq),1
+relation between frailty and clinical outcomes in elderly patients with covid-19.,1
+rejuveinix (rjx) active comparator,1
+reinforcement learning message delivery,1
+rehabilitation-focused program,1
+rehabilitation protocol through a digital platform,1
+rehabilitation programme,1
+remote monitoring of covid-19,1
+remote problem management plus,1
+remote pulmonary rehabilitation,1
+remote service delivery model,1
+respiratory exercise training,1
+respiratory and psychological rehabilitation,1
+resp301,1
+resp-aer-meter,1
+resp,1
+resistance training,1
+resilience program,1
+research specific blood sample,1
+rescure™,1
+"reporting of anosmia, ageusia and other clinical symptoms",1
+repeat sars-cov-2 igg antibodies at 45-65 days,1
+renin-angiotensin system inhibitors,1
+removal of dead space filter,1
+"remotely monitored, mhealth (remm) supported high intensity interval training (hiit)",1
+"remote sms (short message service, also known as ""text message"") delivery",1
+scb-2019 with cpg 1018 adjuvant plus alum adjuvant,1
+sch intervention,1
+student-senior isolation prevention partnership (ssipp),1
+spironolactone 100mg,1
+stabilized hypochlorous acid,1
+st266,1
+st. george's respiratory questionnaire (sgrq),1
+sse educational intervention,1
+sras-cov-2 vaccination immunological response,1
+sputum analysis,1
+sputnik v,1
+spironolactone + dexamethasone,1
+staff will wear and evaluate bubble-papr (non-ce marked papr),1
+"spirometry, thoracic ct, cpet, 6 minute walking test, sf-36 questionnaire",1
+spin-chat program,1
+spike protein (s) or the nucleocapsid (n) of sars-cov-2,1
+sphenopalatine ganglion block with placebo (isotone nacl),1
+sphenopalatine ganglion block with local anesthetic,1
+sperm test,1
+sperm collection,1
+staff wellbeing centres,1
+stakeholder of tip-oa program,1
+speed of processing training,1
+standard covid-19 therapies,1
+standard message,1
+standard medical care,1
+standard mask,1
+standard interface,1
+standard guidelines,1
+standard enteral nutrition,1
+standard donor plasma,1
+standard concomitant therapy,1
+standar medical treatmen,1
+standard charity resources,1
+standard care plus monitoring,1
+standard care delivered in the isolation hospitals.,1
+standard administration of oxygen flow,1
+"standard 12-lead ecg, nt-probnp, echocardiography",1
+standard (specific) therapy for covid-19,1
+standar of care,1
+speq (specific psychotic experiences questionnaire) - paranoia and grandiosity subscales,1
+specimens specific for the study,1
+scheduled surgery,1
+"sodium chloride, usp, for injection (0.9% nacl)",1
+sofosbuvir ledipsavir,1
+sofosbuvir and ledipasvir,1
+sofosbuvir 400 mg/ daclatasvir 60mg,1
+sofosbuvir 400 mg plus daclatasvir 200mg,1
+sodium pyruvate nasal spray,1
+sodium pyruvate,1
+sodium nitrite,1
+"sodium chloride, 0.9%",1
+software messaging,1
+sodium chloride 9mg/ml,1
+sodium chloride 0.9%,1
+sodium chloride,1
+sodium bicarbonate 150meq/l/d5w inj,1
+socialization,1
+social proof,1
+social network strategy + covid-19 messaging,1
+sofosbuvir plus ledipasvir,1
+sofusbuvir + daclastavir 60 mg,1
+specimen collection,1
+spartan covid-19 platform,1
+specific exercise rehabilitation treatment,1
+specific antibody and cellular immune response after anti-sars-cov-2 vaccine administration,1
+specific anti-sars-cov-2 antibodies,1
+spartan cube point-of care covid-19 test,1
+spartan covid-19 v2 system,1
+spartan covid-19 test,1
+spartan covid-19 system,1
+space parenting program,1
+soluble urokinase plasminogen activator receptor,1
+soton hyperinflammation score,1
+soterix tavns model 0125-lte stimulator - sham-active group,1
+soterix tavns model 0125-lte stimulator - active-active group,1
+sonoclot,1
+"sonclot coagulation and platelet function analyzer scp1, sienco, usa",1
+sona saliva c-19 rapid test,1
+solution-focused support program,1
+standard of care (intravenous access),1
+standard of care (paracetamol),1
+standard of care (soc) + ang-3777,1
+standards of care,1
+stem cells,1
+stem cell product,1
+stem cell educator-treated mononuclear cells apheresis,1
+steam inhalations,1
+stc-19 score,1
+statins (cardiovascular agents),1
+state-trait anxiety inventory scale,1
+standardized lung ultrasound (lus) examination,1
+sterile normal saline (0.9%),1
+standardized crisis management and coping protocol plan toward coronavirus disease 2019 (covid-19),1
+standardized brazilian green propolis extract,1
+standardised questionnaires,1
+standard-titer convalescent covid-19 plasma (ccp2),1
+standard-of-care treatment,1
+standard-of-care sars-cov-2 treatment,1
+standard-of-care,1
+stepped-care model,1
+sterile normal saline for intravenous use,1
+standard of care (soc) + placebo,1
+storage of operating waste,1
+structured telephone support (sts),1
+striveweekly,1
+stress first aid,1
+stress and emotion management,1
+stress and anxiety questionnaire,1
+stp + standard plasma (sp),1
+stp + covid-19 convalescent plasma (cp),1
+stools,1
+sterile water for injection,1
+stool collection or fecal swab,1
+stool collection,1
+stool analysis,1
+stimulation test with arginine infusion in order to verify the possible existence of damage to the beta cell function induced by covid-19 infection,1
+stigma awareness video intervention,1
+sti-5656,1
+steroid taper (prednisone),1
+standard western medicine treatment,1
+standard ventilation strategy,1
+standard treatment of covid-19,1
+standard of care thromboprophylaxis,1
+standard oxygen therapy,1
+standard oxygen delivery system,1
+standard operating procedures,1
+standard of health care,1
+standard of care_2,1
+standard of care_1,1
+standard of care.,1
+standard of care therapy,1
+standard treatment according to the clinical protocols,1
+standard of care therapies,1
+standard of care management,1
+standard of care for sars-cov-2 infection,1
+standard of care for covid-19 as per the hospital guidelines,1
+standard of care (soc) plus placebo,1
+standard of care (soc) for covid-19,1
+standard of care (soc) and colchicine+rosuvastatin,1
+standard physiotherapy program,1
+standard plasma (ffp),1
+standard procedure,1
+standard prophylactic dose enoxaparin/ unfractionated heparin,1
+standard therapy recommended by the ministry of health of the russian federation.,1
+standard therapy recommended by the ministry of health of the russian federation and dalargin intramuscular injection combined with dalargin inhalation,1
+standard therapy recommended by the ministry of health of the russian federation and dalargin intramuscular injection,1
+standard therapy recommended by the ministry of health of the russian federation and dalargin inhalation,1
+standard therapy protocol (stp),1
+standard therapy for covid-19 patient,1
+standard therapy for covid-19 according to the stablished hospital protocols.,1
+standard therapeutic protocol,1
+standard supportive care,1
+standard screening strategy,1
+standard response team,1
+"standard q covid-19 ag - test, produced by sd biosensor inc.",1
+standard public health measures,1
+standard pt,1
+standard protocol,1
+social media & news consumption,1
+social distancing advertisements,1
+social and public health measures against covid-19,1
+seraph®-100 microbind® affinity blood filter,1
+serologic sars-cov-2 screening,1
+serologic immunoassays to sars-cov-2 antibodies,1
+serologic immune response evaluation,1
+serologic assays for antibodies to sars-cov-2,1
+serodiagnosis of igg and igm,1
+serial seroconversion measurements in hospital employees during the covid-19 pandemic,1
+"serelogy testing, rt pcr",1
+sequencing,1
+serologic testing,1
+sequence of testing.,1
+separic-covid19 cohort,1
+sentinox--group b,1
+sentinox--group a,1
+senti v1.0 device,1
+sensiumvitals wearable sensor,1
+sensbiosys,1
+serologic test,1
+serological analyses to be lead on a pre-existing biobank,1
+seroprevalence of sars-cov-2 infection in patients with hiv infection,1
+serological testing for covid-19 infection,1
+"serology testing, rt pcr",1
+serology testing profiles description,1
+serology test follow-up,1
+serology sars-cov2,1
+serology for covid-19,1
+serological tests will be applied on patients blood sampling,1
+serological tests for sars cov-2,1
+serological test for the detection of igg anti-sars-cov-2,1
+serological assay for sars-cov-2,1
+serological test for covid-19.,1
+serological test and phone interview,1
+serological surveillance,1
+serological screening for igg and igm antibodies against covid-19,1
+serological screening,1
+serological covid-19 vaccine immunogenicity,1
+serological assay or igg for sars-cov-2,1
+senior fitness test,1
+senicapoc,1
+sending thorax ct video images via smartphone applications,1
+"selenium, zinc and copper, vitamin a, d, e plasma concentrations during patient hospitalization",1
+self-benefit,1
+self-assesment questionnaire,1
+self-administered structured questionnaire,1
+self-administered questionnaires,1
+self-acupressure,1
+self study,1
+self measurement with pulse oximeter,1
+selenium (as selenious acid),1
+semi-structured telephone questionnaire,1
+secukinumab 150 mg/ml subcutaneous solution [cosentyx],1
+secret questionnaire,1
+sd biosensor,1
+scta01 placebo,1
+screening testing strategy,1
+screening test for covid ( rt pcr and ct chest),1
+schirmer test i,1
+self-breathe,1
+self-care tools,1
+"self-collected, home-based testing",1
+self-compassion for chronic pain virtual group treatment program,1
+semi-structured interviews-patients,1
+semi-structured interviews-health system,1
+semi-directed entretien,1
+semen qualitative analysis,1
+semen analysis,1
+semaglutide,1
+self-questionnary,1
+self-prone position recommendation,1
+self-management booklet (switch: stay well during covid-19),1
+self-interest message,1
+self-help therapy,1
+self-help mindfulness/compassion exercises,1
+self-help booklet,1
+self-guided exercises,1
+self-focused acts,1
+serology to determine sars-cov-2 infection,1
+serum chemistry analysis,1
+social,1
+sirolimus 1 mg/ml,1
+six minutes walk test,1
+six minute walk test (6mwt),1
+sitagliptin,1
+sit-to-stand test,1
+sit to stand test,1
+sirukumab,1
+sirtuin1,1
+sir1-365,1
+six-month arv dispensing,1
+sinopharm vaccine,1
+sinopharm,1
+singstrong: strong lungs through song,1
+single-nucleotide polymorphisms (snp) within the tcra/d region,1
+single passive leg movement,1
+single high dose vitamin d,1
+single fraction whole lung radiotherapy,1
+six-minute walk test (6mwt),1
+skin biopsy,1
+"serum collection, adverse events collection",1
+sndx-6352,1
+soc therapy,1
+soc plus placebo iv,1
+soc plus 15mg/kg eb05 iv,1
+soc + intravenous famotidine,1
+soc + ifx-1,1
+soap distributed but no activities of the hbcc project,1
+sno,1
+sms-based support,1
+sledd with a l-mod,1
+sms message support,1
+smoliv,1
+smell training,1
+smell household items,1
+smartphone-based voice and self-reported symptom collection,1
+sm-ema,1
+slef questionnaires fulfilment,1
+simulation of repurposed drugs for covid-19,1
+simulation intervention,1
+simple cognitive task,1
+severe acute respiratory syndrome coronavirus 2 detection,1
+sg diagnostics covid-19 antigen rapid test kit,1
+sfrms/splf cpap-telemonitoring diagnosis/therapeutic algorithm.,1
+"sf12, eq-5d-5l and work status standardized quantitative assessments",1
+sf-12,1
+sevoflurane inhalant product,1
+severity of lung involvement with covid-19.,1
+severe covid-19 pneumonia with et,1
+service of questionnaire,1
+simple chest tomography,1
+"serum zinc, vitamin d vitamin b12 levels .",1
+serum tube collection,1
+serum test,1
+serum sars cov 2 igg screening in health care workers,1
+serum protein level analysis,1
+serum ngal and cystatin c,1
+serum inflammatory biomarkers,1
+sham,1
+sham acupressure group,1
+sham device treatment,1
+sham inflation,1
+simha kriya,1
+sildenafil citrate tablets,1
+sildenafil,1
+shorter duration higher frequency pt,1
+shock-dependent hydrocortisone,1
+"shingrix (zoster vaccine recombinant, adjuvanted)",1
+shg,1
+shared decision making,1
+shanshamani vati plus,1
+shampoo and saline,1
+shampoo and listerine,1
+sham treatment,1
+sham transcranial direct-current stimulation,1
+sham irradiation,1
+sham intervention,1
+mfs,1
+low dose whole lung radiotherapy for older patients with covid-19 pneumonitis,1
+mf59 adjuvanted sars-cov-2 sclamp vaccine 45mcg,1
+clinical decision support system based on non-invasive multimodal monitoring,1
+"clinical, laboratory and imaging characteristics of pneumonia",1
+"clinical, functional and radiological lung involvement evolution",1
+clinical trial matching,1
+clinical observation,1
+clinical interview,1
+clinical features and laboratory values,1
+clinical diagnosis of covid-19 by a health care professional,1
+clia of igg and igm against sars-cov-2,1
+cliniporator,1
+clbs119,1
+clazakizumab 25 mg,1
+clazakizumab 12.5 mg,1
+clarithromycin 500mg,1
+clarithromycin,1
+ckd-314+soc,1
+ckd-314 placebo+soc,1
+clinician endorsement,1
+cliniporator® and epsgun,1
+cimetra-2,1
+cnm-znag,1
+cod liver oil,1
+coca is an observational study based on retrospective data issued from patient medial file.,1
+"coaching, cleaning, communication, collaboration",1
+co-ultrapealut,1
+co-trimoxazole,1
+co-mestring (co-coping),1
+cns magnetic resonance imaging (mri) imaging,1
+cm4620-ie (injectable emulsion),1
+clofazimine,1
+clungene rapid test cassette,1
+cloth face mask,1
+closys ultra sensitive rinse mouthwash,1
+closed-loop control of oxygen supplementation by o2matic,1
+closed face shield with surgical face mask use,1
+clorhexidine dental phb©,1
+clopidogrel 75mg,1
+ck0802,1
+cimetra-1,1
+"cognitive behavior therapy (cbt), specifically using the facing your fears (fyf) curriculum",1
+chest mri,1
+chiropractic care,1
+chinese medicine treatment,1
+chinese herbal medicine,1
+chest x-ray,1
+chest radiography,1
+chest physiotherapy using a non-invasive oscillating device,1
+chest physiotherapy post-covid19,1
+chest cta,1
+chiropractic care (one visit),1
+chest ct scan + baseline spirometry,1
+chest ct scan,1
+chest ct,1
+chest computed tomography (ct),1
+chest computed tomography,1
+chemotherapy,1
+chelsea critical care physical assessment tool,1
+chiropractic care (more than one visit),1
+chitotriosidase activity,1
+cig tilted,1
+choices and judgements,1
+cig axial,1
+ciclesonide metered dose inhaler [alvesco],1
+ciclesonide inhalation aerosol,1
+chx0.12+cpc0.05 oral rinse (perioaidactive control),1
+chulacov19 mrna vaccine,1
+"cholecalciferol 50,000 iu",1
+"cholecalciferol 200,000 iu",1
+choice of assignment: opt-in,1
+chlorhexidine gluconate (a) mouth rinse with the solution provided,1
+choice of assignment: enhanced active choice,1
+choice of assignment: active choice,1
+chlorpromazine (cpz),1
+chlorpromazine,1
+chloroquine phosphate tablets,1
+chlorine dioxide 3000 ppm,1
+chlorine dioxide,1
+cognitive and behavioral intervention.,1
+cognitive behavioral brief-telepsychotherapy,1
+chatbot on covid-19 vaccine hesitancy,1
+comparative observational cohort study,1
+complementary and alternative medicine,1
+complement dosage,1
+compassion focused intervention,1
+compass,1
+comparison of sample collection methods,1
+comparison of antigen tests with rt-pcr as reference method,1
+comparison group,1
+comparable placebo of oral polio vaccine and placebo of drug,1
+complete thrombophilic profile testing by multiplex pcr,1
+comparable placebo of drug,1
+comparable placebo,1
+community-driven messages to promote covid-19 testing,1
+"community-based, mobile van testing",1
+community popular opinion leader (pol) based intervention,1
+community organization led outreach,1
+community mask,1
+"complete blood picture, bone marrow aspiration cytology",1
+completion of covid19 vaccine at least 4 weeks ago,1
+community health worker support,1
+concentrate beetroot juice,1
+confirm sars-cov-2 infection,1
+confinement and communication during the covid-19 pandemic,1
+conestat alfa,1
+concurrent treatment of ptsd and substance use disorders using prolonged exposure (cope),1
+concentrated rehabilitation for patients with persistent symptoms post covid-19,1
+concentrated oxygen,1
+concentrated air,1
+computer task questionnaires,1
+completion of post telemedicine encounter survey,1
+computed tomography (ct),1
+comprehensive treatment,1
+comprehensive assessment of respiratory muscle function.,1
+complication,1
+complex diagnostic panel,1
+completion of survey after peak of pandemic,1
+completion of pre-pandemic survey,1
+community interest message,1
+communication type,1
+cognitive behavioural group therapy for perinatal anxiety,1
+colchicine 1 mg oral tablet,1
+colgate total zero,1
+colgate total clean mint,1
+colgate peroxyl® mouthwash,1
+colgate peroxyl® -1.5% hydrogen peroxide,1
+colgate periogard® mouthwash,1
+colchicine plus symptomatic treatment (paracetamol),1
+colchicine pill,1
+colchicine 0.6 mg,1
+collagen-polyvinylpyrrolidone,1
+cohort 3 hdt 301 vaccine,1
+cohort 2 hdt 301 vaccine,1
+cohort 1 hdt 301 vaccine,1
+cognitive training,1
+cognitive tests,1
+cognitive testing,1
+cognitive performance test,1
+colgate total® mouthwash,1
+collection of blood samples in order to create a biocollection,1
+communication,1
+com-covid anonimous survey,1
+comirnaty - biontech manufacturing gmbh,1
+"comirnaty (covid-19, mrna vaccine)",1
+comet assay,1
+combined use of a respiratory broad panel multiplex pcr and procalcitonin,1
+combined art/hydroxychloroquine,1
+combination of oral polio vaccine and na-831,1
+combination,1
+colorectal resections,1
+"collection of blood, salivary and nasopharyngeal samples.",1
+colonoscopy,1
+collection of tears and saliva.,1
+collection of swabs,1
+collection of samples,1
+collection of odour samples,1
+collection of mucosal lining fluid,1
+collection of breath sample,1
+check-list including lung ultrasound,1
+chat-based support,1
+bovine plasma-derived immunoglobulin concentrate,1
+butterfly,1
+c2rx,1
+c19-ig 20%,1
+c144-ls and c-135-ls,1
+c135-ls + c144-ls,1
+c-reactive protein,1
+bva-100,1
+butterfly iq,1
+burnout,1
+cad3-ebo-s,1
+budesonide nasal,1
+budesonide dry powder inhaler,1
+budesonide,1
+buddy assigned in community,1
+buddy,1
+btl-tml-covid,1
+bronchoalveolar lavage (bal),1
+c3+ holter monitor,1
+cad3-marburg,1
+bronchial fibroscopy,1
+canakinumab injection 600mg,1
+cap-1002 allogeneic cardiosphere-derived cells,1
+cap-1002,1
+canswab,1
+canrenoate potassium,1
+"cannabis, medical",1
+"cannabidiol, pharmaceutically produced with < 5 ppm thc",1
+candesartan,1
+canakinumab injection 300mg,1
+cad4covid+wbc and covid-19 rdt for sars-cov-2 infection,1
+canakinumab 150 mg/ml [ilaris],1
+cambridge validated viral detection method,1
+cam-icu 7 score,1
+calm meditation app,1
+calcium channel blockers,1
+cag length >=22,1
+cag length <22,1
+broncho-vaxom®,1
+bromhexine oral tablet and/or hydroxychloroquine tablet,1
+capillary blood glucose testing with masked cgm,1
+breath biopsy sampling using the reciva breath sampler,1
+bresci̇a-covi̇d respiratory severity scale,1
+brensocatib,1
+breathing exercises,1
+"breathing exercise, intensive spirometry use, supported cough, progressive mobilisation and ambulation",1
+breathing exercise with the phone application,1
+breath test & cheek swab,1
+breath sample,1
+breath biopsy analysis,1
+bridge therapy,1
+breath biopsy,1
+breast feeding adherence,1
+brazilian green propolis extract (epp-af),1
+brainstem responses assessment sedation score (brass),1
+brain mri scan,1
+brain mri assessment,1
+brain mri,1
+brexanolone,1
+brief behavioral activation with mental imagery,1
+bromhexine hydrochloride tablets,1
+brii-196,1
+bromhexine hydrochloride,1
+bromhexine and spironolactone,1
+bromhexine 8 mg,1
+bromelain,1
+broad-spectrum cbd oil,1
+brilacidin,1
+brii-198,1
+brief skills for safer living,1
+brief cognitive behavioral therapy,1
+brief psychiatric rating scale,1
+brief mindfulness based intervention,1
+brief interpersonal telepsychotherapy,1
+brief informational infographic,1
+brief educational video,1
+brief counseling,1
+brief cope scale,1
+capillary and salivary sampling,1
+capillary collection & testing,1
+chat-based instant messaging support,1
+cerc-002,1
+chadox1 ncov-19 (abs 260),1
+cetirizine and famotidine,1
+certified cloth face mask plus preventive information,1
+cereset research,1
+"cerebrospinal fluid sampling, meningeal and brain parenchyma biopsies",1
+cerebrolysin,1
+cerebral compliance and hemodynamics monitoring,1
+centricyte 1000,1
+chadox1 ncov-19 (qpcr),1
+cenicriviroc (cvc),1
+cellulose-containing placebo capsules,1
+cellular response,1
+cellular and antibody response to spike antigens of sars-cov-2 in both groups in peripheral blood samples,1
+cell therapy protocol 2,1
+cell therapy protocol 1,1
+celecoxib famotidine,1
+chadox1 ncov-19 (abs 260) + 2.2x10^10vp (qpcr) boost,1
+chadox1 ncov-19 0.5ml (3.5-6.5x10^10vp) late vaccine (lv),1
+ceftaroline,1
+chadv68-s-tce,1
+chart review,1
+change in preference to surgery under covid-19 pandemic.,1
+"change in knowledge, motivation, skills, resources",1
+change in kidney function and proteinuria,1
+chamindwell,1
+chair-yoga program,1
+chain-referral,1
+chadv68-s,1
+chadox1 ncov-19 0.5ml (3.5-6.5x10^10vp) late vaccine two (lvt),1
+chadox1-s [recombinant],1
+chadox1 ncov-19 two dose + paracetamol,1
+chadox1 ncov-19 single dose + paracetamol,1
+chadox1 ncov-19 half boost,1
+chadox1 ncov-19 full boost,1
+chadox1 ncov-19 0.5ml prime plus boost,1
+chadox1 ncov-19 0.5ml boost,1
+ceftriaxone,1
+cefditoren pivoxil 400mg,1
+capnography,1
+cardiopulmonary fitness level,1
+care as usual,1
+cardiovascular magnetic resonance imaging,1
+cardiovascular magnetic resonance (cmr) imaging,1
+cardiovascular and respiratory systems monitoring,1
+cardiorespiratory exercise,1
+cardiopulmonary stress test (cpet),1
+cardiopulmonary resuscitation,1
+cardiopulmonary exercise (online-based),1
+care modalities. quantitative and qualitative approaches to analysis,1
+cardiopulmonary exercise (centre-based),1
+cardiac mri,1
+cardiac magnetic resonance imaging (cmr),1
+cardiac magnetic resonance imaging,1
+cardiac ct,1
+captopril 25mg,1
+caption ai,1
+care modalities,1
+caring contacts,1
+cd24fc,1
+cash transfer,1
+ccp,1
+cbdra60 supplement,1
+cbd isolate,1
+cbd,1
+cbc-diff monocyte volume width distribution,1
+castem,1
+casirivimab,1
+case fatality rate,1
+caring contacts plus introductory phone call (cc+),1
+"cartography of air contamination, environment contamination and biological fluid by sars-cov2 during visceral surgery in covid19 patients.",1
+carragelose,1
+carrageenan nasal and throat spray,1
+carotid-femoral pulse-wave velocity,1
+carotid artery ultrasound measure,1
+carotid artery reactivity testing,1
+caring contacts without an introductory phone call (cc),1
+congenital malformation,1
+conjunctival rt pcr,1
+conjunctival swab and nasopharyngeal swab,1
+cries 13 questionnaire,1
+cross-sectional study examining the impact of information sources to obtain information about covid-19 on depression and anxiety symptoms,1
+cross-sectional observational study,1
+cross sectional study using scientifically validated psychometric scales,1
+cross sectional e-survey on surgeons exposed to any educational intervention,1
+critical dialogue,1
+crisis management coaching,1
+crisis intervention therapy,1
+cri management,1
+cross-sectional survey,1
+cretan iama,1
+crest pro-health multi-protection mouthwash,1
+credible messenger,1
+cpi-006 2 mg/kg + soc,1
+cpi-006 1 mg/kg + soc,1
+cpi-006,1
+cpg 1018/alum-adjuvanted scb-2019 vaccine,1
+cross-sectional study investigating the association of npis with mental health,1
+crp-apheresis,1
+cpc,1
+ct-p59/placebo,1
+curosurf® (poractant alfa),1
+curently used therapy for covid-19 non-critical patients,1
+culturally adapted cognitive behavioral intervention (ca-cbi),1
+cuff application with inflation,1
+ctus examination,1
+ct-v,1
+ct-scan with minimal invasive autopsy,1
+ct-imaging,1
+cryo lung biopsies,1
+ct score,1
+ct of the chest,1
+cst-5: placebo,1
+cst-2: placebo,1
+cst-2: eidd-2801,1
+csl760,1
+csl324,1
+cpc+zn,1
+cpap treatment,1
+current clinical practices of participating physicians,1
+covid-19 vaccine education campaign,1
+covid-globulin,1
+covid-evax,1
+covid-antibody test,1
+covid-19-impact on quality of life questionnaire,1
+covid-19 vaccine moderna dispersion for injection - moderna biotech,1
+covid-19 vaccine hesitancy scale in rheumatic diseases,1
+covid-19 vaccine hesitancy associated factors,1
+covid-19 vaccine astrazeneca suspension for injection,1
+covid-surgres questionaire,1
+covid-19 vaccination,1
+covid-19 treatments,1
+covid-19 treatment,1
+covid-19 testing,1
+"covid-19 test, polymerase chain reaction for sars-cov-2",1
+covid-19 symptom monitoring system,1
+covid-19 swap test pcr,1
+covid-higiv,1
+covid-viro® test,1
+cpap,1
+covigenix vax-001 placebo,1
+covx,1
+covvr,1
+covsurf drug delivery system,1
+covivac,1
+coviv+iiv4; coviv+ppv23,1
+coviv only (1st and 2nd dose),1
+covishield,1
+covigenix vax-001,1
+covid19 convalescent plasma infusion,1
+covigen 4.0 mg im or placebo im,1
+covigen 2.0 mg im or placebo im,1
+covigen 0.8 mg id or placebo id,1
+covidseq test,1
+covidfree@home,1
+covid19 rt-pcr,1
+covid19 immunization testing,1
+current care per ucla treating physicians,1
+current health,1
+connect2test intervention,1
+data collection from lumbar puncture,1
+db-001,1
+"data research, database analysis",1
+data registry,1
+data monitoring for 48h within the first 24 hours of admission for covid-19,1
+data collection: clinical care assessments,1
+data collection up to 1 year,1
+data collection from medical files,1
+data collection from blood draw,1
+decidual stromal cells (dsc),1
+data collection and rhinopharyngeal swab,1
+data collection (,1
+data collecting,1
+dass-21 instrument (depression and anxiety),1
+dass questionnaire,1
+dasatinib anhydrous,1
+das181 ol,1
+"ddrops® products, 50,000 iu, oral",1
+decision science-based design,1
+darunavir/cobicistat,1
+degarelix,1
+"depression, anxiety and stress scale",1
+depression,1
+dental pulp mesenchymal stem cells,1
+demographic and clinical data obtained from hospital's electronic medical record.,1
+deltarex-g,1
+delns1-ncov-rbd laiv,1
+delayed vepmp intervention,1
+defibrotide injection,1
+decision tool for clinicians,1
+defibrotide 25 mg/kg 24 hours continuous infusion for 15 days,1
+deep venous disease diagnostic,1
+deep breathing training,1
+deep breathing exercise with triflo,1
+dect,1
+decitabine,1
+decisions of limitations and stop processing,1
+das181 covid-19,1
+darunavir and cobicistat,1
+current ipac-uhn ppe,1
+cyp phenotyping,1
+cytosorb,1
+cytokines measurement,1
+cytokines dosage,1
+cytokine measurements,1
+cytokine hemadsorption,1
+cytokine adsorption,1
+cyp-001,1
+cynk-001,1
+cytosorb-therapy,1
+cyclosporin a,1
+cycle threshold,1
+cvncov 6 μg,1
+cvncov 12μg,1
+cvncov 12 μg,1
+customized questionnaire,1
+custom vr,1
+cytosorb 300 ml device,1
+cytotoxic t lymphocytes,1
+dapsone 100 mg,1
+daily syndromic surveillance,1
+dapansutrile capsules,1
+dapagliflozin 10 mg,1
+dapagliflozin,1
+danoprevir+ritonavir,1
+dalteparin,1
+dalcetrapib,1
+daily vitamin d3,1
+daily room disinfection,1
+"d-beta-hydroxybutyrate-(r)-1,3 butanediol monoester",1
+daily placebo,1
+daily monitoring,1
+daily coping toolkit,1
+daclatasvir 60 mg,1
+daad compound,1
+"d-dimer,cbc.esr,crp,",1
+d-dimer test,1
+covid-19 swab pcr test,1
+covid-19 swab,1
+covid-19 standard care,1
+conventional management of patients,1
+conventional vaccine,1
+conventional therapy first,1
+conventional physical therapy,1
+conventional oxygen,1
+conventional n95 respirator,1
+"conventional medicines (oxygen therapy, alfa interferon via aerosol inhalation, and lopinavir/ritonavir) and traditional chinese medicines (tcms) granules",1
+"conventional medicines (oxygen therapy, alfa interferon via aerosol inhalation, and lopinavir/ritonavir)",1
+conventional (low flow) oxygen delivery via nasal cannula,1
+copan swabbing and blood sample collection,1
+conventional,1
+convenient scheduling link,1
+convalesscent plasma,1
+convalescent serum,1
+convalescent sars covid-19 plasma,1
+convalescent plasma with antibody against sars-cov-2.,1
+convalescent plasma treatment,1
+convp,1
+coping strategies video,1
+convalescent plasma infusion,1
+coronavirus disease 2019,1
+corticosteroids and derivatives,1
+corticosteroid with or without colchicine,1
+corticosteroid nasal irrigation,1
+corticosteroid injection,1
+corticosteroid alone,1
+corsodyl® alcohol free -0.2 % chlorhexidine digluconate,1
+coronovac,1
+"coronavirus anxiety scale , covid-19 phobia scale",1
+cor-101,1
+coronavac vaccine,1
+coronacidetm covid-19 igm/igg rapid test and premier biotech covid-19 igm/igg rapid test,1
+coronacheck device,1
+coromec registry with ecl-19,1
+corn oil (placebo),1
+core warming,1
+cordio app,1
+convalescent plasma of patients with covid-19,1
+convalescent plasma from recovered covid 19 donor,1
+covid-19 specific t cell derived exosomes (cstc-exo),1
+continuous glucose monitor (cgm),1
+contrast-enhanced cmr,1
+continuous vital sign monitoring - isansys patient status engine,1
+continuous renal replacement therapy,1
+continuous positive airway pressure (cpap) treatment,1
+continuous positive airway pressure (cpap) therapy using oxyjet,1
+continuous positive airway pressure,1
+"continuous glucose monitoring (cgm, dexcom g6)",1
+continuous exercise training,1
+control (albumin 5%),1
+continuous blind glucose measurement device (free style pro),1
+continuation of arb/acei,1
+continuation of acei/arb,1
+contain covid anxiety ssi,1
+consultation,1
+connor-davidson resilience scale 10 items (cd-risc 10),1
+connected devices measurements,1
+contrast-enhanced mri,1
+control arm,1
+convalescent plasma as therapy for covid-19 patients,1
+control swab,1
+convalescent plasma application to sars-cov-2 infected patients,1
+convalescent plasma 2 units,1
+convalescent plasma 1 unit,1
+convalescent immune plasma,1
+convalescent anti-sars-cov-2 plasma,1
+controls,1
+control test,1
+control period,1
+control blend,1
+control patients,1
+control message,1
+control intervention,1
+control group quality of life assessment,1
+control group - waiting list,1
+control group (standard hospital treatment),1
+"control group (pharmacotherapy and/or psychotherapy, n=10)",1
+corvax,1
+cosh self-help smoking cessation booklet,1
+cospherunate/azythromycine,1
+covid-19 diagnostic and assessment tests,1
+covid-19 group (group i),1
+covid-19 group,1
+covid-19 facility,1
+covid-19 experience surveys,1
+covid-19 e-package: psychological wellbeing for healthcare workers,1
+covid-19 diagnostic test,1
+covid-19 diagnostic pcr,1
+covid-19 convalscent plasma,1
+"covid-19 igg/igm rapid test cassette test (healgen scientific, houston, texas, usa)",1
+covid-19 convalescent plasma treatment,1
+covid-19 convalescent plasma (ccp) plus standard of care (soc),1
+covid-19 convalescent plasma (ccp),1
+covid-19 convalescent hyperimmune plasma,1
+covid-19 breastfeeding support,1
+covid-19 barrier box,1
+"covid-19 antigen/antibody rapid testing, mobile device image capture and telemedicine support",1
+"covid-19 igg / igm rapid test (whole blood, serum, plasma)",1
+"covid-19 inactive vaccine, recombinant human adenovirus serotype number 26, mrna vaccine",1
+cospherunate/phytomedicine/azythromycien,1
+covid-19 positive,1
+covid-19 serology igg,1
+covid-19 sars-cov igg/igm antibody rapid test,1
+covid-19 rt-pcr test,1
+covid-19 related health warning leaflet,1
+covid-19 presto test,1
+covid-19 positive via testing,1
+covid-19 positive pregnant women,1
+covid-19 pneumonia,1
+covid-19 infection status,1
+covid-19 pcr swab,1
+covid-19 pcr and serology testing,1
+covid-19 pcr and serology,1
+"covid-19 pcr , igm",1
+covid-19 pcr,1
+covid-19 nasal/pharyngeal swab,1
+covid-19 monitoring using wearable sensors and smartphone technology,1
+"covid-19 antigen and antibody tests, and influenza rapid test",1
+covid-19 antibody testing (igg and igm),1
+covid-19 antibody testing,1
+covend24,1
+covid 19 diagnostic test,1
+covid 19 convalescent plasma,1
+covicu,1
+covi-vac,1
+covi-guard,1
+coverall personal protective equipment (ppe-c) suit,1
+covepit (ose13e),1
+covaxin,1
+covid-19 antibody test,1
+covax-19™,1
+covax facts,1
+covac-2,1
+cov-scan rapid covid-19 antigen test,1
+"couple hopes guided, internet-delivered, self-help intervention",1
+cost-benefit frame,1
+cost,1
+covid 19 diagnostic test by pcr,1
+covid 19 impact,1
+covid 19 on pregnancy outcomes,1
+covid 19 self-questionnaire,1
+covid-19 antibody point of care test kit,1
+covid-19 antibodies testing,1
+covid-19 androgen sensitivity test (covast),1
+covid-19 and intensive care,1
+covid-19 + patients,1
+covid wheld,1
+covid watch,1
+covid visitation restrictions,1
+covid vaccines,1
+covid rehabilitation program for the elderly (core),1
+covid rehab formula granules,1
+covid positive via testing,1
+covid icu containment measures,1
+covid detect,1
+covid 19 serology,1
+brac's business-as-usual,1
+bovine lipid extract surfactant,1
+mf59 adjuvanted sars-cov-2 sclamp vaccine 15mcg,1
+alanine,1
+alexa amazon,1
+aldesleukin,1
+alcohol-based hand sanitizer,1
+alcohol mouthwash (listerine) (d) mouth rinse with the solution provided,1
+alcohol based hand sanitizer,1
+albuterol sulfate (nebulizer),1
+albuterol sulfate (mdi),1
+aks-452,1
+all treatment about covid-2019,1
+akl-t01,1
+ak119,1
+airway pressure release ventilation,1
+airway management during sedation or general anesthesia,1
+airwave oscillometry,1
+airgo respiratory monitor,1
+airflo2,1
+alisporivir,1
+allogeneic and expanded adipose tissue-derived mesenchymal stem cells,1
+agent-797,1
+"alpha-interferon alpha, abidol, ribavirin, buzhong yiqi plus and minus formula, huhuang detoxicity paste, baimu qingre jiedu paste, fumigation/inhalation of vitamin c",1
+alveolar recruitment,1
+alvelestat,1
+alternate nostril breathing,1
+alteplase,1
+alpha1-proteinase inhibitor,1
+"alpha-interferon, abidol, ribavirin, buzhong yiqi plus and minus formula, huhuang detoxicity paste, baimu qingre jiedu paste and high-dose vitamin c treatment",1
+"alpha-interferon, abidol, ribavirin, buzhong yiqi plus and minus formula, huhuang detoxicity paste, baimu qingre jiedu paste and 5% glucose",1
+alpha one antitrypsin inhalation,1
+allogeneic and expanded adipose tissue-derived mesenchymal stromal cells,1
+almitrine,1
+allostim,1
+allogenic pooled olfactory mucosa-derived mesenchymal stem cells,1
+allogeneic wharton's jelly-mscs (wj-msc),1
+allogeneic nk transfer,1
+allogeneic mesenchymal stem cell,1
+allogeneic human dental pulp stem cells (bsh btc & utooth btc),1
+ai model,1
+after-each-case room disinfection,1
+amantadine,1
+adenosine,1
+administration of equine immunoglobulin anti sars-cov-2,1
+adm03820,1
+adjuvanted sars-cov-2 subunit vaccine (acov2),1
+adjunctive therapies,1
+adipose tissue,1
+adimrsc-2f,1
+adenovirus type-5 vectored covid-19 vaccine,1
+additional ct acquisition,1
+adsorbed sars-cov-2 (inactivated) vaccine,1
+additional blood tubes,1
+additional and minimal collection of products of the human body carried out during a sample for standard of care,1
+adcovid,1
+adcld-cov19,1
+adapt-232 oral solution,1
+adam sensor,1
+adalimumab,1
+admission to icu for covid-19,1
+advance care planning video,1
+after covid-19 pandemic,1
+aerosolized 13 cis retinoic acid plus inhalation administration by nebulization captopril 25mg,1
+african american sender in informational videos.,1
+african american sender acknowledgement,1
+aerosolized isotretinoin plus tamoxifen,1
+aerosolized dnase,1
+aerosolized all-trans retinoic acid plus oral tamoxifen,1
+aerosolized all trans retinoic acid,1
+aerosolized 13 cis retinoic acid plus inhalation inhaled testosterone,1
+aerosolized 13 cis retinoic acid in combination with spike protein based vaccine,1
+advance care planning video and conversation,1
+aerosol-reducing mask,1
+aerosol box (splashguard),1
+aerolized hydroxychloroquine sulfate,1
+aerobic training,1
+aerobic exercises,1
+aerobic exercise therapy,1
+adx-629,1
+ama acknowledgement drug pricing,1
+amantadine hydrochloride,1
+acupuncture and standard care,1
+anti-sars-cov-2 igt seropositivity,1
+antibiotics,1
+antibiotic,1
+anti-spike sars-cov-2 igg,1
+anti-sars-cov2 serological controls and serum neutralization,1
+anti-sars-cov-2 plasma,1
+anti-sars-cov-2 immunoglobulin,1
+anti-sars-cov-2 igy,1
+anti-sars-cov-2 equine immunoglobulin fragments (inosars),1
+antibody test (sars-cov2),1
+anti-sars-cov-2 antibody testing,1
+anti-sars-cov-2,1
+anti-covid-19 human immunoglobulin,1
+anti-covid test,1
+anti-coronavirus antibodies (immunoglobulins)obtained with dfpp from convalescent patients,1
+anti-coronavirus antibodies (immunoglobulins) obtained with dfpp form convalescent patients,1
+anti-cd14,1
+antibodies testing,1
+antibody testing,1
+anti sars-cov-2 equine hyperimmune serum,1
+antioxidation therapy,1
+anxiety and depression assessment,1
+anxiety,1
+antroquinonol,1
+antiviral agents,1
+antithrombotic therapy (anticoagulant and/or antiplatelet) before admission for covid19,1
+antithrombin + best available treatment,1
+antisars-cov-2 serum,1
+antimicrobial stewardship prospective audit and feedback,1
+antibody testing for sars-cov-2 igg,1
+antihypertensive agents,1
+antigen detection test,1
+antidiabetic treatment,1
+anticoagulation agents (edoxaban and/or high dose lmwh),1
+anticoagulant therapy,1
+antibody-rich plasma from covid-19 recovered patients,1
+antibody titration,1
+anti- sars-cov-2 plasma,1
+anti sars-cov 2 convalescent plasma in severe covid-19 patients,1
+amh sampling,1
+an69-standard,1
+anakinra plus osoc,1
+anakinra and ruxolitinib (overcome stage 3),1
+anakinra and ruxolitinib (advanced stage 3),1
+anakinra alone (stages 2b/3),1
+anakinra 149 mg/ml prefilled syringe [kineret],1
+anakinra 100mg/0.67ml inj syringe,1
+anakinra +/- ruxolitinib (stages 2b/3),1
+an69-oxiris,1
+analog scale,1
+an auto-questionnaire comprising three psychometric scales,1
+amy-101,1
+amoxicillin/clavulanate,1
+amoxicillin-clavulanate,1
+amor 18 powder & inhalation,1
+amlodipine,1
+amiodarone,1
+anakinra prefilled syringe,1
+"analogs, prostaglandin e1",1
+anti sars-cov 2 convalescent plasma in critical covid-19 patients,1
+angiotensin receptor blocker,1
+anti covid19 igg antibodies,1
+anti covid 19 intravenous immunoglobulin (c-ivig),1
+anonymous survey,1
+anne one,1
+anluohuaxian,1
+angiotensin-converting enzyme inhibitors (ace-i) and angiotensin ii receptor blockers (arb),1
+angiotensin receptor blockers,1
+angiotensin ii receptor blockers,1
+analysis of blood samples,1
+angiotensin ii,1
+angiography scanner,1
+anger message,1
+anesthesia management,1
+anatolian propolis,1
+"analysis of cytokine response, innate and adaptive immune response, complement activation, and serum neurofilaments as a marker of neurological damage.",1
+analysis of cell-mediated and antibody-mediated immunity to sars-cov-2 virus,1
+ad5-ncov,1
+activity list,1
+bovhyaluronidase azoxymer,1
+20-valent pneumococcal conjugate vaccine (20vpnc),1
+25-oh cholecalciferol,1
+25 µg spfn_1b-06-pl + alfq (qs21 adjuvant),1
+25 post non-icu patients,1
+25 post icu-patients,1
+24 hour holter ecg,1
+2019-ncov pcr,1
+2019-ncov igg/igm rapid test cassette,1
+20% adoption rate,1
+2: continuation of ras blocker therapy,1
+20 mg prednisone for 14 days,1
+2 post-mortem transcutaneous lung biopsies (1 anterior ; 1 posterior) using anatomical landmarks,1
+2 doses of vaccine,1
+1: usual practice,1
+1: prone positioning,1
+1: naproxen,1
+1: ilt101,1
+27% ethanol plus essential oils,1
+2: no instruction regarding positioning,1
+18f-αvβ6-bp,1
+"35 ml blood, 5 tubes lithium heparinate at each time (cured patients)",1
+40ml blood sample,1
+40-steps-test,1
+40% adoption rate,1
+4-week intervention,1
+38-questions questionnaire,1
+38 questions questionnaire,1
+"35 ml blood, 5 tubes lithium heparinate at each time (hospitalized patients )",1
+30 µg cov2 sam (lnp),1
+2: placebo comparator,1
+"3-doses schedule 3 of covid-19 vaccine (vero cell), inactivated",1
+"3-doses schedule 2 of covid-19 vaccine (vero cell), inactivated",1
+"3-doses schedule 1 of covid-19 vaccine (vero cell), inactivated",1
+3-dayivm 200 mcg/kg/day/14-day 75mgasa/day + standard of care (intervention 1),1
+3 µg cov2 sam (lnp),1
+2: usual practice + symbicort rapihaler,1
+2: standard of care,1
+1: discontinuation of ras blocker therapy,1
+18f-fdg pet-ct,1
+5 blood samples,1
+0.075% cetylpyridinium chloride,1
+0.5% povidone/iodine oral/nasal rinse,1
+0.5% povidone iodine,1
+0.12% chlorhexidine oral/nasal rinse,1
+0.12% chlorhexidine gluconate mouth rinse,1
+0.12% chlorhexidine gluconate,1
+0.1% sodium hypochlorite,1
+0.075% cetylpyridinium chloride (cpc),1
+0.07% cetylpyridinium chloride (cpc) in mouthwash,1
+0.6% pvp-i oral and nasal spray to asymptomatic to mild covid-19 patient having multiple comorbidity,1
+"0, 28 day schedule",1
+"0, 112 day schedule",1
+0% adoption rate,1
+- synthetic anti-malarial drugs,1
+(standard of care) soc,1
+"""vernonia amygdalina""",1
+"""sham""-block with placebo (isotone nacl)",1
+0.5% w/v povidone-iodide,1
+0.6% pvp-i oral and nasal spray to healthy volunteer,1
+150 ppm nitric oxide delivered through lungfit delivery system,1
+1% hydrogen peroxide,1
+13 cis retinoic acid doses orally in combination with spike protein based vaccine,1
+10% povidone-iodine nasal decolonization swab plus 0.12% chg oral rinse,1
+10 µg cov2 sam (lnp),1
+1.5% w/v hydrogen peroxide,1
+1.5% hydrogen peroxide (h2o2),1
+1. characterize the immune response after infection with sars-cov-2,1
+1% povidone iodine (pvp-i),1
+1 µg cov2 sam (lnp),1
+0.6% pvp-i oral and nasal spray to moderately ill covid-19 positive patient,1
+1 minute sit to stand test,1
+0.9%nacl,1
+0.9% sodium-chloride,1
+0.9% sodium chloride (normal saline),1
+0.9% sodium chloride,1
+0.9% normal saline,1
+0.9% (w/v) saline,1
+4plants/azythromycin,1
+5 times sit to stand test,1
+activity,1
+abx464,1
+accuchek inform ii platform,1
+acceptance and commitment therapy (act) exercises,1
+acalabrutinib treatment d,1
+acalabrutinib treatment c,1
+acalabrutinib treatment b,1
+acalabrutinib treatment a,1
+acacia senegal,1
+abpm,1
+"ace inhibitor, angiotensin receptor blocker",1
+abncov2 vaccine,1
+abivertinib,1
+abidol hydrochloride combined with interferon atomization,1
+abdominal ultrasound,1
+abbv-47d11,1
+abbv-2b04,1
+abbc1 immunoessential,1
+accuracy of cad4tb and afinion crp assay for pulmonary tb,1
+ace inhibitors and calcium channel blockers,1
+aat( alpha 1 antitrypsin),1
+act-20-msc,1
+active placebo,1
+active pbmt/smf,1
+active covid-19 disease,1
+active control:healthy living,1
+active comparator: self-care group,1
+active comparator,1
+actigraphy,1
+act-20-cm,1
+acei,1
+act,1
+"acp educator led, video assisted discussion",1
+acp decisions video program,1
+acknowledgement racial injustice ama,1
+acetyl l-carnitine,1
+aceis,1
+acei/arb,1
+aaz covid-19 rapid test,1
+a vignette intervention,1
+5-ala-phosphate + sfc (5-ala + sfc),1
+60% adoption rate,1
+[18f]fp-r01-mg-f2,1
+[18f]feppa pet scan,1
+[18f]f-arag (2'-deoxy-2'-fluoro-9-β-d-arabinofuranosylguanine),1
+[11c]sl25.1188 pet scan,1
+99mtc-pertechnetate,1
+80% adoption rate,1
+80 ppm nitric oxide delivered through lungfit delivery system,1
+6-min-walk without mask,1
+[89zr]df-iab22m2c pet/ct scan,1
+6-min-walk surgical mask,1
+6-min-walk fpp2,1
+6 point likert scale,1
+6 minutes walk test,1
+50 µg spfn_1b-06-pl + alfq (qs21 adjuvant),1
+5-week prevention program,1
+5-ala-phosphate + sfc (5-ala+sfc),1
+[68ga]ga-dota-(rgd)2 pet/ct,1
+[timp-2]*[igfbp-7],1
+a survey of 60 questions was created through the internet-based 'google forms surveys' site.,1
+"a middle-dose recombinant covid-19 vaccine (cho cell) (18-59 years) at the schedule of day 0, 28, 56",1
+a survey form was applied to individuals included in the study face-to-face.,1
+a survey,1
+a specifically designed self-administered questionnaire,1
+a short video intervention,1
+a questionnaire or scales,1
+a questionnaire and scales.,1
+"a middle-dose recombinant covid-19 vaccine (cho cell) (60-85 years) at the schedule of day 0, 28, 56",1
+"a middle-dose placebo (60-85 years) at the schedule of day 0, 28, 56",1
+a $10 survey incentive,1
+"a middle-dose placebo (18-59 years) at the schedule of day 0, 28, 56",1
+"a high-dose recombinant covid-19 vaccine (cho cell) (60-85 years) at the schedule of day 0, 28, 56",1
+"a high-dose recombinant covid-19 vaccine (cho cell) (18-59 years) at the schedule of day 0, 28, 56",1
+"a high-dose placebo (60-85 years) at the schedule of day 0, 28, 56",1
+"a high-dose placebo (18-59 years) at the schedule of day 0, 28, 56",1
+a 940-nm diode laser,1
+a $20 survey incentive,1
+anxiety reduction training,1
+any drug used to treat covid-19,1
+ap-23,1
+beva+soc,1
+bi 767551 inhaled,1
+bi 767551 inhalation,1
+bi 764198,1
+bge-175,1
+bgb-dxp593,1
+bgb dxp593,1
+bevacizumab,1
+betadine© bucal 100 mg/ml,1
+bidirectional oxygenation mouthpiece,1
+betadine (c) mouth rinse with the solution provided,1
+best supportive care (bsc),1
+best standard of care + cardio,1
+best message alone,1
+best message + augmented message or implementation strategy,1
+best available therapy,1
+best available care,1
+bicalutamide 150 mg,1
+big five inventory (bfi) scale,1
+berberine,1
+biological,1
+biological samples day of delivery,1
+biological samples collection,1
+biological sample and clinical data collection,1
+biological sample,1
+"biological collection with nasopharyngeal samples, saliva, blood, stool and urine",1
+biological collection (patients co infected hiv sras-cov-2),1
+biological assays in particular on the lipid metabolism,1
+biocollection,1
+bio 300 oral suspension,1
+biochemistry blood test,1
+biochemical analysis,1
+biochemical analyses,1
+biobehavioral tele-rehabilitation sessions,1
+biobank,1
+bioarginina®,1
+bio101,1
+bereavement virtual support group,1
+bempegaldesleukin,1
+"biological samples, questionnaires and interviews",1
+baseline message,1
+bbv152b - phase i,1
+bbv152a - phase ii,1
+bbv152a - phase i,1
+bat2020,1
+bat + calcifediol,1
+bat,1
+basic body awareness therapy,1
+baseline disease modifying therapies (dmts),1
+bbv152c - phase i,1
+baseline blood sample,1
+baseline and during hospitalization blood samples,1
+base therapy,1
+baricitinib oral tablet [olumiant],1
+baricitinib or anakinra,1
+baricitinib 4 mg oral tablet,1
+baricitinib + dexamethasone,1
+bbv152b - phase ii,1
+bbv154 vaccine,1
+bemiparin sodium,1
+bedside lung ultrasound,1
+bemcentinib,1
+behaviour change technique intervention to improve quality of life,1
+behavioral: ocat-sham,1
+behavioral: ocat,1
+behavioral economics,1
+behavioral and cognitive assessment,1
+behavioral activation ssi,1
+beck depression inventory (bdi),1
+bcg,1
+beck depression inventory,1
+beck anxiety inventory,1
+bdb-001 injection,1
+bd veritor plus system for rapid detection of sars cov-2,1
+bcg-10 vaccine,1
+bcg vaccine (freeze-dried),1
+bcg group,1
+biological samples specific to research,1
+biological sampling,1
+apabetalone,1
+blood sampling (venesection),1
+bloodwork,1
+blood- and saliva tests,1
+"blood tests sputum, nasal lavage and brushing",1
+blood test for sars-cov2 serology,1
+blood test for inflammatory markers,1
+blood test for igg antibodies against sars-cov-2,1
+blood sampling for biobank,1
+blood sampling (4 per year),1
+bm-mscs,1
+blood samples for the study of the humoral response to sars-cov-2 variants and of the cellular response after vaccination against covid-19,1
+blood samples collection,1
+blood samples (collection of 5 ml of blood in a dry tube),1
+blood sample for whole genome sequencing,1
+blood sample for serology to measure past infection with sars-cov-2,1
+blood sample for serological test,1
+blood sample for seroepidemiological investigation,1
+bm-allo.msc,1
+bms-986253,1
+blood sample and salivary sample,1
+bnt162c2,1
+botulinum neurotoxin,1
+bone marrow mesenchymal stem cell derived extracellular vesicles infusion treatment,1
+bone marrow harvest,1
+bone conduction headphones,1
+bolus vitamin d3,1
+bolus placebo,1
+body position change,1
+bnt162b3,1
+bno 1030,1
+bnt162b2sa,1
+bnt162b2.b.1.351,1
+bnt162b2 vaccine,1
+bnt162b2 mrna covid-19 vaccine,1
+bnt162b2 30mcg,1
+bnt162b2 20mcg,1
+bnt162a1,1
+blood sample collection,1
+blood sample and data record,1
+biological test,1
+biological: spike protein based vaccine such as chadox1 ncov-19 vaccine,1
+biosensors,1
+biopsies of subcutaneous adipose tissue,1
+biomedomics covid-19 igm-igg rapid test,1
+biomarkers of inflammation,1
+biomarkers in the long term impact of coronavirus infection in the cardiorrespiratory system,1
+biomarkers expression,1
+"biomarker (tropt, myoglobin, ck, ck-mb, ldh, d-dimer, crp, pct)",1
+biological: oral polio vaccine,1
+biozek covid-19 antigen rapid test,1
+biological: mrna-1273,1
+biological: covid-19 convalescent plasma,1
+biological/vaccine: recombinant new coronavirus vaccine (cho cells) placebo group,1
+biological/vaccine: recombinant new coronavirus vaccine (cho cells) high-dose group,1
+biological/vaccine: recombinant new coronavirus vaccine (cho cell) low-dose group,1
+biological/vaccine: bnt162b2 10mcg,1
+biological/vaccine: angiotensin peptide (1-7) derived plasma,1
+biovitals,1
+biozek covid-19 antigen rapid test (saliva),1
+blood sample analyses,1
+blood count,1
+blood plasma,1
+blood group determination,1
+blood for research purposes,1
+blood for pharmacokinetic samples,1
+blood for anti-drug antibody (ada),1
+blood donation from convalescent donor,1
+blood d-dimer assay,1
+blood collection via fingerprick,1
+bivalirudin injection,1
+"blood collection at day 8, day 16, day 24, month 6 and month 12 after first symptoms from sars-cov-2 infection",1
+blood and derivatives.,1
+blood analysis,1
+blink and masseter inhibitory reflex,1
+blended gaming covid-19 training system (bgcts),1
+bld-2660,1
+black seed oil cap/tab,1
+baricitinib (janus kinase inhibitor),1
+bariatric procedures,1
+bardoxolone methyl,1
+ashmolean website,1
+assessing the impact of covid-19,1
+"assessing antibody responses, neutralizing capacity and memory b-cell function",1
+assembled mask,1
+aspirin 81 mg,1
+aspirin 75mg,1
+aspirin 100mg,1
+asp,1
+ascorbic acid and zinc gluconate,1
+"assessment of coagulopathy, platelets activation and platelets-neutrophils interplay",1
+asc09f+oseltamivir,1
+asc09/ritonavir group,1
+asbrip,1
+artesunate-amodiaquine,1
+artesunate,1
+arterial blood gas test (abg),1
+arterial blood gas (abg),1
+assessment of cardiovascular diseases and cardiovascular risk factors,1
+assessment of dietary changes in adults in the quarantine,1
+artemisinin / artesunate,1
+assisting to the event,1
+asunercept 400mg,1
+asunercept 25mg,1
+asunercept 100mg,1
+asunercept,1
+astrostem-v,1
+astrazeneca/oxford vaccine,1
+association of diltiazem and niclosamide,1
+assist,1
+assessment of lung mechanics and heart-lung interactions,1
+assigned strategies: opt-in,1
+assigned strategies: enhanced active choice,1
+assigned strategies: active choice,1
+assessment of ventilator-associated pneumonia criteria,1
+assessment of the sequelae after hospitalization for sars-cov-2,1
+assessment of proinflammatory cytokine production and immunophenotypic analysis after stimulation with overlapping s-peptides in peripheral blood mononuclear cells (pbmc),1
+assessment of postnatal depression using the the edinburgh questionnaire between 4 and 6 weeks after delivery,1
+arterial blood gas,1
+artemisinin,1
+balanced amino acid,1
+apremilast placebo,1
+arbs and/or ace inhibitors,1
+arbox,1
+arbidol hydrochloride granules,1
+arbidol 100 mg kapsul,1
+apx-115,1
+aprotinin,1
+aprepitant injectable emulsion,1
+apps,1
+arct-021 dose 1,1
+application of cdss to provide nutritional care in breast cancer patients from home,1
+apple watch series 5,1
+appendicectomy,1
+apo-hydroxychloroquine,1
+apl-9,1
+apixaban 5mg,1
+apilimod dimesylate capsule,1
+arct-021,1
+arct-021 dose 2,1
+artemisia annua leaf,1
+arfc mask,1
+artemic,1
+artemether-lumefantrine (al),1
+artemesia annua,1
+artecom® (pyronaridine-artesunate),1
+art therapy,1
+art,1
+argatroban,1
+ardsnet,1
+arct-021 dose 3,1
+ards and covid19 treatments,1
+arct-021 two lower dose priming,1
+arct-021 two higher dose priming,1
+arct-021 single dose priming,1
+arct-021 dose regimen 2,1
+arct-021 dose regimen 1,1
+arct-021 dose 4,1
+asynchronies detection,1
+asynchronous telerehabilitation programme,1
+at-001,1
+azd7442 (im),1
+azithromycin (azithro),1
+azinc,1
+azd7442 600 mg im (male),1
+azd7442 300 mg iv (male and female),1
+azd7442 300 mg im(male),1
+azd7442 1000 mg iv (male),1
+azd7442 (iv),1
+azd1656,1
+azithromycin / ribaroxaban / paracetamol,1
+ayurvedic kadha,1
+axillary sweat sample,1
+award plus covid-specific advice,1
+award advice,1
+awake prone position,1
+avm0703,1
+aviptadil placebo,1
+azithromycin / ivermectin / ribaroxaban / paracetamol,1
+azithromycin 250 mg,1
+at-100,1
+açaí palm berry extract - natural product,1
+balance assessments,1
+baf312,1
+bactrl-spike,1
+bacterial species isolated,1
+bactek-r,1
+bacmune (mv130),1
+background questionnaire,1
+azvudine placebo,1
+azithromycin 250 mg oral capsule,1
+azvudine,1
+azoximer bromide,1
+azithromycin with amoxicillin/clavulanate,1
+azithromycin capsule,1
+azithromycin and hydroxychloroquine,1
+azithromycin 500mg oral tablet,1
+azithromycin 500 milligram (mg) oral tablet,1
+aviptadil by intravenous infusion + standard of care,1
+aviptadil 67μg,1
+aviptadil,1
+atorvastatin 80mg,1
+atyr1923 3 mg/kg,1
+atyr1923 1 mg/kg,1
+attention control,1
+attendance by ambulance crew,1
+atr-002,1
+atovaquone/azithromycin,1
+atorvastatin-ezetimibe,1
+atorvastatin 40mg,1
+avigan 200 mg ft,1
+atorvastatin 20mg,1
+atorvastatin 20 mg oral tablet,1
+atorvastatin + l-arginine + folic acid + nicorandil + nebivolol,1
+ati-450,1
+atazanavir and dexamethasone,1
+atazanavir,1
+atafenovir 200 mg kapsul,1
+audio-vestibular evaluation,1
+audio-visual triage system (avt),1
+auditory evoked potentials (aep),1
+auricular neuromodulation,1
+avicod 200 mg film tablet,1
+av-001,1
+auxora,1
+autophagy inhibitor (gns651),1
+automated oxygen administration - freeo2,1
+autologous stem cell transplantation,1
+autologous non-hematopoietic peripheral blood stem cells (nhpbsc),1
+autologous hb-admsc's,1
+autologous adipose-derived stem cells,1
+autologous adipose msc's,1
+autologous activated platelet-rich plasma,1
+auto-questionnaires (patients co infected hiv sras-cov-2),1
+auscul-x,1
+auricular stimulation,1
+auricular percutaneous neurostimulation,1
+descartes 30,1
+description of groups caracteristics,1
+desferal 500 mg injection,1
+injectable placebo,1
+inspiratory + expiratory muscle training group,1
+inopulse,1
+ino (inhaled nitric oxide) delivered via the inopulse delivery system,1
+innova lateral flow device,1
+inm005,1
+injection of secretome-mscs,1
+injection and infusion of lv-smenp-dc vaccine and antigen-specific ctls,1
+inhaled type i interferon,1
+inspiratory muscle and exercise training,1
+inhaled supplemental oxygen,1
+inhaled sedation,1
+inhaled nitric oxide gas,1
+inhaled nitric oxide (ino),1
+inhaled iloprost,1
+inhaled hypertonic ibuprofen,1
+inhaled hydroxychloroquine,1
+inspiratory + expiratory muscle training placebo group,1
+inspiratory muscle traiing,1
+inhaled aviptadil,1
+insulin regimen,1
+interferon β-1b,1
+interferon or glatiramer acetate,1
+interferon alfa,1
+intensive care unit admission ratio,1
+intellivent asv,1
+integrated clinical evaluation,1
+insurance navigation,1
+insulin film,1
+inspiratory muscle trainer,1
+insulin,1
+instrumental activities of daily living shaping,1
+instilled t3,1
+inspiratory training device,1
+inspiratory muscle training placebo group,1
+inspiratory muscle training group,1
+inspiratory muscle training,1
+inhaled budesonide,1
+inhalation of n-acetylcysteine,1
+interferon-beta,1
+inc424 / ruxolitinib,1
+indirect calorimetry,1
+independent control,1
+incremental shuttle walk test,1
+increasing willingness and uptake of covid-19 vaccination,1
+increasing willingness and uptake of covid-19 testing and vaccination,1
+incidence of bleeding complications in ards patients on veno-venous ecmo,1
+incentive spirometer/respiratory exerciser,1
+inb03,1
+individualized-chinese herbal medicine,1
+inactive sars-cov-2 vaccine (vero cell),1
+inactivated sars-cov-2 vaccine (vero cell）,1
+inactivated sars cov 2 vaccine (vero cell) wuhan/beijing/placebo,1
+inactivated convalescent plasma,1
+in01 vaccine,1
+in-person postoperative visit,1
+in-person monitoring,1
+individualised ayurveda,1
+indomethacin,1
+"inhalation of 8,4% sodium bicarbonate",1
+informational videos and social media campaigns encouraging cancer screening.,1
+inhalation of 5% sodium chloride,1
+inhalable hydroxychloroquine (hcq),1
+infusion placebo,1
+infusion iv of mesenchymal stem cells,1
+infrared energy and dietary supplement,1
+informed consent,1
+informed,1
+informational sheet,1
+infectious disease and cardiology clinical consultations,1
+information on covid-19,1
+information assigned in community,1
+inflammatory markers sampling,1
+inflammatory cytokines and chemokines profiles of patients with dexmedetomidine administration,1
+inflammation (iii),1
+inflammation (ii),1
+inflammation (i),1
+interferon-alpha2b,1
+interferon-ß-1a,1
+in-hospital mortality rate,1
+investigation of smell and taste disorders,1
+"investigational vaccine against sars-cov-2 [mv-014-212] dosage 3, two doses, intranasal drops",1
+"investigational vaccine against sars-cov-2 [mv-014-212] dosage 3, single dose, intranasal spray",1
+"investigational vaccine against sars-cov-2 [mv-014-212] dosage 3, single dose, intranasal drops",1
+"investigational vaccine against sars-cov-2 [mv-014-212] dosage 2, single dose, intranasal drops",1
+"investigational vaccine against sars-cov-2 [mv-014-212] dosage 1, single dose, intranasal drops",1
+investigational product - viracide,1
+investigation of the prevalence of test positivity,1
+invasive ventilation strategy,1
+iota-carrageenan,1
+invasive mechanical ventilation using the unisabana-herons ventilator during 24 hours,1
+invasive mechanical ventilation,1
+intubation box,1
+intravenous sedation,1
+intravenous saline injection (placebo),1
+intravenous infusions of stem cells,1
+intravenous immunoglobulin therapy,1
+iota carrageenan nasal spray and ivermectin oral drops (used as buccal drops),1
+ip-10 in cds protocol,1
+intravenous immune globulin,1
+isotretinoin (13 cis retinoic acid ) capsules,1
+iv tocillizumab (tcz),1
+iv dexamethasone,1
+iv deployment of csvf in sterile normal saline iv solution,1
+itolizumab iv infusion,1
+it is a survey,1
+isotretinoin(aerosolized 13 cis retinoic acid) +standard treatment,1
+isotretinoin only product in oral dose form,1
+isotonic saline 0.9%,1
+ipss questionnaire,1
+isotonic saline,1
+isoquercetin (iqc-950an),1
+isoprinosine,1
+isoflurane inhalant product,1
+isis 721744,1
+isavuconazonium injection [cresemba],1
+irl201104,1
+intravenous immunoglobulin,1
+intravenous drug,1
+interferon-β 1a,1
+intermediate dose thromboprophylaxis,1
+internet-based self-help after 3 weeks,1
+internet-based self-help,1
+internet-based intervention,1
+internet-based guided self-help based on cbt principles,1
+internet-based cognitive behavioral therapy,1
+internet cognitive behavioral therapy plus chamindwell,1
+intermittent prone positioning instructions,1
+intermediate dose enoxaparin/ unfractionated heparin,1
+interpersonal psychotherapy,1
+interleukin-6 gene-174c detection,1
+interleukin-1 receptor antagonist,1
+interleukin assessment in semen,1
+interleukin 6 (il6) antagonist and corticosteroids,1
+interleukin 6 (il6) antagonist,1
+interleuken 6 level measurment,1
+interferon-β1a,1
+internet-delivered cognitive behavior therapy (icbt) for dysfunctional worry related to the covid-19 pandemic,1
+intervention,1
+intravenous access,1
+interview by psychologists,1
+intraosseous access,1
+intranasal ivermectin spray,1
+intranasal heparin sodium (porcine),1
+intramuscular injection,1
+intradermal injection of bcg vaccine,1
+intracorporeal left hemicolectomy anastomosis,1
+intestinal parasite,1
+"intervention, tbn",1
+intervention app,1
+intervention training:,1
+intervention program,1
+intervention group_rehabilitation program,1
+intervention group coronacope,1
+intervention group,1
+intervention for tecc model,1
+intervention for covid-19 preventive protocols,1
+in-person instruction,1
+in vivo brain pet-tspo acquisitions,1
+desidustat,1
+hydroxychloroquine sulfate &azithromycin,1
+hydroxychloroquine sulfate 600 mg twice a day,1
+hydroxychloroquine sulfate 600 mg once a day,1
+hydroxychloroquine sulfate 400 mg twice a day,1
+hydroxychloroquine sulfate 200 milligram (mg) tab,1
+hydroxychloroquine sulfate + azythromycin,1
+hydroxychloroquine sulfate + azithromycin,1
+hydroxychloroquine sulfate (hcq),1
+hydroxychloroquine sar321068,1
+hydroxychloroquine tablets,1
+hydroxychloroquine pre-exposure prophylaxis,1
+hydroxychloroquine plus standard preventive measures,1
+hydroxychloroquine plus nitazoxanide,1
+hydroxychloroquine placebo,1
+hydroxychloroquine pill,1
+hydroxychloroquine oral product,1
+hydroxychloroquine only product in oral dose form,1
+hydroxychloroquine sulfate tablets plus lopinavir/ ritonavir oral tablets,1
+"hydroxychloroquine, azithromycin",1
+hydroxychloroquine in combination of azithromycin,1
+hyper immunoglobulins containing anti-corona vs2 immunoglobulin,1
+hypertonic saturated saline mouth rinse active arm,1
+hypertension,1
+hyperpolarized xenon-129 mri of the lungs,1
+hyperpolarized xe129,1
+hyperpolarized 129xenon gas,1
+hyperbaric oxygen treatment (hbot) i.e. inhalation of pressurized oxygen delivered by a hyperbaric chamber (drug/device),1
+hyperbaric chamber,1
+hyfe cough tracker,1
+"hydroxychloroquine, clindamycin",1
+hydroxycloroquine and azythromycine,1
+hydroxychloroquine/chloroquine,1
+hydroxychloroquine/azithromycine,1
+"hydroxychloroquine, lopinavir/ritonavir or azithromycin and placebo (standard therapy)",1
+"hydroxychloroquine, doxycycline",1
+"hydroxychloroquine, clindamycin, primaquine - low dose.",1
+"hydroxychloroquine, clindamycin, primaquine - high dose.",1
+hydroxychloroquine in combination with camostat mesylate,1
+hydroxychloroquine combined with azithromycin,1
+hypothermia via cooling machine- arctic sun 5000,1
+hospitalized patients for covid-19 infection,1
+human ezrin peptide 1 (hep1),1
+human cord tissue mesenchymal stromal cells,1
+"human coach first, then virtual assistant",1
+huaier granule,1
+hscore,1
+host immune factors,1
+host genotype,1
+hospitalized children with covid19,1
+human milk donors,1
+hospitalization for premature birth,1
+hospitalization,1
+"hospitalisation, necessity of icu, mortality rate, lung involvement",1
+hospitalisation for sars-cov2 infection,1
+hospital: usual care (uc),1
+hospital: dd-ca,1
+hospital treatment of covid disease,1
+"human fecal microbiota, mbiotix hbi",1
+human normal immunoglobulin (ivig),1
+hydroxychloroquine as post exposure prophylaxis,1
+hydroxychloroquine + azithromycin + / - tocilizumab,1
+hydroxychloroquine and azithromycin treatment arm.,1
+hydroxychloroquine and azithromycin treatment,1
+"hydroxychloroquine , sofosbuvir, daclatasvir",1
+hydroxychloroquine + sorbitol,1
+hydroxychloroquine + placebo,1
+hydroxychloroquine + metabolic cofactor supplementation,1
+hydroxychloroquine + lopinavir/ritonavir,1
+hydroxychloroquine (placebo),1
+human umbilical cord derived cd362 enriched mscs,1
+hydroxychloroquin with azithromycin,1
+"hydrogen-oxygen generator with nebulizer, ams-h-03",1
+hydrogen peroxide (b) mouth rinse with the solution provided,1
+hydrogen oxygen generator with nebulizer,1
+humoral and cellular immunity,1
+humanistic care,1
+human umbilical cord mesenchymal stem cells + best supportive care,1
+hypothermia,1
+"hypoxia : 14.3 and 12.7% fio2, hypercapnia 7% co2, inspiratory mechanical constraint",1
+imunor,1
+imatinib tablets,1
+immune response study,1
+"immune response monitoring , blood samples",1
+immune response characterization,1
+immune plasma,1
+immediate vs. delayed provision of antibody test results,1
+imm-101,1
+imdevimab,1
+imatinib mesylate intravenous solution,1
+immunoformulation,1
+imatinib mesylate,1
+imatinib,1
+"imaging, blood tests",1
+imaging of the lungs,1
+imaging by thoracic scanner,1
+imaging,1
+"ilr, pmk, icd",1
+immunfluorescence,1
+immunofree tablets and reginmune capsule,1
+iloprost,1
+"imp 5,000 plus soc",1
+impulse™ una e-stethoscope,1
+impliminting online distance learning,1
+impact of respiratory isolation on quality of life,1
+impact of event scale-revised,1
+impact of covid-19 questionnaire,1
+impact event score,1
+imp rp2d plus soc,1
+"imp 1,000 plus soc",1
+immunogenicity after first and second dose,1
+immunosuppressive agents,1
+immunosuppressive,1
+immunoseq,1
+immunoglubulins,1
+immunoglobulin of cured patients,1
+immunoglobulin g detection,1
+immunoglobulin,1
+ilr implantation,1
+ili and covid-19 detection,1
+iamp test,1
+icu cockpit software testing,1
+idoine complex,1
+identify sars-cov-2 infection by serology,1
+identification of genetic variants,1
+identification by pcr of the sars-cov-2 virus in samples taken from the fetus,1
+id now™ covid-19 screening test,1
+id now vs. accula,1
+icu recovery + physical therapy,1
+icosapent ethyl (ipe),1
+ifn beta-1a,1
+ice swimming,1
+icatibant,1
+"ic14, a monoclonal antibody against cd14",1
+ic14,1
+ibuprofen,1
+ibudilast,1
+"ib10 sphingotest® bio-adm® apparatus (sphingotec gmbh, hennigsdorf, germany)",1
+ier-r (posttraumatic stress),1
+igg,1
+il-12 plasmid,1
+iibr-100 high-dose (prime-boost),1
+iiv4 for the 1st dose and ppv23 for the 2nd dose,1
+iief-5 questionnaire,1
+"iibr-100, low dose (prime)",1
+iibr-100 top-dose (prime-boost),1
+iibr-100 medium-dose (prime-boost),1
+iibr-100 medium dose (prime),1
+iibr-100 low-dose (prime-boost),1
+iibr-100 high-dose (prime),1
+igg antibodies immunoassay,1
+igm and igg diagnostic kits to sars-cov-2,1
+igm and igg antibodies assay,1
+igiv,1
+igg test,1
+igg sars cov2,1
+igg sars cov 2 antibodies,1
+igg neutralising antibody titers to s1 and s2 proteins of sars-cov-2 virus,1
+ivermectin (iver p®) arm will receive ivm 600 µg / kg once daily plus standard care. control arm will receive standard care.,1
+ivermectin (ivm),1
+ivermectin + doxycycline,1
+machine learning/ai algorithm,1
+mailer-based finger-prick,1
+magnetic resonance spectroscopy (mrs).,1
+magnetic resonance imaging,1
+magec spine rod,1
+maf capsules 148 mg,1
+macrolide administered for up to 14 days,1
+macrolide administered for 3-5 days,1
+machine learning model,1
+makair,1
+machine learning classification of recurrence and non-recurrence,1
+machine learning classification of parenchymal lung change cause,1
+machine learning,1
+machine based evaluation,1
+m capsules 148 mg,1
+lyt-100,1
+lymphocyte monocyte ratio,1
+maintenance or reduction of immunosuppression,1
+male sexual health questionnaire (mshq),1
+ly3127804,1
+maraviroc+favipiravir+ct,1
+mask without mask adhesive / arm 2,1
+mask with mask adhesive/arm 1,1
+mask,1
+masitinib,1
+"masimo, lidco",1
+mas825,1
+marker therapeutics d2000 cartridge (d2000) for use with the spectra optia® apheresis system (optia spd protocol),1
+maraviroc experimental group,1
+management of covid-19,1
+maraviroc 300 mg,1
+maraviroc + currently used therapy,1
+maraviroc,1
+manual acupuncture,1
+manremyc,1
+mannitol,1
+management strategy of outpatient with mild to moderate sars-cov-2 pneumonia,1
+ly3853113,1
+lus twelve area,1
+maslach burnout inventory (mbi),1
+low-dose placebo (60-85 years) & three dose regimen,1
+low-dose recombinant sars-cov-2 vaccine (cho cell),1
+low-dose recombinant covid-19 vaccine (sf9 cells) (60-85 years) & two dose regimen,1
+low-dose recombinant covid-19 vaccine (sf9 cells) (60-85 years) & three dose regimen,1
+low-dose recombinant covid-19 vaccine (sf9 cells) (18-59 years) & two dose regimen,1
+low-dose recombinant covid-19 vaccine (sf9 cells) (18-59 years) & three dose regimen,1
+low-dose radiotherapy,1
+low-dose placebo (60-85 years) & two dose regimen,1
+low-dose placebo (18-59 years) & two dose regimen,1
+low-intensity aerobic training,1
+low-dose placebo (18-59 years) & three dose regimen,1
+low-dose chest ct,1
+low-concentration essential oil,1
+low tailored message plus covid-19 vaccine message,1
+low tailored message,1
+low peep - fio2 low,1
+low peep - fio2 high,1
+low-field thoracic magnetic stimulation (lf-thms),1
+low-intensity psychosocial interventions through telemental health,1
+lus fourteen area,1
+lung function test,1
+lungfit™,1
+lung ultrasound use in patients hospitalized with covid,1
+lung ultrasonography,1
+lung mechanics at different peep,1
+lung low dose radiation,1
+lung impedance technique,1
+lung function tests,1
+lung ct scan analysis in covid-19 patients,1
+low-intensity remote patient monitoring (rpm-low),1
+lung ct,1
+lung biopsy,1
+lucinactant,1
+"ltx-109 gel, 3%",1
+lsalt peptide,1
+lower-dose prophylactic anticoagulation,1
+low-molecular-weight heparin,1
+masked saline placebo,1
+maslach burnout inventory questionnair,1
+ivermectin + doxycycline + placebo,1
+mental health student,1
+mesenchymal stem cells transplantation,1
+mesenchymal stem cells derived from wharton jelly of umbilical cords,1
+mesenchymal stem cell therapy,1
+mesenchymal cells,1
+merimepodib,1
+"menthol 0.02%, methyl salicylate 0.05%, n- acetyl cysteine 1.2 gm%, and diclofenac sodium 1gm%",1
+mental imagery,1
+mental health questionnaire,1
+mesenchymal stromal cells infusion,1
+mencare+/bandebereho fathers'/couples' group education,1
+menacwy vaccine,1
+menacwy single dose + paracetamol,1
+menacwy prime & saline placebo boost + paracetamol,1
+menacwy boost,1
+menacwy,1
+membrane-based immunoassay kit,1
+mesenchymal stromal cell-based therapy,1
+mesenchymal stromal stem cells - ki-msc-pl-205,1
+melatonin intravenous,1
+methylene blue,1
+"methylprednisolone, placebo",1
+methylprednisolone therapy,1
+methylprednisolone injection,1
+methylprednisolone injectable product,1
+methylprednisolone 80 mg/ml injectable suspension,1
+methylene-blue photodisinfection,1
+methylene blue 5 mg/ml,1
+methotrexate-lde phase 2,1
+mesencure,1
+methotrexate-lde phase 1,1
+metformin extended release oral tablet,1
+metenkefalin + tridecactide,1
+metaneb® system,1
+messaging informed by construal level theory,1
+messaging,1
+message directing subjects to information on covid-19 vaccine safety and efficacy,1
+melphalan,1
+melatonin 2mg,1
+massive parallel sequencing of host genome,1
+measles-mumps-rubella vaccine,1
+mechanical ventilation with the automated bvm compressor,1
+mechanical ventilation,1
+mechanical trombectomy,1
+measurement of sublingual microcirculation,1
+measurement of respiratory muscle force,1
+measurement of oxygen saturation,1
+measurement of circulating sflt1 concentration,1
+"mcn (methylene blue, vitamin c, n-acetyl cysteine)",1
+media intervention,1
+mcgrath videolaryngoscope,1
+mcc ims,1
+maximal effort test,1
+maternal stress,1
+maternal sars-cov-2 infection,1
+"maternal attachment, edinburgh depression scoring and postpartum anxiety scale scores",1
+matched placebo hydroxychloroquine,1
+mechanical ventilator settings and position,1
+medical consultation,1
+mejoracare,1
+meditation app usage,1
+mefloquine as a prophylaxis against sars-cov-2 infection in household contacts of covid 19 confirmed cases,1
+mefloquine + azithromycin + / - tocilizumab,1
+mefloquine,1
+medium dose prednisolone,1
+medium dosage inactivated sars-cov-2 vaccine on a 0- and 14-day schedule,1
+medium chain triglyceride oil,1
+meditation therapy,1
+meditation and anxiety reduction training,1
+medical follow-up,1
+medication review,1
+medical research council (mrc) dyspnea scale,1
+medical record review - inpatient treatment,1
+medical record review,1
+medical ozone procedure,1
+medical music,1
+medical mask,1
+low or upper respiratory tract sample,1
+low molecular weight heparin as standard of care treatment,1
+low intensity nudges,1
+laboratory and instrumental examination,1
+lactobacillus,1
+labs,1
+laboratory tests,1
+laboratory test positive for sars-cov-2 virus,1
+laboratory samples,1
+laboratory blood tests,1
+laboratory biomarkers,1
+laboratory analyses,1
+lactobaciltus rhamnosus gg placebo,1
+lab workup (on admission and regularly during follow up).,1
+l. reuteri dsm 17938 + vitamin d,1
+kundalini yoga and anxiety reduction training,1
+kukaa salama: mhealth intervention,1
+koçak-19 inaktif adjuvanlı covid-19 vaccine 6 µg/0.5 ml vaccine,1
+koçak-19 inaktif adjuvanlı covid-19 vaccine 4 µg/0.5 ml vaccine,1
+knownow sars-cov-2 rapid antigen test,1
+lactobaciltus rhamnosus gg,1
+lactoferrin (apolactoferrin),1
+kir phenotype evaluation,1
+lateral position (left and right lateral decubitus),1
+"lenalidomide as a 5 mg capsule po daily, days 1, 3, and 5.",1
+learning running subcuticular sutures on the gamified educational network,1
+leaf-4l6715,1
+lb1148,1
+lay telephone coaching,1
+laughter theraphy,1
+lau-7b,1
+late-dexamethasone,1
+"lactoferrin, green tea extract",1
+late dexamethazone,1
+laparoscopic or open appendicectomy,1
+laparoscopic appendectomy,1
+lanadelumab placebo,1
+lamp,1
+lambda 180 mcg s.c,1
+lactose monohydrate,1
+"knowledge, attitude, practice, awareness, preference",1
+kinesiotherapy protocol,1
+low flow ecmo driving by cvvh machine,1
+"ivermectin 5 mg/ml oral solution, dexamethasone 4-mg injection, aspirin 250 mg tablets",1
+ivermectin nasal,1
+ivermectin injectable solution,1
+ivermectin impregnated mask,1
+ivermectin and doxycyline,1
+ivermectin 6 mg oral tablet (2 tablets),1
+ivermectin 6 mg oral tablet,1
+"ivermectin 5 mg/ml oral solution, dexamethasone 4-mg injection, enoxaparin injection. inpatient treatment with mechanical ventilation in icu.",1
+"ivermectin 5 mg/ml oral solution, aspirin 250 mg tablets",1
+ivermectin oral tablets or sublingual waffles,1
+ivermectin 3mg tab,1
+ivermectin 3 mg,1
+ivermectin 1.0mg/kg/day,1
+ivermectin 0.6mg/kg/day,1
+ivermectin 0.4mg/kg/day for 5 days,1
+ivermectin / iota-carrageenan,1
+ivermectin + placebo,1
+ivermectin oral,1
+ivermectin plus nitazoxanide,1
+kevzara sc,1
+kan jang capsules,1
+ketotifen 1 mg,1
+ketogenic diet with phytoextracts,1
+ketamine,1
+kelea excellerated water,1
+kds-1000,1
+kb109 + self supportive care,1
+kaplan meier analysis,1
+kamada anti-sars-cov-2,1
+ivermectin powder,1
+kaletra and beta interferon,1
+js016 (anti-sars-cov-2 monoclonal antibody),1
+jnj-78436735,1
+"jinhua qinggan (jhqg) granules, traditional chinese medicine",1
+janus kinase inhibitor (ruxolitinib),1
+izephyr hood,1
+ixekizumab,1
+less-frequency hemodialysis,1
+let it out (lio)-c,1
+leukapheresis,1
+lopinavir and ritonavir,1
+lopinavir/ritonavir 200 mg-50 mg oral tablet,1
+lopinavir/ritonavir + hydoxychloroquine,1
+lopinavir/ ritonavir placebo,1
+lopinavir/ ritonavir oral tablet,1
+lopinavir/ ritonavir and remdesivir combination,1
+lopinavir-ritonavir drug combination,1
+lopinavir and ritonavir tablets,1
+lopinavir 200mg/ritonavir 50mg tab,1
+lopinavir/ritonavir 200 mg/50 mg film tablet,1
+lopinavir 200 mg / ritonavir 50 mg [kaletra],1
+"lopinavir / ritonavir, alpha-interferon nebulization,abidor hydrochloride",1
+lopinavir / ritonavir tablets combined with xiyanping injection,1
+lopinavir,1
+longeveron mesenchymal stem cells (lmscs),1
+longcovidkidsdk,1
+longan nasal spray,1
+lopinavir/ritonavir 200 mg/50 mg film coated tablet,1
+lopinavir/ritonavir 400 mg/100 mg,1
+leukotriene receptor antagonist,1
+low dose (10 mg) control,1
+"""calm"" is a mindfulness meditation mobile app",1
+low dose radiation therapy (ld-rt),1
+low dose radiation 35 cgy,1
+low dose prednisolone,1
+low dose of kbp-covid-19,1
+low dose low molecular weight heparin or placebo,1
+low dose interferon-beta 1a,1
+low dosage inactivated sars-cov-2 vaccine on a 0- and 14-day schedule,1
+lopinavir/ritonavir group,1
+lovenox 40 mg in 0.4 ml prefilled syringe,1
+lottery incentive,1
+loss protection,1
+losmapimod oral tablet,1
+losartan 50 mg and spironolactone 25 mg pillules oral use,1
+lopinavir/ritonavir treatment,1
+lopinavir/ritonavir tablets or arbidol or chloroquine phosphate,1
+lock-down and social distancing,1
+local standard of care,1
+lmwh,1
+lidocaine,1
+lifestyle (exercise),1
+lifesignals biosensor 1ax*,1
+lifelight® data collect oxygen saturation group,1
+lifelight® data collect blood pressure group,1
+life2000® ventilator,1
+life questionnaires,1
+lidocaine 2%,1
+licorice extract,1
+"liver, lung, heart and kidney biopsy",1
+licensed seasonal influenza vaccine,1
+licensed covid-19 vaccine,1
+liberase enzyme (roche),1
+lianhua qingwen,1
+levilimab,1
+levamisole pill + budesonide+formoterol inhaler,1
+levamisole,1
+lifestyle (meditation),1
+lifestyle change promotion program,1
+lifestyle program,1
+lift,1
+liver injury,1
+"liver function tests ,serum ferritin and pcr for covid-19 .",1
+liver function tests,1
+liu-wei-di-huang formula,1
+listerine zero mouthwash product,1
+liquid alpha1-proteinase inhibitor (human),1
+liposomal lactoferrin,1
+linagliptin tablet,1
+linagliptin 5 mg,1
+linagliptin,1
+limbix spark,1
+lilly bamlanivimab + etesevimab,1
+lilly bamlanivimab,1
+ligilactobacillus salivarius mp101,1
+lift mindfulness,1
+hospital telemedicine management system,1
+hospital standard of care for covid-19,1
+hospital bedroom booking,1
+enhanced response team,1
+enoxaparin prophylactic dose,1
+enoxaparin prefilled syringe [lovenox],1
+enoxaparin higher dose,1
+enoxaparin 40mg/0.4ml inj syringe 0.4ml,1
+enoxaparin 1 mg/kg,1
+eno breathe group,1
+enisamium iodide,1
+enhanced hygiene measures,1
+enoxaparin/lovenox intermediate dose,1
+enhanced follow through message,1
+enduring happiness and continued self-enhancement (enhance) for covid-19,1
+endothelial protocol,1
+endothelial damage and angiogenic biomarkers,1
+endoscopic procedure,1
+endoscopic management according to standard of care,1
+endoscopic intervention,1
+enoxaparin sodium,1
+enriched survey feedback,1
+emtricitabine/tenofovir disoproxil fumarate 200 mg-245 mg oral tablet [truvada],1
+ep,1
+eproms assessment,1
+epigenetic analyses,1
+epidemiology of admissions,1
+epidemiological and demographic characteristics,1
+epic risk score display,1
+epi-net intervention,1
+epds (edinburgh postnatal depression scale),1
+enzalutamide pill,1
+ensifentrine dose 1,1
+enzalutamide,1
+environmental exposure and clinical features,1
+entrée: interpersonal skills,1
+entrée: cognitive skills,1
+entrée: behavioral skills,1
+ent exam,1
+ensoetm device,1
+encephalography measurement,1
+emtricitabine/tenofovir disoproxil,1
+eq001 placebo,1
+electronic portable aromatic rehabilitation (epar) diffuser,1
+elmo project at covid-19: proof of concept and usability,1
+elispot: detection of the t cells specific to different sars-cov-2 proteins,1
+elisa-test for igm and igg to sars-cov-2,1
+elisa and rapid test to detect antibodies against covid-19,1
+electronic survey questionnaire,1
+electronic survey,1
+electronic stethoscope,1
+electrolytes,1
+eltrombopag,1
+electroencephalogram with ekg lead,1
+"electrocardiography ,tomographic imaging",1
+"electrocardiogram, transthoracic echocardiography and clinico-biological parameters in routine care",1
+"electrocardiogram, telemetry, echocardiogram, laboratory values",1
+electrocardiogram (ecg),1
+electro impedance tomography,1
+electrical stimulation - sham,1
+elmo project at covid-19: study in humans,1
+ema + automated text message intervention,1
+emtricitabine/tenofovir alafenamide 200 mg-25 mg oral tablet,1
+emotion regulation training via telehealth,1
+emtricitabine/tenofovir,1
+emricasan,1
+emphasis of government involvement,1
+emphasis of academic researchers involvement,1
+emotional support plan,1
+emotional freedom techniques (eft),1
+emotional freedom technique,1
+emergency ventilator splitter,1
+ema alone,1
+emergency surgical procedures,1
+emergency surgery,1
+emergency laparotomy,1
+emergency general surgical admissions,1
+emdr,1
+embarrassment message,1
+emapalumab,1
+eq001,1
+equine covid-19 antiserum,1
+face mask,1
+experimental: active care group,1
+exposure to covid19,1
+exposure to covid-19,1
+exposure (not intervention) - sars-cov-2 infection,1
+exposed to the novel coronavirus disease 2019,1
+expiratory training device,1
+experts consensus,1
+experimental: questionnaire without precaution information,1
+experimental drug,1
+exposure to the dutch measures due to the covid-19 pandemic.,1
+experimental,1
+experiences in close relationship scale questionnaire (ecr-s),1
+experience resolution methodology (erm),1
+experience of pandemic,1
+expanded hemodialysis for covid19 maintenance hemodialysis patients,1
+exogenous surfactant,1
+exo-cd24,1
+"exposure to telemedicine, after the onset of the pandemic",1
+"exposure to the fics annual meeting (june 9-11 2021, paris congress center)",1
+exercise training group,1
+extra-cvd virtual care,1
+eye movement desensitisation and reprocessing recent traumatic event protocol,1
+extravascular lung water index,1
+extraoral vacuum aspirator (eva),1
+extract psidii guava,1
+extracorporeal membrane oxygenation,1
+extracorporeal left hemicolectomy anastomosis,1
+extracorporeal blood purification using the oxiris® (an69st) hemofilter,1
+extra blood sample,1
+exposure to the sars-cov-2,1
+external evacuation device (eed),1
+extended sampling and procedures,1
+expression of receptors and activating proteases,1
+exposure: positive covid-19 infection,1
+exposure: negative covid-19 infection,1
+exposure: covid-19 infection,1
+exposure to the sars-cov-2 and its consequences,1
+exg-5003,1
+exercise test ecg,1
+equipment with smartwatch throughout hospital stay on the general ward,1
+esophageal catheter,1
+estradiol patch,1
+estradiol cypionate 5 mg/ml,1
+estetrol monohydrate 15 mg,1
+essential oils,1
+essential oil blend,1
+essential amino acids,1
+essence oils,1
+esoger,1
+ethanol with asprin,1
+escola l'horitzó,1
+escola john talabot,1
+escin,1
+erucov-vac 6 µg/0.5 ml vaccine,1
+erucov-vac 3 µg/0.5 ml vaccine,1
+erucov-vac,1
+eritoran,1
+estrogen therapy,1
+etoposide,1
+exercise program,1
+ex vivo expanded wharton's jelly mesenchymal stem cells,1
+exercise physiology,1
+exercise manual,1
+exercise booklet,1
+exebacase,1
+exchange blood transfusion from normal donor,1
+examine the impact of covid-19 during pregnancy,1
+examinations for the research:,1
+evaluation of the immunogenicity of the vaccine in haemodialysis patients,1
+eucorvac-19,1
+evaluation of the epidemiological characteristics of coronavirus infection (sars-cov-2),1
+evaluation of skin microvascular flow and reactivity,1
+"evaluation of clinical, instrumental and laboratory diagnostics tests",1
+evaluation of changes in the diagnostic-therapeutic pathway for patients affected by pancreatic cancer,1
+evaluation,1
+evaluate hacor score effectivity in this patients,1
+euroimmun assay,1
+electrical stimulation,1
+electrical impedance tomography (eit),1
+electrical impedance tomography,1
+digital oximeter monitoring,1
+dipyridamole,1
+diphenhydramine,1
+dimethyl fumarate,1
+digivis visual acuity app,1
+digital storytelling intervention,1
+digital social activity video intervention,1
+digital problem solving tool,1
+digital health online platform,1
+dipyridamole er 200mg/ aspirin 25mg orally/enterally and standard of care,1
+digital cardiac counseling,1
+dig tilted,1
+dig axial,1
+diffusing capacity of carbon monoxide,1
+difficulties lived by disabled children's parents in the period of covid-19 pandemic,1
+differential leucocyte count (cldc) device and algorithm,1
+differences in triage,1
+dipyridamole 100 milligram(mg),1
+direct antigen tests for covid-19,1
+dietary supplement containing resistant starch,1
+distribution of free face masks,1
+dornase alfa inhalation solution,1
+dornase alfa,1
+doppler echo,1
+doctorgram patient kit,1
+doctor spot,1
+doctella telehealth monitoring,1
+dociparstat sodium,1
+distilled water with the same colorant as the experimental product,1
+direct laryngoscope,1
+dissemination and implementation research,1
+disease-modifying antirheumatic drugs (dmards),1
+discussion board for social support+personalized feedback,1
+discussion board for social support +basic feedback,1
+discontinuation of arb/acei,1
+discontinuation of acei/arb,1
+direct laryngoscopy,1
+dietary supplementation in patients with covid disease admitted to hospital,1
+dietary supplement,1
+electric pad for human external pain therapy,1
+device: physiomer undiluted seawater nasal spray,1
+dexmedetomidine injectable product,1
+dexcom g6,1
+dexamethasone oral,1
+dexamethasone low dose,1
+dexamethasone high dose,1
+dexamethasone and hydroxychloroquine,1
+dexamethasone 2 mg/ml,1
+device used to record voice for screening,1
+diabetes type 2,1
+determination of sars-cov2 presence in cns,1
+"determination of physical activity, quality of life, stress levels of isolated people at home with the danger of coronavirus.",1
+determination of cyp2c19 genotype,1
+determination of covid-19 vacciantion efficacy,1
+detection of oral lesions,1
+detection of anti-covid-19 antibody level,1
+desmond,1
+dfv890,1
+diabetter together,1
+dietary intervention,1
+diagnostic tests for covid-19 infection,1
+"dietary counselling on food groups according to iyc feeding practices, who",1
+diet tracking and survey,1
+diet and sun exposure,1
+dianose,1
+dialyzable leukocyte extract,1
+dialysis,1
+dialectical behavioral therapy (dbt) skills,1
+diagnostic tests,1
+"diagnosis of sars-cov2 by rt-pcr and : igg, ig m serologies in the amniotoc fluid, the blood cord and the placenta",1
+diagnostic test:blood test,1
+diagnostic test: serology test for covid-19,1
+diagnostic test for sars-cov2 for patients and health staff,1
+diagnostic test for detection of sars-cov-2,1
+diagnostic test covid-19,1
+diagnostic examination for venous thromboembolism,1
+diagnostic,1
+dose finding phase (mtd),1
+double gloves,1
+double-blind nt-i7,1
+echo-doppler,1
+edoxaban tablets,1
+edinburgh postnatal depression scale (edps),1
+edinburgh postnatal depression scale,1
+economic freedom message,1
+economic benefit message,1
+ecmo implantation,1
+echocardiogram 2d,1
+ecg-holter,1
+educational meetings and visual prompts,1
+ecg from handheld device,1
+ecco2r,1
+eca-ace vaccination promotion intervention,1
+eating habits,1
+eat-26 questionnaire,1
+easycov poc,1
+earsats pulse oximeter probe,1
+education sessions,1
+educational program (cartoon),1
+double-blind placebo,1
+ehealth for covid-19 prevention and support,1
+elective cancer surgery,1
+elecsys semi-quantitative anti-sars-cov-2 antibody test,1
+"elecsys anti-sars-cov-2 s (roche diagnostics gmbh, mannheim, germany), 2) access sars-cov-2 igg ii (beckman coulter, inc. usa)",1
+ejaculated semen sample,1
+eit-group,1
+eicosapentaenoic acid gastro-resistant capsules,1
+ei open ended pre-survey and semi structured interview,1
+ehealth +counselling contacts,1
+educational video,1
+ehealth,1
+eg-hpcp-03a placebo,1
+eg-hpcp-03a,1
+eeg based protocol for deep sedation,1
+eeg,1
+"educational, culturally appropriate covid-19 messages",1
+educational vocal health modules,1
+early rehabilitation,1
+early occupational therapy,1
+early definitive treatment,1
+drug: isotretinoin plus tamoxifen,1
+drugs and supportive care,1
+drug: standard treatment standard treatment,1
+drug: na-831 - 0.20 mg/kg,1
+drug: na-831 - 0.10 mg/kg,1
+drug: na-831,1
+drug: isotretinoin(aerosolized 13 cis retinoic acid) plus aerosolized itraconazole,1
+drug: isotretinoin(aerosolized 13 cis retinoic acid),1
+drug: gs-5734 - 2.00 mg/kg,1
+early access,1
+drug: gs-5734 - 1.00 mg/kg,1
+drug isotretinoin (13 cis retinoic acid ) capsules+standard treatment,1
+drug covid19-0001-usr,1
+dried blood spot and venous blood collection,1
+draw blood,1
+doxycycline hcl,1
+doxycyclin,1
+drugs: na-831 (0.10 mg/kg) plus gs-5734 (1.00 mg/kg),1
+drugs: na-831 (0.20 mg/kg) plus gs-5734 (2.00 mg/kg),1
+dräger antigen test sars-cov-2,1
+ds-5670a,1
+e-psychotherapy,1
+e-ink screen,1
+dysphagia handicap index (dhi),1
+dysautonomia,1
+dwj1248 with remdesivir,1
+dvx201,1
+duty frame,1
+dutasteride 0.5 mg,1
+during covid-19 pandemic,1
+"duration of hospitalization, mortality rate",1
+dur-928,1
+duplex ultrasound and computed tomography angiography,1
+duplex sonography,1
+dupilumab,1
+duact,1
+f-652,1
+face mask + soap,1
+hospital anxiety depression scale,1
+habit,1
+hbcc project and soap,1
+hb-admsc,1
+handwashing stations at the public places and no soap,1
+hads questionnaire,1
+hads,1
+had5-sfusion+ n-etsd (oral capsule),1
+had5-s-fusion+n-etsd (suspension for injection),1
+gx-i7 vehicle,1
+hcq & az,1
+gx-19,1
+gustatory and olfactory function test,1
+guilt message,1
+guided online support program,1
+guduchi ghanvati,1
+gt0918 tablets or placebo,1
+gse and xylitol,1
+hcfwo,1
+hcq & az vs hcq+sir,1
+growth mindset ssi,1
+healthcare providers' communication about the covid-19 vaccine,1
+heat therapy,1
+heart rate variability biofeedback,1
+heart patch seeded with autologous cardiomyocytes and amnion epithelial stem cells,1
+healthy minds program foundations training,1
+healthy lifestyle advise,1
+healthcare workers with the coronavac vaccine,1
+healthcare worker focused outreach,1
+health-related quality of life,1
+hcq+azt,1
+health warning leaflet,1
+health questionnaire,1
+health enhancement program,1
+health care worker survey,1
+hd-tdcs 4ma,1
+hd-tdcs 2ma,1
+hcq01,1
+gs-441524,1
+growth hormone,1
+helmet cpap,1
+glycomic analysis,1
+graded exercise test,1
+"gps reports of potential patient safety incidents, non-covid-19 related",1
+gown personal protective equipment (ppe-g) suit,1
+gossip intervention,1
+go2 peep mouthpiece,1
+gns561,1
+gm-csf,1
+glycaemic levels,1
+grocery store gift cards,1
+glutamine,1
+glucose tablets,1
+glucose control and sensor usage,1
+gls-5310,1
+gls-1200,1
+gls-1027,1
+global survey,1
+gratitude,1
+group 1,1
+group1,1
+group b (placebo),1
+group hydroxychloroquine and apixaban,1
+group hydroxychloroquine,1
+group d:placebo oropharyngeal spray + placebo taken po,1
+group c:active principle oropharyngeal spray + placebo taken po,1
+group b: placebo oropharyngeal spray + active principle immunostimulant,1
+group b control,1
+group b (sample collection),1
+group b (ag0302-covid19),1
+group 1: rivaroxaban 20mg/d followed by enoxaparin/unfractionated heparin when needed,1
+group apixaban,1
+group a: oropharygeal spray and immunostimulant,1
+group a hcq,1
+group a (sample collection),1
+group a (placebo),1
+group a (ag0302-covid19),1
+group 2: control group with enoxaparin 40mg/d,1
+helmet continuous positive airway pressure (cpap),1
+helmet niv,1
+face mask awareness,1
+high-titer convalescent covid-19 plasma (ccp1),1
+hlx70,1
+hiv,1
+hit-exercise,1
+history of exposure to anti-cd20 treatment since 01/01/2010,1
+hip arthropalsty,1
+hiking challenge,1
+high-titer covid-19 convalescent plasma (ht-ccp),1
+high-titer anti-sars-cov-2 plasma,1
+hmsc,1
+high-titer anti-sars-cov-2 (covid 19) convalescent plasma,1
+high-intensity remote patient monitoring (rpm-high),1
+high-intensity aerobic training with high protein diet,1
+high-flow nasal cannula treatment,1
+high-dose recombinant sars-cov-2 vaccine (cho cell),1
+high-dose recombinant covid-19 vaccine (sf9 cells) (60-85 years) & two dose regimen,1
+high-dose recombinant covid-19 vaccine (sf9 cells) (60-85 years) & three dose regimen,1
+hlx71,1
+hmw-ha,1
+high-dose recombinant covid-19 vaccine (sf9 cells) (18-59 years) & three dose regimen,1
+home-based stretching and strengthening exercise,1
+hospital anxiety depression measure,1
+hospital anxiety and depression scale,1
+hospital admission,1
+"hormone levels (testosterone, fsh, lh, prolactin)",1
+hope intervention,1
+home-use test and follow-up questionnaire,1
+home-cov rule implementation,1
+home-based sars-cov-2 test kit,1
+home care monitoring,1
+home-based exercise training,1
+home-based exercise,1
+home spirometry,1
+home sleep apnea testing or in-hospital polysomnography,1
+home sample collection of concerning mole with physician supervision,1
+home pulse oximetry monitoring,1
+home exercise,1
+high-dose recombinant covid-19 vaccine (sf9 cells) (18-59 years) & two dose regimen,1
+high-dose placebo (60-85 years) & two dose regimen,1
+helmet non-invasive ventilation,1
+hepatitis a vaccine,1
+high dosage inactivated sars-cov-2 vaccine on a 0- and 14-day schedule,1
+hidroxicloroquina,1
+hfno,1
+hfb30132a,1
+heterologous stimuli,1
+hesperidin and diosmin mixture,1
+hesperidin,1
+heparin sc,1
+high dose interferon-beta 1a,1
+heparin infusion,1
+heparin - therapeutic dosage,1
+heparin - prophylactic dosage,1
+hemopurifier,1
+hemodynamics changes at different peep,1
+hemodialysis by protein-leaking dialyzer for covid19 maintenance hemodialysis patients,1
+hematology blood test,1
+high dose corticosteroid,1
+high dose of kbp-covid-19,1
+high-dose placebo (60-85 years) & three dose regimen,1
+high peep with end inspiratory pause,1
+high-dose placebo (18-59 years) & two dose regimen,1
+high-dose placebo (18-59 years) & three dose regimen,1
+high-dose dexamethasone,1
+high-concentration essential oil,1
+high volume evacuation (hve),1
+high touch multi-pronged behavioral intervention,1
+high peep without end inspiratory pause,1
+high intensity interval training group,1
+high dose radiation 100 cgy,1
+high intensity activities,1
+high flow nasal therapy,1
+high flow nasal oxygen (hfno) treatment,1
+high flow nasal oxygen (hfno),1
+high flow nasal cannula hfnc,1
+high flow nasal cannula device,1
+high flow nasal cannula,1
+global longitudinal strain,1
+glenzocimab,1
+gimsilumab,1
+fibromyalgia impact questionnaire,1
+financial incentives,1
+filtration test,1
+filmarray pneumonia,1
+filmarray pcr on respiratory samples,1
+filling in an online survey,1
+filiform needles,1
+file inquiry,1
+fibrin generation markers assays,1
+fingertip tests for poc assays,1
+fibreoptic endoscopic evaluation of swallowing (fees),1
+fiberoptic bronchoscopy (fob),1
+ffp3 respirator,1
+"ffp2\n95 protective face mask (musk protective technology, gaziantep, turkey)",1
+ffp2 respirator,1
+ffp2,1
+ffp,1
+fingerstick,1
+fingolimod 0.5 mg,1
+fenofibrate/fenofibric acid,1
+flucelvax,1
+fnc dummy tablet+standard of care,1
+fmd,1
+fluzone high dose,1
+fluvoxamine maleate 100 mg [luvox],1
+fluvirin,1
+fluoxetine tablets,1
+fluorescein,1
+flu shot,1
+five-days oseltamivir,1
+flow cytometry: detection of the sars-cov-2 specific t-helpers and cytotoxic t lymphocytes,1
+flow cytometry,1
+flow controlled ventilation (evone-ventilator),1
+flavor test,1
+fixed-duration hydrocortisone,1
+fixed-duration higher dose hydrocortisone,1
+fixed site standard of care testing,1
+ferinject,1
+feeling good digital app,1
+giga-2050,1
+faeces samples,1
+fast dissolving film,1
+farmalarm,1
+famotidine 20 milligram tablet,1
+famotidine 20 mg,1
+familychildcare (provisional name of app),1
+family risk messaging,1
+family nurture intervention (fni),1
+faecal sample collector,1
+favicovir (standard treatment),1
+facial mask,1
+facial fractures reduction or osteosynthesis,1
+facebook ads on the importance of staying safe during the thanksgiving / christmas holiday,1
+face-to-face rehabilitation,1
+face-to-face consultation,1
+face-mask niv,1
+face mask sampling,1
+fatigue severity scale,1
+favicovir 200 mg film tablet,1
+feces samples (covi-biome ancillary study),1
+favipiravir tablets,1
+fecal and oral samples,1
+fb2001 placebo,1
+fb2001,1
+favorable outcome,1
+favira 200 mg film tablet,1
+favir 200 mg ft,1
+favipiravir tablets+chloroquine phosphatetablets tablets,1
+favipiravir plus nitazoxanide,1
+favipiravir (3200 mg + 1200 mg),1
+favipiravir combined with tocilizumab,1
+favipiravir and hydroxychloroquine,1
+favipiravir + standard of care,1
+favipiravir + currently used therapy,1
+favipiravir (3600 mg + 1600 mg),1
+favipiravir (3200 mg + 1200 mg) combined with hydroxychloroquine,1
+favipiravir (3200 mg + 1200 mg) combined with azithromycin,1
+fnc+standard of care,1
+focus group discussions,1
+focused/targeted message,1
+gastroscopy in transnasal techique,1
+gbp510 adjuvanted with alum (rbd 25μg/dose)- stage 2,1
+gbp510 adjuvanted with alum (rbd 25μg/dose) - stage 1,1
+gbp510 adjuvanted with alum (rbd 10μg/dose) - stage 2,1
+gbp510 adjuvanted with alum (rbd 10μg/dose) - stage 1,1
+gbp510 (rbd 25μg/dose)- stage 2,1
+gbp510 (rbd 25μg/dose) - stage 1,1
+gbp510 (rbd 10μg/dose) - stage 1,1
+gastrointestinal endoscopy,1
+gbp510 adjuvanted with as03 (rbd 10μg/dose) - stage 2,1
+gastric cancer surgery,1
+gas exchanges at different peep,1
+gas exchange measurement,1
+gargle/mouthwash,1
+"garadacimab, factor xiia antagonist monoclonal antibody",1
+ganovo+ritonavir+/-interferon nebulization,1
+gamunex-c,1
+gbp510 adjuvanted with as03 (rbd 10μg/dose) - stage 1,1
+gbp510 adjuvanted with as03 (rbd 25μg/dose) - stage 1,1
+folic acid,1
+general public cohort,1
+geneva emotional competence test (geco),1
+genetic blood collection,1
+genetic,1
+generic best practices,1
+generalized anxiety disorder-7 (gad-7),1
+generalized anxiety disorder-7 (gad 7),1
+general recommendation,1
+general messages,1
+gbp510 adjuvanted with as03 (rbd 25μg/dose)- stage 2,1
+general lifestyle advice to breast cancer patients by phone,1
+general health education,1
+general communication message,1
+gender concordant,1
+geko t3,1
+gc5131,1
+gc4419,1
+gammacore® sapphire (non-invasive vagus nerve stimulator),1
+gammacore® (vagus nerve stimulation),1
+gamification,1
+food diary,1
+frequency,1
+freestyle libre 14 day cgm system,1
+fp-025 300 mg,1
+fp-025 100 mg,1
+foy-305,1
+fotv,1
+fosmanogepix,1
+fondaparinux,1
+gam-covid-vac lyo,1
+fondapariniux,1
+follow-up visit,1
+follow-up phone call,1
+follow-up of patients with covid-19,1
+follow-up based,1
+follow-up at 14 days,1
+follow up calls,1
+fresh start,1
+fsd201,1
+fsfi survey,1
+ft516,1
+galidesivir,1
+gad-7 general anxiety disorder scale,1
+gad-7 (generalized anxiety disorder) scale (post containment),1
+gad-7 (generalized anxiety disorder) scale (during containment),1
+gad-7 (general anxiety disorder) scale,1
+gad-7 (7-item generalized anxiety disorder),1
+fx06,1
+further processing of health data,1
+furfat,1
+fungal rhinosinusitis,1
+functional mri,1
+fultium® -d3 800,1
+full vepmp intervention,1
+full spectrum cbd oil,1
+fulfilling questionaires,1
+оxygen therapy,1

@@ -1,0 +1,36 @@
+
+The count of all the possible interventions applied to 5956 covid19 trials (found in clinicaltrials.gov) as of 20210616 by their type:
+Drug                   3002
+Other                  2019
+Biological             1093
+                        920
+Diagnostic Test         737
+Behavioral              595
+Device                  408
+Dietary Supplement      209
+Procedure               197
+Combination Product      76
+Radiation                31
+Genetic                  21
+note that one trial can include multiple different interventions
+
+You can find all the trial id and the intervention in this file: ../output/studies/covid19_20210616_interventions.csv
+
+The count of all the possible unique interventions by their type:
+InterventionType
+Drug                   1583
+Other                  1360
+Biological              739
+Diagnostic Test         651
+Behavioral              558
+Device                  379
+Procedure               173
+Dietary Supplement      155
+Combination Product      73
+Radiation                22
+Genetic                  21
+                          1
+
+The unique 5484 intervention terms are listed in the file ../output/covid19_20210616_unique_intervention_terms_only.csv
+
+The unique intervention terms and type combinations (e.g. Placebo is listed in different types like Drug, Biological, Other) are listed in the file ../output/covid19_20210616_unique_interventions_with_type.csv
